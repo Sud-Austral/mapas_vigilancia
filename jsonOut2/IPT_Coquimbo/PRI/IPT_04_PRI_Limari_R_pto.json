@@ -1,0 +1,1224 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.17759407676411,
+          -30.549582168701935
+        ]
+      },
+      "properties": {
+        "REG": "Coquimbo",
+        "COM": "",
+        "LOC": "Provincia de Limar\u00ed",
+        "ZONA": "ZR-RV",
+        "NOM": "ZR-RV \u00c1rea de Riesgo por Relaves Mineros",
+        "UPERM": "Las normas urban\u00edsticas aplicables se se\u00f1alan en las Disposiciones Transitorias de la Ordenanza, y \u00e9stas aplicar\u00e1n supletoriamente toda vez que corresponden a materias propias del \u00e1mbito de la planificaci\u00f3n urbana comunal.",
+        "UPROH": "Las normas urban\u00edsticas aplicables se se\u00f1alan en las Disposiciones Transitorias de la Ordenanza, y \u00e9stas aplicar\u00e1n supletoriamente toda vez que corresponden a materias propias del \u00e1mbito de la planificaci\u00f3n urbana comunal.",
+        "P_DO": "26-08-2015",
+        "N_DOC": "119",
+        "T_DO": "Resoluci\u00f3n",
+        "OBS": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.46932704300204,
+          -30.86188245079475
+        ]
+      },
+      "properties": {
+        "REG": "Coquimbo",
+        "COM": "",
+        "LOC": "Provincia de Limar\u00ed",
+        "ZONA": "ZR-RV",
+        "NOM": "ZR-RV \u00c1rea de Riesgo por Relaves Mineros",
+        "UPERM": "Las normas urban\u00edsticas aplicables se se\u00f1alan en las Disposiciones Transitorias de la Ordenanza, y \u00e9stas aplicar\u00e1n supletoriamente toda vez que corresponden a materias propias del \u00e1mbito de la planificaci\u00f3n urbana comunal.",
+        "UPROH": "Las normas urban\u00edsticas aplicables se se\u00f1alan en las Disposiciones Transitorias de la Ordenanza, y \u00e9stas aplicar\u00e1n supletoriamente toda vez que corresponden a materias propias del \u00e1mbito de la planificaci\u00f3n urbana comunal.",
+        "P_DO": "26-08-2015",
+        "N_DOC": "119",
+        "T_DO": "Resoluci\u00f3n",
+        "OBS": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.91094618163866,
+          -31.076019944251602
+        ]
+      },
+      "properties": {
+        "REG": "Coquimbo",
+        "COM": "",
+        "LOC": "Provincia de Limar\u00ed",
+        "ZONA": "ZR-RV",
+        "NOM": "ZR-RV \u00c1rea de Riesgo por Relaves Mineros",
+        "UPERM": "Las normas urban\u00edsticas aplicables se se\u00f1alan en las Disposiciones Transitorias de la Ordenanza, y \u00e9stas aplicar\u00e1n supletoriamente toda vez que corresponden a materias propias del \u00e1mbito de la planificaci\u00f3n urbana comunal.",
+        "UPROH": "Las normas urban\u00edsticas aplicables se se\u00f1alan en las Disposiciones Transitorias de la Ordenanza, y \u00e9stas aplicar\u00e1n supletoriamente toda vez que corresponden a materias propias del \u00e1mbito de la planificaci\u00f3n urbana comunal.",
+        "P_DO": "26-08-2015",
+        "N_DOC": "119",
+        "T_DO": "Resoluci\u00f3n",
+        "OBS": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.01585707216788,
+          -30.821816417296663
+        ]
+      },
+      "properties": {
+        "REG": "Coquimbo",
+        "COM": "",
+        "LOC": "Provincia de Limar\u00ed",
+        "ZONA": "ZR-RV",
+        "NOM": "ZR-RV \u00c1rea de Riesgo por Relaves Mineros",
+        "UPERM": "Las normas urban\u00edsticas aplicables se se\u00f1alan en las Disposiciones Transitorias de la Ordenanza, y \u00e9stas aplicar\u00e1n supletoriamente toda vez que corresponden a materias propias del \u00e1mbito de la planificaci\u00f3n urbana comunal.",
+        "UPROH": "Las normas urban\u00edsticas aplicables se se\u00f1alan en las Disposiciones Transitorias de la Ordenanza, y \u00e9stas aplicar\u00e1n supletoriamente toda vez que corresponden a materias propias del \u00e1mbito de la planificaci\u00f3n urbana comunal.",
+        "P_DO": "26-08-2015",
+        "N_DOC": "119",
+        "T_DO": "Resoluci\u00f3n",
+        "OBS": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.59012499382276,
+          -30.820603831881066
+        ]
+      },
+      "properties": {
+        "REG": "Coquimbo",
+        "COM": "",
+        "LOC": "Provincia de Limar\u00ed",
+        "ZONA": "ZR-RV",
+        "NOM": "ZR-RV \u00c1rea de Riesgo por Relaves Mineros",
+        "UPERM": "Las normas urban\u00edsticas aplicables se se\u00f1alan en las Disposiciones Transitorias de la Ordenanza, y \u00e9stas aplicar\u00e1n supletoriamente toda vez que corresponden a materias propias del \u00e1mbito de la planificaci\u00f3n urbana comunal.",
+        "UPROH": "Las normas urban\u00edsticas aplicables se se\u00f1alan en las Disposiciones Transitorias de la Ordenanza, y \u00e9stas aplicar\u00e1n supletoriamente toda vez que corresponden a materias propias del \u00e1mbito de la planificaci\u00f3n urbana comunal.",
+        "P_DO": "26-08-2015",
+        "N_DOC": "119",
+        "T_DO": "Resoluci\u00f3n",
+        "OBS": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.56069053183491,
+          -30.807386061190908
+        ]
+      },
+      "properties": {
+        "REG": "Coquimbo",
+        "COM": "",
+        "LOC": "Provincia de Limar\u00ed",
+        "ZONA": "ZR-RV",
+        "NOM": "ZR-RV \u00c1rea de Riesgo por Relaves Mineros",
+        "UPERM": "Las normas urban\u00edsticas aplicables se se\u00f1alan en las Disposiciones Transitorias de la Ordenanza, y \u00e9stas aplicar\u00e1n supletoriamente toda vez que corresponden a materias propias del \u00e1mbito de la planificaci\u00f3n urbana comunal.",
+        "UPROH": "Las normas urban\u00edsticas aplicables se se\u00f1alan en las Disposiciones Transitorias de la Ordenanza, y \u00e9stas aplicar\u00e1n supletoriamente toda vez que corresponden a materias propias del \u00e1mbito de la planificaci\u00f3n urbana comunal.",
+        "P_DO": "26-08-2015",
+        "N_DOC": "119",
+        "T_DO": "Resoluci\u00f3n",
+        "OBS": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.5810429724093,
+          -30.84410503873372
+        ]
+      },
+      "properties": {
+        "REG": "Coquimbo",
+        "COM": "",
+        "LOC": "Provincia de Limar\u00ed",
+        "ZONA": "ZR-RV",
+        "NOM": "ZR-RV \u00c1rea de Riesgo por Relaves Mineros",
+        "UPERM": "Las normas urban\u00edsticas aplicables se se\u00f1alan en las Disposiciones Transitorias de la Ordenanza, y \u00e9stas aplicar\u00e1n supletoriamente toda vez que corresponden a materias propias del \u00e1mbito de la planificaci\u00f3n urbana comunal.",
+        "UPROH": "Las normas urban\u00edsticas aplicables se se\u00f1alan en las Disposiciones Transitorias de la Ordenanza, y \u00e9stas aplicar\u00e1n supletoriamente toda vez que corresponden a materias propias del \u00e1mbito de la planificaci\u00f3n urbana comunal.",
+        "P_DO": "26-08-2015",
+        "N_DOC": "119",
+        "T_DO": "Resoluci\u00f3n",
+        "OBS": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.48074272850174,
+          -30.91393846810113
+        ]
+      },
+      "properties": {
+        "REG": "Coquimbo",
+        "COM": "",
+        "LOC": "Provincia de Limar\u00ed",
+        "ZONA": "ZR-RV",
+        "NOM": "ZR-RV \u00c1rea de Riesgo por Relaves Mineros",
+        "UPERM": "Las normas urban\u00edsticas aplicables se se\u00f1alan en las Disposiciones Transitorias de la Ordenanza, y \u00e9stas aplicar\u00e1n supletoriamente toda vez que corresponden a materias propias del \u00e1mbito de la planificaci\u00f3n urbana comunal.",
+        "UPROH": "Las normas urban\u00edsticas aplicables se se\u00f1alan en las Disposiciones Transitorias de la Ordenanza, y \u00e9stas aplicar\u00e1n supletoriamente toda vez que corresponden a materias propias del \u00e1mbito de la planificaci\u00f3n urbana comunal.",
+        "P_DO": "26-08-2015",
+        "N_DOC": "119",
+        "T_DO": "Resoluci\u00f3n",
+        "OBS": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.22473270511878,
+          -30.85873809648337
+        ]
+      },
+      "properties": {
+        "REG": "Coquimbo",
+        "COM": "",
+        "LOC": "Provincia de Limar\u00ed",
+        "ZONA": "ZR-RV",
+        "NOM": "ZR-RV \u00c1rea de Riesgo por Relaves Mineros",
+        "UPERM": "Las normas urban\u00edsticas aplicables se se\u00f1alan en las Disposiciones Transitorias de la Ordenanza, y \u00e9stas aplicar\u00e1n supletoriamente toda vez que corresponden a materias propias del \u00e1mbito de la planificaci\u00f3n urbana comunal.",
+        "UPROH": "Las normas urban\u00edsticas aplicables se se\u00f1alan en las Disposiciones Transitorias de la Ordenanza, y \u00e9stas aplicar\u00e1n supletoriamente toda vez que corresponden a materias propias del \u00e1mbito de la planificaci\u00f3n urbana comunal.",
+        "P_DO": "26-08-2015",
+        "N_DOC": "119",
+        "T_DO": "Resoluci\u00f3n",
+        "OBS": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.68063824376028,
+          -30.909093857281874
+        ]
+      },
+      "properties": {
+        "REG": "Coquimbo",
+        "COM": "",
+        "LOC": "Provincia de Limar\u00ed",
+        "ZONA": "ZR-RV",
+        "NOM": "ZR-RV \u00c1rea de Riesgo por Relaves Mineros",
+        "UPERM": "Las normas urban\u00edsticas aplicables se se\u00f1alan en las Disposiciones Transitorias de la Ordenanza, y \u00e9stas aplicar\u00e1n supletoriamente toda vez que corresponden a materias propias del \u00e1mbito de la planificaci\u00f3n urbana comunal.",
+        "UPROH": "Las normas urban\u00edsticas aplicables se se\u00f1alan en las Disposiciones Transitorias de la Ordenanza, y \u00e9stas aplicar\u00e1n supletoriamente toda vez que corresponden a materias propias del \u00e1mbito de la planificaci\u00f3n urbana comunal.",
+        "P_DO": "26-08-2015",
+        "N_DOC": "119",
+        "T_DO": "Resoluci\u00f3n",
+        "OBS": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.59780268274753,
+          -31.12200630852791
+        ]
+      },
+      "properties": {
+        "REG": "Coquimbo",
+        "COM": "",
+        "LOC": "Provincia de Limar\u00ed",
+        "ZONA": "ZR-RV",
+        "NOM": "ZR-RV \u00c1rea de Riesgo por Relaves Mineros",
+        "UPERM": "Las normas urban\u00edsticas aplicables se se\u00f1alan en las Disposiciones Transitorias de la Ordenanza, y \u00e9stas aplicar\u00e1n supletoriamente toda vez que corresponden a materias propias del \u00e1mbito de la planificaci\u00f3n urbana comunal.",
+        "UPROH": "Las normas urban\u00edsticas aplicables se se\u00f1alan en las Disposiciones Transitorias de la Ordenanza, y \u00e9stas aplicar\u00e1n supletoriamente toda vez que corresponden a materias propias del \u00e1mbito de la planificaci\u00f3n urbana comunal.",
+        "P_DO": "26-08-2015",
+        "N_DOC": "119",
+        "T_DO": "Resoluci\u00f3n",
+        "OBS": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.81015052621758,
+          -81.84864667519004
+        ]
+      },
+      "properties": {
+        "REG": "Coquimbo",
+        "COM": "",
+        "LOC": "Provincia de Limar\u00ed",
+        "ZONA": "ZR-RV",
+        "NOM": "ZR-RV \u00c1rea de Riesgo por Relaves Mineros",
+        "UPERM": "Las normas urban\u00edsticas aplicables se se\u00f1alan en las Disposiciones Transitorias de la Ordenanza, y \u00e9stas aplicar\u00e1n supletoriamente toda vez que corresponden a materias propias del \u00e1mbito de la planificaci\u00f3n urbana comunal.",
+        "UPROH": "Las normas urban\u00edsticas aplicables se se\u00f1alan en las Disposiciones Transitorias de la Ordenanza, y \u00e9stas aplicar\u00e1n supletoriamente toda vez que corresponden a materias propias del \u00e1mbito de la planificaci\u00f3n urbana comunal.",
+        "P_DO": "26-08-2015",
+        "N_DOC": "119",
+        "T_DO": "Resoluci\u00f3n",
+        "OBS": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.14427618706733,
+          -30.879204686469524
+        ]
+      },
+      "properties": {
+        "REG": "Coquimbo",
+        "COM": "",
+        "LOC": "Provincia de Limar\u00ed",
+        "ZONA": "ZR-RV",
+        "NOM": "ZR-RV \u00c1rea de Riesgo por Relaves Mineros",
+        "UPERM": "Las normas urban\u00edsticas aplicables se se\u00f1alan en las Disposiciones Transitorias de la Ordenanza, y \u00e9stas aplicar\u00e1n supletoriamente toda vez que corresponden a materias propias del \u00e1mbito de la planificaci\u00f3n urbana comunal.",
+        "UPROH": "Las normas urban\u00edsticas aplicables se se\u00f1alan en las Disposiciones Transitorias de la Ordenanza, y \u00e9stas aplicar\u00e1n supletoriamente toda vez que corresponden a materias propias del \u00e1mbito de la planificaci\u00f3n urbana comunal.",
+        "P_DO": "26-08-2015",
+        "N_DOC": "119",
+        "T_DO": "Resoluci\u00f3n",
+        "OBS": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.7412704281234,
+          -85.57469174776216
+        ]
+      },
+      "properties": {
+        "REG": "Coquimbo",
+        "COM": "",
+        "LOC": "Provincia de Limar\u00ed",
+        "ZONA": "ZR-RV",
+        "NOM": "ZR-RV \u00c1rea de Riesgo por Relaves Mineros",
+        "UPERM": "Las normas urban\u00edsticas aplicables se se\u00f1alan en las Disposiciones Transitorias de la Ordenanza, y \u00e9stas aplicar\u00e1n supletoriamente toda vez que corresponden a materias propias del \u00e1mbito de la planificaci\u00f3n urbana comunal.",
+        "UPROH": "Las normas urban\u00edsticas aplicables se se\u00f1alan en las Disposiciones Transitorias de la Ordenanza, y \u00e9stas aplicar\u00e1n supletoriamente toda vez que corresponden a materias propias del \u00e1mbito de la planificaci\u00f3n urbana comunal.",
+        "P_DO": "26-08-2015",
+        "N_DOC": "119",
+        "T_DO": "Resoluci\u00f3n",
+        "OBS": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.95004440473612,
+          -30.70636165493204
+        ]
+      },
+      "properties": {
+        "REG": "Coquimbo",
+        "COM": "",
+        "LOC": "Provincia de Limar\u00ed",
+        "ZONA": "ZR-RV",
+        "NOM": "ZR-RV \u00c1rea de Riesgo por Relaves Mineros",
+        "UPERM": "Las normas urban\u00edsticas aplicables se se\u00f1alan en las Disposiciones Transitorias de la Ordenanza, y \u00e9stas aplicar\u00e1n supletoriamente toda vez que corresponden a materias propias del \u00e1mbito de la planificaci\u00f3n urbana comunal.",
+        "UPROH": "Las normas urban\u00edsticas aplicables se se\u00f1alan en las Disposiciones Transitorias de la Ordenanza, y \u00e9stas aplicar\u00e1n supletoriamente toda vez que corresponden a materias propias del \u00e1mbito de la planificaci\u00f3n urbana comunal.",
+        "P_DO": "26-08-2015",
+        "N_DOC": "119",
+        "T_DO": "Resoluci\u00f3n",
+        "OBS": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -154.5104662345561,
+          -85.52199547008908
+        ]
+      },
+      "properties": {
+        "REG": "Coquimbo",
+        "COM": "",
+        "LOC": "Provincia de Limar\u00ed",
+        "ZONA": "ZR-RV",
+        "NOM": "ZR-RV \u00c1rea de Riesgo por Relaves Mineros",
+        "UPERM": "Las normas urban\u00edsticas aplicables se se\u00f1alan en las Disposiciones Transitorias de la Ordenanza, y \u00e9stas aplicar\u00e1n supletoriamente toda vez que corresponden a materias propias del \u00e1mbito de la planificaci\u00f3n urbana comunal.",
+        "UPROH": "Las normas urban\u00edsticas aplicables se se\u00f1alan en las Disposiciones Transitorias de la Ordenanza, y \u00e9stas aplicar\u00e1n supletoriamente toda vez que corresponden a materias propias del \u00e1mbito de la planificaci\u00f3n urbana comunal.",
+        "P_DO": "26-08-2015",
+        "N_DOC": "119",
+        "T_DO": "Resoluci\u00f3n",
+        "OBS": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.99155799362498,
+          -30.450076980232783
+        ]
+      },
+      "properties": {
+        "REG": "Coquimbo",
+        "COM": "",
+        "LOC": "Provincia de Limar\u00ed",
+        "ZONA": "ZR-RV",
+        "NOM": "ZR-RV \u00c1rea de Riesgo por Relaves Mineros",
+        "UPERM": "Las normas urban\u00edsticas aplicables se se\u00f1alan en las Disposiciones Transitorias de la Ordenanza, y \u00e9stas aplicar\u00e1n supletoriamente toda vez que corresponden a materias propias del \u00e1mbito de la planificaci\u00f3n urbana comunal.",
+        "UPROH": "Las normas urban\u00edsticas aplicables se se\u00f1alan en las Disposiciones Transitorias de la Ordenanza, y \u00e9stas aplicar\u00e1n supletoriamente toda vez que corresponden a materias propias del \u00e1mbito de la planificaci\u00f3n urbana comunal.",
+        "P_DO": "26-08-2015",
+        "N_DOC": "119",
+        "T_DO": "Resoluci\u00f3n",
+        "OBS": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -154.85840018278122,
+          -85.37544344548552
+        ]
+      },
+      "properties": {
+        "REG": "Coquimbo",
+        "COM": "",
+        "LOC": "Provincia de Limar\u00ed",
+        "ZONA": "ZR-RV",
+        "NOM": "ZR-RV \u00c1rea de Riesgo por Relaves Mineros",
+        "UPERM": "Las normas urban\u00edsticas aplicables se se\u00f1alan en las Disposiciones Transitorias de la Ordenanza, y \u00e9stas aplicar\u00e1n supletoriamente toda vez que corresponden a materias propias del \u00e1mbito de la planificaci\u00f3n urbana comunal.",
+        "UPROH": "Las normas urban\u00edsticas aplicables se se\u00f1alan en las Disposiciones Transitorias de la Ordenanza, y \u00e9stas aplicar\u00e1n supletoriamente toda vez que corresponden a materias propias del \u00e1mbito de la planificaci\u00f3n urbana comunal.",
+        "P_DO": "26-08-2015",
+        "N_DOC": "119",
+        "T_DO": "Resoluci\u00f3n",
+        "OBS": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.16470214703163,
+          -30.463956416692962
+        ]
+      },
+      "properties": {
+        "REG": "Coquimbo",
+        "COM": "",
+        "LOC": "Provincia de Limar\u00ed",
+        "ZONA": "ZR-RV",
+        "NOM": "ZR-RV \u00c1rea de Riesgo por Relaves Mineros",
+        "UPERM": "Las normas urban\u00edsticas aplicables se se\u00f1alan en las Disposiciones Transitorias de la Ordenanza, y \u00e9stas aplicar\u00e1n supletoriamente toda vez que corresponden a materias propias del \u00e1mbito de la planificaci\u00f3n urbana comunal.",
+        "UPROH": "Las normas urban\u00edsticas aplicables se se\u00f1alan en las Disposiciones Transitorias de la Ordenanza, y \u00e9stas aplicar\u00e1n supletoriamente toda vez que corresponden a materias propias del \u00e1mbito de la planificaci\u00f3n urbana comunal.",
+        "P_DO": "26-08-2015",
+        "N_DOC": "119",
+        "T_DO": "Resoluci\u00f3n",
+        "OBS": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -156.11240211079115,
+          -85.20926534499893
+        ]
+      },
+      "properties": {
+        "REG": "Coquimbo",
+        "COM": "",
+        "LOC": "Provincia de Limar\u00ed",
+        "ZONA": "ZR-RV",
+        "NOM": "ZR-RV \u00c1rea de Riesgo por Relaves Mineros",
+        "UPERM": "Las normas urban\u00edsticas aplicables se se\u00f1alan en las Disposiciones Transitorias de la Ordenanza, y \u00e9stas aplicar\u00e1n supletoriamente toda vez que corresponden a materias propias del \u00e1mbito de la planificaci\u00f3n urbana comunal.",
+        "UPROH": "Las normas urban\u00edsticas aplicables se se\u00f1alan en las Disposiciones Transitorias de la Ordenanza, y \u00e9stas aplicar\u00e1n supletoriamente toda vez que corresponden a materias propias del \u00e1mbito de la planificaci\u00f3n urbana comunal.",
+        "P_DO": "26-08-2015",
+        "N_DOC": "119",
+        "T_DO": "Resoluci\u00f3n",
+        "OBS": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.36772729130824,
+          -30.553896650689364
+        ]
+      },
+      "properties": {
+        "REG": "Coquimbo",
+        "COM": "",
+        "LOC": "Provincia de Limar\u00ed",
+        "ZONA": "ZR-RV",
+        "NOM": "ZR-RV \u00c1rea de Riesgo por Relaves Mineros",
+        "UPERM": "Las normas urban\u00edsticas aplicables se se\u00f1alan en las Disposiciones Transitorias de la Ordenanza, y \u00e9stas aplicar\u00e1n supletoriamente toda vez que corresponden a materias propias del \u00e1mbito de la planificaci\u00f3n urbana comunal.",
+        "UPROH": "Las normas urban\u00edsticas aplicables se se\u00f1alan en las Disposiciones Transitorias de la Ordenanza, y \u00e9stas aplicar\u00e1n supletoriamente toda vez que corresponden a materias propias del \u00e1mbito de la planificaci\u00f3n urbana comunal.",
+        "P_DO": "26-08-2015",
+        "N_DOC": "119",
+        "T_DO": "Resoluci\u00f3n",
+        "OBS": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.24600099287137,
+          -30.836126260453227
+        ]
+      },
+      "properties": {
+        "REG": "Coquimbo",
+        "COM": "",
+        "LOC": "Provincia de Limar\u00ed",
+        "ZONA": "ZR-RV",
+        "NOM": "ZR-RV \u00c1rea de Riesgo por Relaves Mineros",
+        "UPERM": "Las normas urban\u00edsticas aplicables se se\u00f1alan en las Disposiciones Transitorias de la Ordenanza, y \u00e9stas aplicar\u00e1n supletoriamente toda vez que corresponden a materias propias del \u00e1mbito de la planificaci\u00f3n urbana comunal.",
+        "UPROH": "Las normas urban\u00edsticas aplicables se se\u00f1alan en las Disposiciones Transitorias de la Ordenanza, y \u00e9stas aplicar\u00e1n supletoriamente toda vez que corresponden a materias propias del \u00e1mbito de la planificaci\u00f3n urbana comunal.",
+        "P_DO": "26-08-2015",
+        "N_DOC": "119",
+        "T_DO": "Resoluci\u00f3n",
+        "OBS": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.25781515131264,
+          -30.838008789206913
+        ]
+      },
+      "properties": {
+        "REG": "Coquimbo",
+        "COM": "",
+        "LOC": "Provincia de Limar\u00ed",
+        "ZONA": "ZR-RV",
+        "NOM": "ZR-RV \u00c1rea de Riesgo por Relaves Mineros",
+        "UPERM": "Las normas urban\u00edsticas aplicables se se\u00f1alan en las Disposiciones Transitorias de la Ordenanza, y \u00e9stas aplicar\u00e1n supletoriamente toda vez que corresponden a materias propias del \u00e1mbito de la planificaci\u00f3n urbana comunal.",
+        "UPROH": "Las normas urban\u00edsticas aplicables se se\u00f1alan en las Disposiciones Transitorias de la Ordenanza, y \u00e9stas aplicar\u00e1n supletoriamente toda vez que corresponden a materias propias del \u00e1mbito de la planificaci\u00f3n urbana comunal.",
+        "P_DO": "26-08-2015",
+        "N_DOC": "119",
+        "T_DO": "Resoluci\u00f3n",
+        "OBS": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.2449639757773,
+          -30.861273368722145
+        ]
+      },
+      "properties": {
+        "REG": "Coquimbo",
+        "COM": "",
+        "LOC": "Provincia de Limar\u00ed",
+        "ZONA": "ZR-RV",
+        "NOM": "ZR-RV \u00c1rea de Riesgo por Relaves Mineros",
+        "UPERM": "Las normas urban\u00edsticas aplicables se se\u00f1alan en las Disposiciones Transitorias de la Ordenanza, y \u00e9stas aplicar\u00e1n supletoriamente toda vez que corresponden a materias propias del \u00e1mbito de la planificaci\u00f3n urbana comunal.",
+        "UPROH": "Las normas urban\u00edsticas aplicables se se\u00f1alan en las Disposiciones Transitorias de la Ordenanza, y \u00e9stas aplicar\u00e1n supletoriamente toda vez que corresponden a materias propias del \u00e1mbito de la planificaci\u00f3n urbana comunal.",
+        "P_DO": "26-08-2015",
+        "N_DOC": "119",
+        "T_DO": "Resoluci\u00f3n",
+        "OBS": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.23395344096662,
+          -30.86522442249523
+        ]
+      },
+      "properties": {
+        "REG": "Coquimbo",
+        "COM": "",
+        "LOC": "Provincia de Limar\u00ed",
+        "ZONA": "ZR-RV",
+        "NOM": "ZR-RV \u00c1rea de Riesgo por Relaves Mineros",
+        "UPERM": "Las normas urban\u00edsticas aplicables se se\u00f1alan en las Disposiciones Transitorias de la Ordenanza, y \u00e9stas aplicar\u00e1n supletoriamente toda vez que corresponden a materias propias del \u00e1mbito de la planificaci\u00f3n urbana comunal.",
+        "UPROH": "Las normas urban\u00edsticas aplicables se se\u00f1alan en las Disposiciones Transitorias de la Ordenanza, y \u00e9stas aplicar\u00e1n supletoriamente toda vez que corresponden a materias propias del \u00e1mbito de la planificaci\u00f3n urbana comunal.",
+        "P_DO": "26-08-2015",
+        "N_DOC": "119",
+        "T_DO": "Resoluci\u00f3n",
+        "OBS": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.16768760688124,
+          -30.894399406754932
+        ]
+      },
+      "properties": {
+        "REG": "Coquimbo",
+        "COM": "",
+        "LOC": "Provincia de Limar\u00ed",
+        "ZONA": "ZR-RV",
+        "NOM": "ZR-RV \u00c1rea de Riesgo por Relaves Mineros",
+        "UPERM": "Las normas urban\u00edsticas aplicables se se\u00f1alan en las Disposiciones Transitorias de la Ordenanza, y \u00e9stas aplicar\u00e1n supletoriamente toda vez que corresponden a materias propias del \u00e1mbito de la planificaci\u00f3n urbana comunal.",
+        "UPROH": "Las normas urban\u00edsticas aplicables se se\u00f1alan en las Disposiciones Transitorias de la Ordenanza, y \u00e9stas aplicar\u00e1n supletoriamente toda vez que corresponden a materias propias del \u00e1mbito de la planificaci\u00f3n urbana comunal.",
+        "P_DO": "26-08-2015",
+        "N_DOC": "119",
+        "T_DO": "Resoluci\u00f3n",
+        "OBS": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.15586102732668,
+          -31.087206953248188
+        ]
+      },
+      "properties": {
+        "REG": "Coquimbo",
+        "COM": "",
+        "LOC": "Provincia de Limar\u00ed",
+        "ZONA": "ZR-RV",
+        "NOM": "ZR-RV \u00c1rea de Riesgo por Relaves Mineros",
+        "UPERM": "Las normas urban\u00edsticas aplicables se se\u00f1alan en las Disposiciones Transitorias de la Ordenanza, y \u00e9stas aplicar\u00e1n supletoriamente toda vez que corresponden a materias propias del \u00e1mbito de la planificaci\u00f3n urbana comunal.",
+        "UPROH": "Las normas urban\u00edsticas aplicables se se\u00f1alan en las Disposiciones Transitorias de la Ordenanza, y \u00e9stas aplicar\u00e1n supletoriamente toda vez que corresponden a materias propias del \u00e1mbito de la planificaci\u00f3n urbana comunal.",
+        "P_DO": "26-08-2015",
+        "N_DOC": "119",
+        "T_DO": "Resoluci\u00f3n",
+        "OBS": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.15890385242076,
+          -31.094332220796662
+        ]
+      },
+      "properties": {
+        "REG": "Coquimbo",
+        "COM": "",
+        "LOC": "Provincia de Limar\u00ed",
+        "ZONA": "ZR-RV",
+        "NOM": "ZR-RV \u00c1rea de Riesgo por Relaves Mineros",
+        "UPERM": "Las normas urban\u00edsticas aplicables se se\u00f1alan en las Disposiciones Transitorias de la Ordenanza, y \u00e9stas aplicar\u00e1n supletoriamente toda vez que corresponden a materias propias del \u00e1mbito de la planificaci\u00f3n urbana comunal.",
+        "UPROH": "Las normas urban\u00edsticas aplicables se se\u00f1alan en las Disposiciones Transitorias de la Ordenanza, y \u00e9stas aplicar\u00e1n supletoriamente toda vez que corresponden a materias propias del \u00e1mbito de la planificaci\u00f3n urbana comunal.",
+        "P_DO": "26-08-2015",
+        "N_DOC": "119",
+        "T_DO": "Resoluci\u00f3n",
+        "OBS": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.1617257465024,
+          -31.11203623011879
+        ]
+      },
+      "properties": {
+        "REG": "Coquimbo",
+        "COM": "",
+        "LOC": "Provincia de Limar\u00ed",
+        "ZONA": "ZR-RV",
+        "NOM": "ZR-RV \u00c1rea de Riesgo por Relaves Mineros",
+        "UPERM": "Las normas urban\u00edsticas aplicables se se\u00f1alan en las Disposiciones Transitorias de la Ordenanza, y \u00e9stas aplicar\u00e1n supletoriamente toda vez que corresponden a materias propias del \u00e1mbito de la planificaci\u00f3n urbana comunal.",
+        "UPROH": "Las normas urban\u00edsticas aplicables se se\u00f1alan en las Disposiciones Transitorias de la Ordenanza, y \u00e9stas aplicar\u00e1n supletoriamente toda vez que corresponden a materias propias del \u00e1mbito de la planificaci\u00f3n urbana comunal.",
+        "P_DO": "26-08-2015",
+        "N_DOC": "119",
+        "T_DO": "Resoluci\u00f3n",
+        "OBS": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.16386042052251,
+          -31.113389622838056
+        ]
+      },
+      "properties": {
+        "REG": "Coquimbo",
+        "COM": "",
+        "LOC": "Provincia de Limar\u00ed",
+        "ZONA": "ZR-RV",
+        "NOM": "ZR-RV \u00c1rea de Riesgo por Relaves Mineros",
+        "UPERM": "Las normas urban\u00edsticas aplicables se se\u00f1alan en las Disposiciones Transitorias de la Ordenanza, y \u00e9stas aplicar\u00e1n supletoriamente toda vez que corresponden a materias propias del \u00e1mbito de la planificaci\u00f3n urbana comunal.",
+        "UPROH": "Las normas urban\u00edsticas aplicables se se\u00f1alan en las Disposiciones Transitorias de la Ordenanza, y \u00e9stas aplicar\u00e1n supletoriamente toda vez que corresponden a materias propias del \u00e1mbito de la planificaci\u00f3n urbana comunal.",
+        "P_DO": "26-08-2015",
+        "N_DOC": "119",
+        "T_DO": "Resoluci\u00f3n",
+        "OBS": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.15649683403616,
+          -31.112129532948426
+        ]
+      },
+      "properties": {
+        "REG": "Coquimbo",
+        "COM": "",
+        "LOC": "Provincia de Limar\u00ed",
+        "ZONA": "ZR-RV",
+        "NOM": "ZR-RV \u00c1rea de Riesgo por Relaves Mineros",
+        "UPERM": "Las normas urban\u00edsticas aplicables se se\u00f1alan en las Disposiciones Transitorias de la Ordenanza, y \u00e9stas aplicar\u00e1n supletoriamente toda vez que corresponden a materias propias del \u00e1mbito de la planificaci\u00f3n urbana comunal.",
+        "UPROH": "Las normas urban\u00edsticas aplicables se se\u00f1alan en las Disposiciones Transitorias de la Ordenanza, y \u00e9stas aplicar\u00e1n supletoriamente toda vez que corresponden a materias propias del \u00e1mbito de la planificaci\u00f3n urbana comunal.",
+        "P_DO": "26-08-2015",
+        "N_DOC": "119",
+        "T_DO": "Resoluci\u00f3n",
+        "OBS": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.04567437322423,
+          -31.138752472901764
+        ]
+      },
+      "properties": {
+        "REG": "Coquimbo",
+        "COM": "",
+        "LOC": "Provincia de Limar\u00ed",
+        "ZONA": "ZR-RV",
+        "NOM": "ZR-RV \u00c1rea de Riesgo por Relaves Mineros",
+        "UPERM": "Las normas urban\u00edsticas aplicables se se\u00f1alan en las Disposiciones Transitorias de la Ordenanza, y \u00e9stas aplicar\u00e1n supletoriamente toda vez que corresponden a materias propias del \u00e1mbito de la planificaci\u00f3n urbana comunal.",
+        "UPROH": "Las normas urban\u00edsticas aplicables se se\u00f1alan en las Disposiciones Transitorias de la Ordenanza, y \u00e9stas aplicar\u00e1n supletoriamente toda vez que corresponden a materias propias del \u00e1mbito de la planificaci\u00f3n urbana comunal.",
+        "P_DO": "26-08-2015",
+        "N_DOC": "119",
+        "T_DO": "Resoluci\u00f3n",
+        "OBS": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.01313261660803,
+          -31.152140554402695
+        ]
+      },
+      "properties": {
+        "REG": "Coquimbo",
+        "COM": "",
+        "LOC": "Provincia de Limar\u00ed",
+        "ZONA": "ZR-RV",
+        "NOM": "ZR-RV \u00c1rea de Riesgo por Relaves Mineros",
+        "UPERM": "Las normas urban\u00edsticas aplicables se se\u00f1alan en las Disposiciones Transitorias de la Ordenanza, y \u00e9stas aplicar\u00e1n supletoriamente toda vez que corresponden a materias propias del \u00e1mbito de la planificaci\u00f3n urbana comunal.",
+        "UPROH": "Las normas urban\u00edsticas aplicables se se\u00f1alan en las Disposiciones Transitorias de la Ordenanza, y \u00e9stas aplicar\u00e1n supletoriamente toda vez que corresponden a materias propias del \u00e1mbito de la planificaci\u00f3n urbana comunal.",
+        "P_DO": "26-08-2015",
+        "N_DOC": "119",
+        "T_DO": "Resoluci\u00f3n",
+        "OBS": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.00187828681204,
+          -31.168901735812465
+        ]
+      },
+      "properties": {
+        "REG": "Coquimbo",
+        "COM": "",
+        "LOC": "Provincia de Limar\u00ed",
+        "ZONA": "ZR-RV",
+        "NOM": "ZR-RV \u00c1rea de Riesgo por Relaves Mineros",
+        "UPERM": "Las normas urban\u00edsticas aplicables se se\u00f1alan en las Disposiciones Transitorias de la Ordenanza, y \u00e9stas aplicar\u00e1n supletoriamente toda vez que corresponden a materias propias del \u00e1mbito de la planificaci\u00f3n urbana comunal.",
+        "UPROH": "Las normas urban\u00edsticas aplicables se se\u00f1alan en las Disposiciones Transitorias de la Ordenanza, y \u00e9stas aplicar\u00e1n supletoriamente toda vez que corresponden a materias propias del \u00e1mbito de la planificaci\u00f3n urbana comunal.",
+        "P_DO": "26-08-2015",
+        "N_DOC": "119",
+        "T_DO": "Resoluci\u00f3n",
+        "OBS": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.00636508528765,
+          -31.1684563738641
+        ]
+      },
+      "properties": {
+        "REG": "Coquimbo",
+        "COM": "",
+        "LOC": "Provincia de Limar\u00ed",
+        "ZONA": "ZR-RV",
+        "NOM": "ZR-RV \u00c1rea de Riesgo por Relaves Mineros",
+        "UPERM": "Las normas urban\u00edsticas aplicables se se\u00f1alan en las Disposiciones Transitorias de la Ordenanza, y \u00e9stas aplicar\u00e1n supletoriamente toda vez que corresponden a materias propias del \u00e1mbito de la planificaci\u00f3n urbana comunal.",
+        "UPROH": "Las normas urban\u00edsticas aplicables se se\u00f1alan en las Disposiciones Transitorias de la Ordenanza, y \u00e9stas aplicar\u00e1n supletoriamente toda vez que corresponden a materias propias del \u00e1mbito de la planificaci\u00f3n urbana comunal.",
+        "P_DO": "26-08-2015",
+        "N_DOC": "119",
+        "T_DO": "Resoluci\u00f3n",
+        "OBS": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.04884829972843,
+          -31.166326919515047
+        ]
+      },
+      "properties": {
+        "REG": "Coquimbo",
+        "COM": "",
+        "LOC": "Provincia de Limar\u00ed",
+        "ZONA": "ZR-RV",
+        "NOM": "ZR-RV \u00c1rea de Riesgo por Relaves Mineros",
+        "UPERM": "Las normas urban\u00edsticas aplicables se se\u00f1alan en las Disposiciones Transitorias de la Ordenanza, y \u00e9stas aplicar\u00e1n supletoriamente toda vez que corresponden a materias propias del \u00e1mbito de la planificaci\u00f3n urbana comunal.",
+        "UPROH": "Las normas urban\u00edsticas aplicables se se\u00f1alan en las Disposiciones Transitorias de la Ordenanza, y \u00e9stas aplicar\u00e1n supletoriamente toda vez que corresponden a materias propias del \u00e1mbito de la planificaci\u00f3n urbana comunal.",
+        "P_DO": "26-08-2015",
+        "N_DOC": "119",
+        "T_DO": "Resoluci\u00f3n",
+        "OBS": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.05173872988388,
+          -31.237247512523712
+        ]
+      },
+      "properties": {
+        "REG": "Coquimbo",
+        "COM": "",
+        "LOC": "Provincia de Limar\u00ed",
+        "ZONA": "ZR-RV",
+        "NOM": "ZR-RV \u00c1rea de Riesgo por Relaves Mineros",
+        "UPERM": "Las normas urban\u00edsticas aplicables se se\u00f1alan en las Disposiciones Transitorias de la Ordenanza, y \u00e9stas aplicar\u00e1n supletoriamente toda vez que corresponden a materias propias del \u00e1mbito de la planificaci\u00f3n urbana comunal.",
+        "UPROH": "Las normas urban\u00edsticas aplicables se se\u00f1alan en las Disposiciones Transitorias de la Ordenanza, y \u00e9stas aplicar\u00e1n supletoriamente toda vez que corresponden a materias propias del \u00e1mbito de la planificaci\u00f3n urbana comunal.",
+        "P_DO": "26-08-2015",
+        "N_DOC": "119",
+        "T_DO": "Resoluci\u00f3n",
+        "OBS": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.15881862739045,
+          -31.117096646931895
+        ]
+      },
+      "properties": {
+        "REG": "Coquimbo",
+        "COM": "",
+        "LOC": "Provincia de Limar\u00ed",
+        "ZONA": "ZR-RV",
+        "NOM": "ZR-RV \u00c1rea de Riesgo por Relaves Mineros",
+        "UPERM": "Las normas urban\u00edsticas aplicables se se\u00f1alan en las Disposiciones Transitorias de la Ordenanza, y \u00e9stas aplicar\u00e1n supletoriamente toda vez que corresponden a materias propias del \u00e1mbito de la planificaci\u00f3n urbana comunal.",
+        "UPROH": "Las normas urban\u00edsticas aplicables se se\u00f1alan en las Disposiciones Transitorias de la Ordenanza, y \u00e9stas aplicar\u00e1n supletoriamente toda vez que corresponden a materias propias del \u00e1mbito de la planificaci\u00f3n urbana comunal.",
+        "P_DO": "26-08-2015",
+        "N_DOC": "119",
+        "T_DO": "Resoluci\u00f3n",
+        "OBS": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.90869942576361,
+          -85.71398843371666
+        ]
+      },
+      "properties": {
+        "REG": "Coquimbo",
+        "COM": "",
+        "LOC": "Provincia de Limar\u00ed",
+        "ZONA": "ZR-RV",
+        "NOM": "ZR-RV \u00c1rea de Riesgo por Relaves Mineros",
+        "UPERM": "Las normas urban\u00edsticas aplicables se se\u00f1alan en las Disposiciones Transitorias de la Ordenanza, y \u00e9stas aplicar\u00e1n supletoriamente toda vez que corresponden a materias propias del \u00e1mbito de la planificaci\u00f3n urbana comunal.",
+        "UPROH": "Las normas urban\u00edsticas aplicables se se\u00f1alan en las Disposiciones Transitorias de la Ordenanza, y \u00e9stas aplicar\u00e1n supletoriamente toda vez que corresponden a materias propias del \u00e1mbito de la planificaci\u00f3n urbana comunal.",
+        "P_DO": "26-08-2015",
+        "N_DOC": "119",
+        "T_DO": "Resoluci\u00f3n",
+        "OBS": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.78788469783991,
+          -30.724432215269417
+        ]
+      },
+      "properties": {
+        "REG": "Coquimbo",
+        "COM": "",
+        "LOC": "Provincia de Limar\u00ed",
+        "ZONA": "ZR-RV",
+        "NOM": "ZR-RV \u00c1rea de Riesgo por Relaves Mineros",
+        "UPERM": "Las normas urban\u00edsticas aplicables se se\u00f1alan en las Disposiciones Transitorias de la Ordenanza, y \u00e9stas aplicar\u00e1n supletoriamente toda vez que corresponden a materias propias del \u00e1mbito de la planificaci\u00f3n urbana comunal.",
+        "UPROH": "Las normas urban\u00edsticas aplicables se se\u00f1alan en las Disposiciones Transitorias de la Ordenanza, y \u00e9stas aplicar\u00e1n supletoriamente toda vez que corresponden a materias propias del \u00e1mbito de la planificaci\u00f3n urbana comunal.",
+        "P_DO": "26-08-2015",
+        "N_DOC": "119",
+        "T_DO": "Resoluci\u00f3n",
+        "OBS": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.67131905875264,
+          -30.89193472742171
+        ]
+      },
+      "properties": {
+        "REG": "Coquimbo",
+        "COM": "",
+        "LOC": "Provincia de Limar\u00ed",
+        "ZONA": "ZR-RV",
+        "NOM": "ZR-RV \u00c1rea de Riesgo por Relaves Mineros",
+        "UPERM": "Las normas urban\u00edsticas aplicables se se\u00f1alan en las Disposiciones Transitorias de la Ordenanza, y \u00e9stas aplicar\u00e1n supletoriamente toda vez que corresponden a materias propias del \u00e1mbito de la planificaci\u00f3n urbana comunal.",
+        "UPROH": "Las normas urban\u00edsticas aplicables se se\u00f1alan en las Disposiciones Transitorias de la Ordenanza, y \u00e9stas aplicar\u00e1n supletoriamente toda vez que corresponden a materias propias del \u00e1mbito de la planificaci\u00f3n urbana comunal.",
+        "P_DO": "26-08-2015",
+        "N_DOC": "119",
+        "T_DO": "Resoluci\u00f3n",
+        "OBS": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.66679486172683,
+          -30.89296297557129
+        ]
+      },
+      "properties": {
+        "REG": "Coquimbo",
+        "COM": "",
+        "LOC": "Provincia de Limar\u00ed",
+        "ZONA": "ZR-RV",
+        "NOM": "ZR-RV \u00c1rea de Riesgo por Relaves Mineros",
+        "UPERM": "Las normas urban\u00edsticas aplicables se se\u00f1alan en las Disposiciones Transitorias de la Ordenanza, y \u00e9stas aplicar\u00e1n supletoriamente toda vez que corresponden a materias propias del \u00e1mbito de la planificaci\u00f3n urbana comunal.",
+        "UPROH": "Las normas urban\u00edsticas aplicables se se\u00f1alan en las Disposiciones Transitorias de la Ordenanza, y \u00e9stas aplicar\u00e1n supletoriamente toda vez que corresponden a materias propias del \u00e1mbito de la planificaci\u00f3n urbana comunal.",
+        "P_DO": "26-08-2015",
+        "N_DOC": "119",
+        "T_DO": "Resoluci\u00f3n",
+        "OBS": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.42696387035315,
+          -85.4801843022799
+        ]
+      },
+      "properties": {
+        "REG": "Coquimbo",
+        "COM": "",
+        "LOC": "Provincia de Limar\u00ed",
+        "ZONA": "ZR-RV",
+        "NOM": "ZR-RV \u00c1rea de Riesgo por Relaves Mineros",
+        "UPERM": "Las normas urban\u00edsticas aplicables se se\u00f1alan en las Disposiciones Transitorias de la Ordenanza, y \u00e9stas aplicar\u00e1n supletoriamente toda vez que corresponden a materias propias del \u00e1mbito de la planificaci\u00f3n urbana comunal.",
+        "UPROH": "Las normas urban\u00edsticas aplicables se se\u00f1alan en las Disposiciones Transitorias de la Ordenanza, y \u00e9stas aplicar\u00e1n supletoriamente toda vez que corresponden a materias propias del \u00e1mbito de la planificaci\u00f3n urbana comunal.",
+        "P_DO": "26-08-2015",
+        "N_DOC": "119",
+        "T_DO": "Resoluci\u00f3n",
+        "OBS": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.50842943166349,
+          -30.703071824547113
+        ]
+      },
+      "properties": {
+        "REG": "Coquimbo",
+        "COM": "",
+        "LOC": "Provincia de Limar\u00ed",
+        "ZONA": "ZR-RV",
+        "NOM": "ZR-RV \u00c1rea de Riesgo por Relaves Mineros",
+        "UPERM": "Las normas urban\u00edsticas aplicables se se\u00f1alan en las Disposiciones Transitorias de la Ordenanza, y \u00e9stas aplicar\u00e1n supletoriamente toda vez que corresponden a materias propias del \u00e1mbito de la planificaci\u00f3n urbana comunal.",
+        "UPROH": "Las normas urban\u00edsticas aplicables se se\u00f1alan en las Disposiciones Transitorias de la Ordenanza, y \u00e9stas aplicar\u00e1n supletoriamente toda vez que corresponden a materias propias del \u00e1mbito de la planificaci\u00f3n urbana comunal.",
+        "P_DO": "26-08-2015",
+        "N_DOC": "119",
+        "T_DO": "Resoluci\u00f3n",
+        "OBS": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.44187842343865,
+          -85.33906097585003
+        ]
+      },
+      "properties": {
+        "REG": "Coquimbo",
+        "COM": "",
+        "LOC": "Provincia de Limar\u00ed",
+        "ZONA": "ZR-RV",
+        "NOM": "ZR-RV \u00c1rea de Riesgo por Relaves Mineros",
+        "UPERM": "Las normas urban\u00edsticas aplicables se se\u00f1alan en las Disposiciones Transitorias de la Ordenanza, y \u00e9stas aplicar\u00e1n supletoriamente toda vez que corresponden a materias propias del \u00e1mbito de la planificaci\u00f3n urbana comunal.",
+        "UPROH": "Las normas urban\u00edsticas aplicables se se\u00f1alan en las Disposiciones Transitorias de la Ordenanza, y \u00e9stas aplicar\u00e1n supletoriamente toda vez que corresponden a materias propias del \u00e1mbito de la planificaci\u00f3n urbana comunal.",
+        "P_DO": "26-08-2015",
+        "N_DOC": "119",
+        "T_DO": "Resoluci\u00f3n",
+        "OBS": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.2117549712409,
+          -30.508302710488646
+        ]
+      },
+      "properties": {
+        "REG": "Coquimbo",
+        "COM": "",
+        "LOC": "Provincia de Limar\u00ed",
+        "ZONA": "ZR-RV",
+        "NOM": "ZR-RV \u00c1rea de Riesgo por Relaves Mineros",
+        "UPERM": "Las normas urban\u00edsticas aplicables se se\u00f1alan en las Disposiciones Transitorias de la Ordenanza, y \u00e9stas aplicar\u00e1n supletoriamente toda vez que corresponden a materias propias del \u00e1mbito de la planificaci\u00f3n urbana comunal.",
+        "UPROH": "Las normas urban\u00edsticas aplicables se se\u00f1alan en las Disposiciones Transitorias de la Ordenanza, y \u00e9stas aplicar\u00e1n supletoriamente toda vez que corresponden a materias propias del \u00e1mbito de la planificaci\u00f3n urbana comunal.",
+        "P_DO": "26-08-2015",
+        "N_DOC": "119",
+        "T_DO": "Resoluci\u00f3n",
+        "OBS": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.2262587706785,
+          -30.878154392301184
+        ]
+      },
+      "properties": {
+        "REG": "Coquimbo",
+        "COM": "",
+        "LOC": "Provincia de Limar\u00ed",
+        "ZONA": "ZR-RV",
+        "NOM": "ZR-RV \u00c1rea de Riesgo por Relaves Mineros",
+        "UPERM": "Las normas urban\u00edsticas aplicables se se\u00f1alan en las Disposiciones Transitorias de la Ordenanza, y \u00e9stas aplicar\u00e1n supletoriamente toda vez que corresponden a materias propias del \u00e1mbito de la planificaci\u00f3n urbana comunal.",
+        "UPROH": "Las normas urban\u00edsticas aplicables se se\u00f1alan en las Disposiciones Transitorias de la Ordenanza, y \u00e9stas aplicar\u00e1n supletoriamente toda vez que corresponden a materias propias del \u00e1mbito de la planificaci\u00f3n urbana comunal.",
+        "P_DO": "26-08-2015",
+        "N_DOC": "119",
+        "T_DO": "Resoluci\u00f3n",
+        "OBS": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.14532736871784,
+          -30.85683398343865
+        ]
+      },
+      "properties": {
+        "REG": "Coquimbo",
+        "COM": "",
+        "LOC": "Provincia de Limar\u00ed",
+        "ZONA": "ZR-RV",
+        "NOM": "ZR-RV \u00c1rea de Riesgo por Relaves Mineros",
+        "UPERM": "Las normas urban\u00edsticas aplicables se se\u00f1alan en las Disposiciones Transitorias de la Ordenanza, y \u00e9stas aplicar\u00e1n supletoriamente toda vez que corresponden a materias propias del \u00e1mbito de la planificaci\u00f3n urbana comunal.",
+        "UPROH": "Las normas urban\u00edsticas aplicables se se\u00f1alan en las Disposiciones Transitorias de la Ordenanza, y \u00e9stas aplicar\u00e1n supletoriamente toda vez que corresponden a materias propias del \u00e1mbito de la planificaci\u00f3n urbana comunal.",
+        "P_DO": "26-08-2015",
+        "N_DOC": "119",
+        "T_DO": "Resoluci\u00f3n",
+        "OBS": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -153.656990820594,
+          -85.6256865346576
+        ]
+      },
+      "properties": {
+        "REG": "Coquimbo",
+        "COM": "",
+        "LOC": "Provincia de Limar\u00ed",
+        "ZONA": "ZR-RV",
+        "NOM": "ZR-RV \u00c1rea de Riesgo por Relaves Mineros",
+        "UPERM": "Las normas urban\u00edsticas aplicables se se\u00f1alan en las Disposiciones Transitorias de la Ordenanza, y \u00e9stas aplicar\u00e1n supletoriamente toda vez que corresponden a materias propias del \u00e1mbito de la planificaci\u00f3n urbana comunal.",
+        "UPROH": "Las normas urban\u00edsticas aplicables se se\u00f1alan en las Disposiciones Transitorias de la Ordenanza, y \u00e9stas aplicar\u00e1n supletoriamente toda vez que corresponden a materias propias del \u00e1mbito de la planificaci\u00f3n urbana comunal.",
+        "P_DO": "26-08-2015",
+        "N_DOC": "119",
+        "T_DO": "Resoluci\u00f3n",
+        "OBS": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.86345474498208,
+          -30.394679613635464
+        ]
+      },
+      "properties": {
+        "REG": "Coquimbo",
+        "COM": "",
+        "LOC": "Provincia de Limar\u00ed",
+        "ZONA": "ZR-RV",
+        "NOM": "ZR-RV \u00c1rea de Riesgo por Relaves Mineros",
+        "UPERM": "Las normas urban\u00edsticas aplicables se se\u00f1alan en las Disposiciones Transitorias de la Ordenanza, y \u00e9stas aplicar\u00e1n supletoriamente toda vez que corresponden a materias propias del \u00e1mbito de la planificaci\u00f3n urbana comunal.",
+        "UPROH": "Las normas urban\u00edsticas aplicables se se\u00f1alan en las Disposiciones Transitorias de la Ordenanza, y \u00e9stas aplicar\u00e1n supletoriamente toda vez que corresponden a materias propias del \u00e1mbito de la planificaci\u00f3n urbana comunal.",
+        "P_DO": "26-08-2015",
+        "N_DOC": "119",
+        "T_DO": "Resoluci\u00f3n",
+        "OBS": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -156.11182327609637,
+          -85.43749341352687
+        ]
+      },
+      "properties": {
+        "REG": "Coquimbo",
+        "COM": "",
+        "LOC": "Provincia de Limar\u00ed",
+        "ZONA": "ZR-RV",
+        "NOM": "ZR-RV \u00c1rea de Riesgo por Relaves Mineros",
+        "UPERM": "Las normas urban\u00edsticas aplicables se se\u00f1alan en las Disposiciones Transitorias de la Ordenanza, y \u00e9stas aplicar\u00e1n supletoriamente toda vez que corresponden a materias propias del \u00e1mbito de la planificaci\u00f3n urbana comunal.",
+        "UPROH": "Las normas urban\u00edsticas aplicables se se\u00f1alan en las Disposiciones Transitorias de la Ordenanza, y \u00e9stas aplicar\u00e1n supletoriamente toda vez que corresponden a materias propias del \u00e1mbito de la planificaci\u00f3n urbana comunal.",
+        "P_DO": "26-08-2015",
+        "N_DOC": "119",
+        "T_DO": "Resoluci\u00f3n",
+        "OBS": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.10195709869346,
+          -30.57006989626538
+        ]
+      },
+      "properties": {
+        "REG": "Coquimbo",
+        "COM": "",
+        "LOC": "Provincia de Limar\u00ed",
+        "ZONA": "ZR-RV",
+        "NOM": "ZR-RV \u00c1rea de Riesgo por Relaves Mineros",
+        "UPERM": "Las normas urban\u00edsticas aplicables se se\u00f1alan en las Disposiciones Transitorias de la Ordenanza, y \u00e9stas aplicar\u00e1n supletoriamente toda vez que corresponden a materias propias del \u00e1mbito de la planificaci\u00f3n urbana comunal.",
+        "UPROH": "Las normas urban\u00edsticas aplicables se se\u00f1alan en las Disposiciones Transitorias de la Ordenanza, y \u00e9stas aplicar\u00e1n supletoriamente toda vez que corresponden a materias propias del \u00e1mbito de la planificaci\u00f3n urbana comunal.",
+        "P_DO": "26-08-2015",
+        "N_DOC": "119",
+        "T_DO": "Resoluci\u00f3n",
+        "OBS": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.67063014703216,
+          -30.89635101478172
+        ]
+      },
+      "properties": {
+        "REG": "Coquimbo",
+        "COM": "",
+        "LOC": "Provincia de Limar\u00ed",
+        "ZONA": "ZR-RV",
+        "NOM": "ZR-RV \u00c1rea de Riesgo por Relaves Mineros",
+        "UPERM": "Las normas urban\u00edsticas aplicables se se\u00f1alan en las Disposiciones Transitorias de la Ordenanza, y \u00e9stas aplicar\u00e1n supletoriamente toda vez que corresponden a materias propias del \u00e1mbito de la planificaci\u00f3n urbana comunal.",
+        "UPROH": "Las normas urban\u00edsticas aplicables se se\u00f1alan en las Disposiciones Transitorias de la Ordenanza, y \u00e9stas aplicar\u00e1n supletoriamente toda vez que corresponden a materias propias del \u00e1mbito de la planificaci\u00f3n urbana comunal.",
+        "P_DO": "26-08-2015",
+        "N_DOC": "119",
+        "T_DO": "Resoluci\u00f3n",
+        "OBS": ""
+      }
+    }
+  ]
+}

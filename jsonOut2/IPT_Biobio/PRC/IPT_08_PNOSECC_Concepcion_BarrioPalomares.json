@@ -1,0 +1,100 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -72.9866745465864,
+              -36.81764090794135
+            ],
+            [
+              -72.98689358772025,
+              -36.81788261634383
+            ],
+            [
+              -72.98737219328912,
+              -36.818405164990835
+            ],
+            [
+              -72.98740637794508,
+              -36.81842347976655
+            ],
+            [
+              -72.98771648543058,
+              -36.818768536489266
+            ],
+            [
+              -72.98752064163652,
+              -36.81887840975769
+            ],
+            [
+              -72.9876574816058,
+              -36.81902460534657
+            ],
+            [
+              -72.98784523501573,
+              -36.81891320910831
+            ],
+            [
+              -72.98807514860538,
+              -36.819153377885925
+            ],
+            [
+              -72.98815338458364,
+              -36.81909136472524
+            ],
+            [
+              -72.98815903472276,
+              -36.81909478463346
+            ],
+            [
+              -72.98844763535396,
+              -36.81928772419525
+            ],
+            [
+              -72.98839130428925,
+              -36.819353219445794
+            ],
+            [
+              -72.9885298208748,
+              -36.81949719558373
+            ],
+            [
+              -72.98858499851491,
+              -36.81945999782318
+            ],
+            [
+              -72.98889197204743,
+              -36.81963950885853
+            ],
+            [
+              -72.98938133269947,
+              -36.81904904888039
+            ],
+            [
+              -72.9866745465864,
+              -36.81764090794135
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "REG": "Biob\u00edo",
+        "COM": "Concepci\u00f3n",
+        "LOCALIDAD": "Barrio Palomares",
+        "ZONA": "H-4",
+        "NOMBRE": "H-4 Zona Residencial Consolidada",
+        "UPERM": "Residencial; Talleres y almacenamient,e industria  inofensivo o molesto con impacto mitigado; Patios de estacionamientos; Equipamiento cient\u00edfico, comercio, culto y cultura, deporte, educaci\u00f3n, esparcimiento, slaud, seguridad, serviciol",
+        "UPROH": "Todo los usos no mencionados como permitidos, Ver mayor detalle en ordenanza.",
+        "Capa": "PRC Seccional Concepci\u00f3n - Barrio Palomares",
+        "CUT": "08101",
+        "Shape_STAr": 14353.1338501,
+        "Shape_STLe": 732.669404561
+      }
+    }
+  ]
+}

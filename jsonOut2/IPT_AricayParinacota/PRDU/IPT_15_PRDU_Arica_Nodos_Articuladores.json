@@ -1,0 +1,212 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.30554044002552,
+          -18.47081967804268
+        ]
+      },
+      "properties": {
+        "REGION": "Arica y Parinacota",
+        "CATEGORIA": "Indicativo",
+        "INFO": "Nodos Articuladores, PRDU",
+        "NOMBRE": "Arica",
+        "INSTRUMENT": "Sin Instrumento",
+        "CONDICIO": "Nodo articulador de primer orden",
+        "EMISOR": "Secretar\u00eda Regional Ministerial de Vivienda y Urbanismo Regi\u00f3n de Arica y Parinacota",
+        "ADMIN": "Secretar\u00eda Regional Ministerial de Vivienda y Urbanismo Regi\u00f3n de Arica y Parinacota",
+        "AMBITO": "Planificaci\u00f3n y propiedad",
+        "TEMATICA": "Planificaci\u00f3n",
+        "CUT": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.48156054050146,
+          -17.59470720960694
+        ]
+      },
+      "properties": {
+        "REGION": "Arica y Parinacota",
+        "CATEGORIA": "Indicativo",
+        "INFO": "Nodos Articuladores, PRDU",
+        "NOMBRE": "Visviri",
+        "INSTRUMENT": "Sin Instrumento",
+        "CONDICIO": "Nodo articulador de segundo orden",
+        "EMISOR": "Secretar\u00eda Regional Ministerial de Vivienda y Urbanismo Regi\u00f3n de Arica y Parinacota",
+        "ADMIN": "Secretar\u00eda Regional Ministerial de Vivienda y Urbanismo Regi\u00f3n de Arica y Parinacota",
+        "AMBITO": "Planificaci\u00f3n y propiedad",
+        "TEMATICA": "Planificaci\u00f3n",
+        "CUT": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.55920603969085,
+          -18.1963559604269
+        ]
+      },
+      "properties": {
+        "REGION": "Arica y Parinacota",
+        "CATEGORIA": "Indicativo",
+        "INFO": "Nodos Articuladores, PRDU",
+        "NOMBRE": "Putre",
+        "INSTRUMENT": "Sin Instrumento",
+        "CONDICIO": "Nodo articulador de segundo orden",
+        "EMISOR": "Secretar\u00eda Regional Ministerial de Vivienda y Urbanismo Regi\u00f3n de Arica y Parinacota",
+        "ADMIN": "Secretar\u00eda Regional Ministerial de Vivienda y Urbanismo Regi\u00f3n de Arica y Parinacota",
+        "AMBITO": "Planificaci\u00f3n y propiedad",
+        "TEMATICA": "Planificaci\u00f3n",
+        "CUT": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.17910339561911,
+          -19.159886247087453
+        ]
+      },
+      "properties": {
+        "REGION": "Arica y Parinacota",
+        "CATEGORIA": "Indicativo",
+        "INFO": "Nodos Articuladores, PRDU",
+        "NOMBRE": "Cuya",
+        "INSTRUMENT": "Sin Instrumento",
+        "CONDICIO": "Nodo articulador de segundo orden",
+        "EMISOR": "Secretar\u00eda Regional Ministerial de Vivienda y Urbanismo Regi\u00f3n de Arica y Parinacota",
+        "ADMIN": "Secretar\u00eda Regional Ministerial de Vivienda y Urbanismo Regi\u00f3n de Arica y Parinacota",
+        "AMBITO": "Planificaci\u00f3n y propiedad",
+        "TEMATICA": "Planificaci\u00f3n",
+        "CUT": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.1768801953431,
+          -18.517942481028832
+        ]
+      },
+      "properties": {
+        "REGION": "Arica y Parinacota",
+        "CATEGORIA": "Indicativo",
+        "INFO": "Nodos Articuladores, PRDU",
+        "NOMBRE": "San Miguel de Azapa",
+        "INSTRUMENT": "Sin Instrumento",
+        "CONDICIO": "Nodo articulador de tercer orden",
+        "EMISOR": "Secretar\u00eda Regional Ministerial de Vivienda y Urbanismo Regi\u00f3n de Arica y Parinacota",
+        "ADMIN": "Secretar\u00eda Regional Ministerial de Vivienda y Urbanismo Regi\u00f3n de Arica y Parinacota",
+        "AMBITO": "Planificaci\u00f3n y propiedad",
+        "TEMATICA": "Planificaci\u00f3n",
+        "CUT": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.06635387350236,
+          -18.451607755308935
+        ]
+      },
+      "properties": {
+        "REGION": "Arica y Parinacota",
+        "CATEGORIA": "Indicativo",
+        "INFO": "Nodos Articuladores, PRDU",
+        "NOMBRE": "Poconchile",
+        "INSTRUMENT": "Sin Instrumento",
+        "CONDICIO": "Nodo articulador de tercer orden",
+        "EMISOR": "Secretar\u00eda Regional Ministerial de Vivienda y Urbanismo Regi\u00f3n de Arica y Parinacota",
+        "ADMIN": "Secretar\u00eda Regional Ministerial de Vivienda y Urbanismo Regi\u00f3n de Arica y Parinacota",
+        "AMBITO": "Planificaci\u00f3n y propiedad",
+        "TEMATICA": "Planificaci\u00f3n",
+        "CUT": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.59437540398824,
+          -18.334621104694225
+        ]
+      },
+      "properties": {
+        "REGION": "Arica y Parinacota",
+        "CATEGORIA": "Indicativo",
+        "INFO": "Nodos Articuladores, PRDU",
+        "NOMBRE": "Zapahuira",
+        "INSTRUMENT": "Sin Instrumento",
+        "CONDICIO": "Nodo articulador de tercer orden",
+        "EMISOR": "Secretar\u00eda Regional Ministerial de Vivienda y Urbanismo Regi\u00f3n de Arica y Parinacota",
+        "ADMIN": "Secretar\u00eda Regional Ministerial de Vivienda y Urbanismo Regi\u00f3n de Arica y Parinacota",
+        "AMBITO": "Planificaci\u00f3n y propiedad",
+        "TEMATICA": "Planificaci\u00f3n",
+        "CUT": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.26803870909175,
+          -18.2017443471164
+        ]
+      },
+      "properties": {
+        "REGION": "Arica y Parinacota",
+        "CATEGORIA": "Indicativo",
+        "INFO": "Nodos Articuladores, PRDU",
+        "NOMBRE": "Parinacota",
+        "INSTRUMENT": "Sin Instrumento",
+        "CONDICIO": "Nodo articulador de tercer orden",
+        "EMISOR": "Secretar\u00eda Regional Ministerial de Vivienda y Urbanismo Regi\u00f3n de Arica y Parinacota",
+        "ADMIN": "Secretar\u00eda Regional Ministerial de Vivienda y Urbanismo Regi\u00f3n de Arica y Parinacota",
+        "AMBITO": "Planificaci\u00f3n y propiedad",
+        "TEMATICA": "Planificaci\u00f3n",
+        "CUT": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.74479533929606,
+          -18.83279282149331
+        ]
+      },
+      "properties": {
+        "REGION": "Arica y Parinacota",
+        "CATEGORIA": "Indicativo",
+        "INFO": "Nodos Articuladores, PRDU",
+        "NOMBRE": "Codpa",
+        "INSTRUMENT": "Sin Instrumento",
+        "CONDICIO": "Nodo articulador de segundo orden",
+        "EMISOR": "Secretar\u00eda Regional Ministerial de Vivienda y Urbanismo Regi\u00f3n de Arica y Parinacota",
+        "ADMIN": "Secretar\u00eda Regional Ministerial de Vivienda y Urbanismo Regi\u00f3n de Arica y Parinacota",
+        "AMBITO": "Planificaci\u00f3n y propiedad",
+        "TEMATICA": "Planificaci\u00f3n",
+        "CUT": ""
+      }
+    }
+  ]
+}

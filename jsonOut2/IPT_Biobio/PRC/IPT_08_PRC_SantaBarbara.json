@@ -1,0 +1,7339 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -72.04017876306703,
+              -37.66373741619428
+            ],
+            [
+              -72.03974310679132,
+              -37.66405029002227
+            ],
+            [
+              -72.0379818166054,
+              -37.66484523027306
+            ],
+            [
+              -72.03574401445937,
+              -37.665798668057626
+            ],
+            [
+              -72.03395743123299,
+              -37.66653935768204
+            ],
+            [
+              -72.03294000491965,
+              -37.66696772934712
+            ],
+            [
+              -72.03197814084628,
+              -37.667348961339236
+            ],
+            [
+              -72.0308247089916,
+              -37.667826518504654
+            ],
+            [
+              -72.0309448146009,
+              -37.66823475180024
+            ],
+            [
+              -72.03114313720936,
+              -37.6688694858469
+            ],
+            [
+              -72.03141566464588,
+              -37.67019698973819
+            ],
+            [
+              -72.0321478668766,
+              -37.67010502655566
+            ],
+            [
+              -72.03258177384984,
+              -37.670029878500834
+            ],
+            [
+              -72.0329441533798,
+              -37.66989258403637
+            ],
+            [
+              -72.03341991481292,
+              -37.66971580921667
+            ],
+            [
+              -72.03444737341532,
+              -37.669250611273895
+            ],
+            [
+              -72.03445331068903,
+              -37.66713900300697
+            ],
+            [
+              -72.03861331376527,
+              -37.66538651836253
+            ],
+            [
+              -72.03995446628359,
+              -37.66472123451423
+            ],
+            [
+              -72.04056241816804,
+              -37.66440391449831
+            ],
+            [
+              -72.04017876306703,
+              -37.66373741619428
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "REG": "Biob\u00edo",
+        "COM": "Santa B\u00e1rbara",
+        "LOCALIDAD": "Santa B\u00e1rbara",
+        "ZONA": "EX6",
+        "NOMBRE": "Area de extensi\u00f3n urbana 6",
+        "UPERM": "Equipamiento: culto y cultura, esparcimiento, servicios. Area verde.",
+        "UPROH": "Todos los usos de suelo no mencionados como permitidos",
+        "IPT": "1ra modificacion PRC Santa Barbara. Res. Gore N\u00b080. Fecha promulgacion 09.07.2007. Fecha publicacion D.O. 27.03.2008.",
+        "Capa": "PRC Santa B\u00e1rbara",
+        "CUT": "08311",
+        "Shape_STAr": 139183.449951,
+        "Shape_STLe": 2438.43499861
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -72.03431862805571,
+              -37.66609131308802
+            ],
+            [
+              -72.03326458780161,
+              -37.664491438372664
+            ],
+            [
+              -72.03218822601818,
+              -37.66460140340638
+            ],
+            [
+              -72.03164948720216,
+              -37.664642684888356
+            ],
+            [
+              -72.03181895737747,
+              -37.665698624601596
+            ],
+            [
+              -72.03248223636623,
+              -37.66589179024192
+            ],
+            [
+              -72.0333200491823,
+              -37.666135301941615
+            ],
+            [
+              -72.03370096227334,
+              -37.66617119883037
+            ],
+            [
+              -72.03397663789768,
+              -37.66616410250387
+            ],
+            [
+              -72.03431862805571,
+              -37.66609131308802
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "REG": "Biob\u00edo",
+        "COM": "Santa B\u00e1rbara",
+        "LOCALIDAD": "Santa B\u00e1rbara",
+        "ZONA": "Z8",
+        "NOMBRE": "Area consolidada 8",
+        "UPERM": "Equipamiento: educacion.",
+        "UPROH": "Todos los usos de suelo no mencionados como permitidos",
+        "IPT": "1ra modificacion PRC Santa Barbara. Res. Gore N\u00b080. Fecha promulgacion 09.07.2007. Fecha publicacion D.O. 27.03.2008.",
+        "Capa": "PRC Santa B\u00e1rbara",
+        "CUT": "08311",
+        "Shape_STAr": 28789.5625,
+        "Shape_STLe": 692.879828664
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -72.03431862805571,
+              -37.66609131308802
+            ],
+            [
+              -72.03459281591537,
+              -37.6660476902984
+            ],
+            [
+              -72.0354646186848,
+              -37.66571446051842
+            ],
+            [
+              -72.03651498211656,
+              -37.665248656371396
+            ],
+            [
+              -72.03785950377855,
+              -37.66466557316222
+            ],
+            [
+              -72.03850304112778,
+              -37.664374766975925
+            ],
+            [
+              -72.03856786017465,
+              -37.664272550170885
+            ],
+            [
+              -72.03854041752166,
+              -37.664163572351136
+            ],
+            [
+              -72.03842220368104,
+              -37.6640843556195
+            ],
+            [
+              -72.03610742619875,
+              -37.66343105583944
+            ],
+            [
+              -72.03319871860299,
+              -37.662591906881055
+            ],
+            [
+              -72.0299043550464,
+              -37.66159807264136
+            ],
+            [
+              -72.0294356916787,
+              -37.66194832090178
+            ],
+            [
+              -72.02673031833055,
+              -37.663845939345876
+            ],
+            [
+              -72.02668845619138,
+              -37.663947560294055
+            ],
+            [
+              -72.0266925383104,
+              -37.66404800122301
+            ],
+            [
+              -72.02676479486792,
+              -37.66412841035837
+            ],
+            [
+              -72.02708012079059,
+              -37.664248278444816
+            ],
+            [
+              -72.03181895737747,
+              -37.665698624601596
+            ],
+            [
+              -72.03164948720216,
+              -37.664642684888356
+            ],
+            [
+              -72.03218822601818,
+              -37.66460140340638
+            ],
+            [
+              -72.03326458780161,
+              -37.664491438372664
+            ],
+            [
+              -72.03431862805571,
+              -37.66609131308802
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "REG": "Biob\u00edo",
+        "COM": "Santa B\u00e1rbara",
+        "LOCALIDAD": "Santa B\u00e1rbara",
+        "ZONA": "EX1",
+        "NOMBRE": "Area de extensi\u00f3n urbana 1",
+        "UPERM": "Residencial. Equipamiento: cientifico, comercio, culto y cultura, deporte, educacion, esparcimiento, salud, seguridad, servicios, social. Actividades productivas. Infraestructura: transporte.",
+        "UPROH": "Todos los usos de suelo no mencionados como permitidos",
+        "IPT": "1ra modificacion PRC Santa Barbara. Res. Gore N\u00b080. Fecha promulgacion 09.07.2007. Fecha publicacion D.O. 27.03.2008.",
+        "Capa": "PRC Santa B\u00e1rbara",
+        "CUT": "08311",
+        "Shape_STAr": 253819.506836,
+        "Shape_STLe": 2607.21998383
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -72.0399938001448,
+              -37.663431410545336
+            ],
+            [
+              -72.03769433581886,
+              -37.659770522196574
+            ],
+            [
+              -72.03074873265426,
+              -37.661439252186256
+            ],
+            [
+              -72.03445105912257,
+              -37.662568808494186
+            ],
+            [
+              -72.03663758924769,
+              -37.66317974317294
+            ],
+            [
+              -72.03775402541139,
+              -37.663489167678925
+            ],
+            [
+              -72.03833354277096,
+              -37.66360219482066
+            ],
+            [
+              -72.03877075757838,
+              -37.66360920228506
+            ],
+            [
+              -72.03921908620586,
+              -37.663606781571936
+            ],
+            [
+              -72.03954994485265,
+              -37.66354340511436
+            ],
+            [
+              -72.0399938001448,
+              -37.663431410545336
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "REG": "Biob\u00edo",
+        "COM": "Santa B\u00e1rbara",
+        "LOCALIDAD": "Santa B\u00e1rbara",
+        "ZONA": "EX1",
+        "NOMBRE": "Area de extensi\u00f3n urbana 1",
+        "UPERM": "Residencial. Equipamiento: cientifico, comercio, culto y cultura, deporte, educacion, esparcimiento, salud, seguridad, servicios, social. Actividades productivas. Infraestructura: transporte.",
+        "UPROH": "Todos los usos de suelo no mencionados como permitidos",
+        "IPT": "1ra modificacion PRC Santa Barbara. Res. Gore N\u00b080. Fecha promulgacion 09.07.2007. Fecha publicacion D.O. 27.03.2008.",
+        "Capa": "PRC Santa B\u00e1rbara",
+        "CUT": "08311",
+        "Shape_STAr": 171776.731323,
+        "Shape_STLe": 1955.95580107
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -72.03074873265426,
+              -37.661439252186256
+            ],
+            [
+              -72.03769433581886,
+              -37.659770522196574
+            ],
+            [
+              -72.03701535201935,
+              -37.65862717715302
+            ],
+            [
+              -72.03274046076118,
+              -37.657832353517335
+            ],
+            [
+              -72.03151431690092,
+              -37.65934466352276
+            ],
+            [
+              -72.03076184863784,
+              -37.65950112456246
+            ],
+            [
+              -72.03115434904818,
+              -37.66067015776023
+            ],
+            [
+              -72.0302718707317,
+              -37.66130526675153
+            ],
+            [
+              -72.03074873265426,
+              -37.661439252186256
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "REG": "Biob\u00edo",
+        "COM": "Santa B\u00e1rbara",
+        "LOCALIDAD": "Santa B\u00e1rbara",
+        "ZONA": "EX4",
+        "NOMBRE": "Area de extensi\u00f3n urbana 4",
+        "UPERM": "Equipamiento: comercio, servicios. Actividades productivas.",
+        "UPROH": "Todos los usos de suelo no mencionados como permitidos",
+        "IPT": "1ra modificacion PRC Santa Barbara. Res. Gore N\u00b080. Fecha promulgacion 09.07.2007. Fecha publicacion D.O. 27.03.2008.",
+        "Capa": "PRC Santa B\u00e1rbara",
+        "CUT": "08311",
+        "Shape_STAr": 140125.616089,
+        "Shape_STLe": 1721.05692411
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -72.03274046076118,
+              -37.657832353517335
+            ],
+            [
+              -72.0320924557179,
+              -37.65773019980367
+            ],
+            [
+              -72.0294946201598,
+              -37.65830887811082
+            ],
+            [
+              -72.02988377896048,
+              -37.65967909268294
+            ],
+            [
+              -72.03055733923924,
+              -37.6595612279756
+            ],
+            [
+              -72.03076184863784,
+              -37.65950112456246
+            ],
+            [
+              -72.03151431690092,
+              -37.65934466352276
+            ],
+            [
+              -72.03274046076118,
+              -37.657832353517335
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "REG": "Biob\u00edo",
+        "COM": "Santa B\u00e1rbara",
+        "LOCALIDAD": "Santa B\u00e1rbara",
+        "ZONA": "EX5",
+        "NOMBRE": "Area de extensi\u00f3n urbana 5",
+        "UPERM": "Equipamiento: salud.",
+        "UPROH": "Todos los usos de suelo no mencionados como permitidos",
+        "IPT": "1ra modificacion PRC Santa Barbara. Res. Gore N\u00b080. Fecha promulgacion 09.07.2007. Fecha publicacion D.O. 27.03.2008.",
+        "Capa": "PRC Santa B\u00e1rbara",
+        "CUT": "08311",
+        "Shape_STAr": 36020.7937012,
+        "Shape_STLe": 801.066280943
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -72.03055733923924,
+              -37.6595612279756
+            ],
+            [
+              -72.02988377896048,
+              -37.65967909268294
+            ],
+            [
+              -72.0294946201598,
+              -37.65830887811082
+            ],
+            [
+              -72.0225485625878,
+              -37.65996799550389
+            ],
+            [
+              -72.02311876893637,
+              -37.65985282479107
+            ],
+            [
+              -72.02391794327104,
+              -37.65971349384416
+            ],
+            [
+              -72.02418211259285,
+              -37.65970671522465
+            ],
+            [
+              -72.02445776670457,
+              -37.65969964127184
+            ],
+            [
+              -72.02479270370773,
+              -37.65973674851302
+            ],
+            [
+              -72.02510541060691,
+              -37.659792705342106
+            ],
+            [
+              -72.02580270710044,
+              -37.65997589597588
+            ],
+            [
+              -72.02979389607553,
+              -37.661143886311834
+            ],
+            [
+              -72.0308449465953,
+              -37.66041303985425
+            ],
+            [
+              -72.03055733923924,
+              -37.6595612279756
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "REG": "Biob\u00edo",
+        "COM": "Santa B\u00e1rbara",
+        "LOCALIDAD": "Santa B\u00e1rbara",
+        "ZONA": "EX3",
+        "NOMBRE": "Area de extensi\u00f3n urbana 3",
+        "UPERM": "Residencial. Equipamiento: cientifico, comercio, culto y cultura, deporte, educacion, esparcimiento, salud, seguridad, servicios, social. Actividades productivas. Infraestructura: transporte.",
+        "UPROH": "Todos los usos de suelo no mencionados como permitidos",
+        "IPT": "1ra modificacion PRC Santa Barbara. Res. Gore N\u00b080. Fecha promulgacion 09.07.2007. Fecha publicacion D.O. 27.03.2008.",
+        "Capa": "PRC Santa B\u00e1rbara",
+        "CUT": "08311",
+        "Shape_STAr": 88781.0133057,
+        "Shape_STLe": 1748.61721375
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -72.02939192161648,
+              -37.661437576532386
+            ],
+            [
+              -72.02501687353848,
+              -37.6601605997835
+            ],
+            [
+              -72.02468082326294,
+              -37.6600961001089
+            ],
+            [
+              -72.02428882739592,
+              -37.66006959861309
+            ],
+            [
+              -72.02387534464184,
+              -37.66008020878253
+            ],
+            [
+              -72.02304319039854,
+              -37.660256947154544
+            ],
+            [
+              -72.02333145362189,
+              -37.66084368686215
+            ],
+            [
+              -72.02376163497394,
+              -37.661810687142065
+            ],
+            [
+              -72.02426778987271,
+              -37.662949404986726
+            ],
+            [
+              -72.02446529752142,
+              -37.663565892955255
+            ],
+            [
+              -72.0245323699127,
+              -37.66380182483495
+            ],
+            [
+              -72.02462686634482,
+              -37.66414673947546
+            ],
+            [
+              -72.02471060756534,
+              -37.664226855143134
+            ],
+            [
+              -72.02481546802821,
+              -37.66426072618814
+            ],
+            [
+              -72.0249533040016,
+              -37.66425718817596
+            ],
+            [
+              -72.02593999628246,
+              -37.66392107854913
+            ],
+            [
+              -72.02604003239475,
+              -37.66383624578056
+            ],
+            [
+              -72.02842161450677,
+              -37.66217547635383
+            ],
+            [
+              -72.02929263422695,
+              -37.66154067450845
+            ],
+            [
+              -72.02939192161648,
+              -37.661437576532386
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "REG": "Biob\u00edo",
+        "COM": "Santa B\u00e1rbara",
+        "LOCALIDAD": "Santa B\u00e1rbara",
+        "ZONA": "EX3",
+        "NOMBRE": "Area de extensi\u00f3n urbana 3",
+        "UPERM": "Residencial. Equipamiento: cientifico, comercio, culto y cultura, deporte, educacion, esparcimiento, salud, seguridad, servicios, social. Actividades productivas. Infraestructura: transporte.",
+        "UPROH": "Todos los usos de suelo no mencionados como permitidos",
+        "IPT": "1ra modificacion PRC Santa Barbara. Res. Gore N\u00b080. Fecha promulgacion 09.07.2007. Fecha publicacion D.O. 27.03.2008.",
+        "Capa": "PRC Santa B\u00e1rbara",
+        "CUT": "08311",
+        "Shape_STAr": 139074.363037,
+        "Shape_STLe": 1583.67388419
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -72.02283237224354,
+              -37.660303486448825
+            ],
+            [
+              -72.02035551806306,
+              -37.66089257213506
+            ],
+            [
+              -72.02014932554766,
+              -37.66105324584282
+            ],
+            [
+              -72.01890993106495,
+              -37.66182081524097
+            ],
+            [
+              -72.01890103552005,
+              -37.6618850274157
+            ],
+            [
+              -72.01893864081599,
+              -37.66196175923403
+            ],
+            [
+              -72.01915130436319,
+              -37.66224423736189
+            ],
+            [
+              -72.01916501176899,
+              -37.66229872961093
+            ],
+            [
+              -72.01908775503968,
+              -37.662378403988605
+            ],
+            [
+              -72.01831073782955,
+              -37.66320724535229
+            ],
+            [
+              -72.01831665887941,
+              -37.663353342233876
+            ],
+            [
+              -72.01843699859423,
+              -37.66504583054712
+            ],
+            [
+              -72.01838419260108,
+              -37.66516143989696
+            ],
+            [
+              -72.01950580049359,
+              -37.66489048215019
+            ],
+            [
+              -72.02191609841725,
+              -37.66435796141293
+            ],
+            [
+              -72.02363125985822,
+              -37.66398033773566
+            ],
+            [
+              -72.0238441267958,
+              -37.66398401675538
+            ],
+            [
+              -72.02409867851016,
+              -37.66402318733101
+            ],
+            [
+              -72.0242133553906,
+              -37.66401567451098
+            ],
+            [
+              -72.02432655010738,
+              -37.663971637088004
+            ],
+            [
+              -72.0243539623454,
+              -37.663797262704435
+            ],
+            [
+              -72.024219082095,
+              -37.663448814175304
+            ],
+            [
+              -72.0237953645204,
+              -37.66235825352225
+            ],
+            [
+              -72.02339444905566,
+              -37.66140421262462
+            ],
+            [
+              -72.02283237224354,
+              -37.660303486448825
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "REG": "Biob\u00edo",
+        "COM": "Santa B\u00e1rbara",
+        "LOCALIDAD": "Santa B\u00e1rbara",
+        "ZONA": "EX3",
+        "NOMBRE": "Area de extensi\u00f3n urbana 3",
+        "UPERM": "Residencial. Equipamiento: cientifico, comercio, culto y cultura, deporte, educacion, esparcimiento, salud, seguridad, servicios, social. Actividades productivas. Infraestructura: transporte.",
+        "UPROH": "Todos los usos de suelo no mencionados como permitidos",
+        "IPT": "1ra modificacion PRC Santa Barbara. Res. Gore N\u00b080. Fecha promulgacion 09.07.2007. Fecha publicacion D.O. 27.03.2008.",
+        "Capa": "PRC Santa B\u00e1rbara",
+        "CUT": "08311",
+        "Shape_STAr": 184702.180298,
+        "Shape_STLe": 1770.25549239
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -72.03045661154758,
+              -37.66549377283276
+            ],
+            [
+              -72.03056050622561,
+              -37.665820114593764
+            ],
+            [
+              -72.03029261869031,
+              -37.665877276807855
+            ],
+            [
+              -72.0301021152271,
+              -37.66543429028137
+            ],
+            [
+              -72.03019426198148,
+              -37.66541255166689
+            ],
+            [
+              -72.02811893174484,
+              -37.664770021086646
+            ],
+            [
+              -72.02662159805526,
+              -37.664282907279436
+            ],
+            [
+              -72.02607340249773,
+              -37.66423300116666
+            ],
+            [
+              -72.02587257708194,
+              -37.66424272784335
+            ],
+            [
+              -72.02545185107836,
+              -37.66435864661241
+            ],
+            [
+              -72.02524750909612,
+              -37.664423305837836
+            ],
+            [
+              -72.0249266325538,
+              -37.66444982356213
+            ],
+            [
+              -72.02479546736103,
+              -37.664476042016034
+            ],
+            [
+              -72.02475286046604,
+              -37.66455939972363
+            ],
+            [
+              -72.02500430210179,
+              -37.66551270026544
+            ],
+            [
+              -72.02500915477721,
+              -37.666339793689374
+            ],
+            [
+              -72.02508293993718,
+              -37.667448473110724
+            ],
+            [
+              -72.02510038845656,
+              -37.66816098638578
+            ],
+            [
+              -72.02508578682706,
+              -37.66893373563048
+            ],
+            [
+              -72.0261118165102,
+              -37.66857376307477
+            ],
+            [
+              -72.02676787110146,
+              -37.66858890556579
+            ],
+            [
+              -72.02692275857818,
+              -37.66858035716052
+            ],
+            [
+              -72.02827560392952,
+              -37.66833993714269
+            ],
+            [
+              -72.0284886953542,
+              -37.66863152796696
+            ],
+            [
+              -72.02858967752242,
+              -37.668711197573195
+            ],
+            [
+              -72.02882347324179,
+              -37.66852237805532
+            ],
+            [
+              -72.02935221341609,
+              -37.66823457144571
+            ],
+            [
+              -72.03001879155723,
+              -37.66794321840171
+            ],
+            [
+              -72.03060088568985,
+              -37.66769516684806
+            ],
+            [
+              -72.0314323380604,
+              -37.66735843323127
+            ],
+            [
+              -72.03311819105572,
+              -37.66668435804686
+            ],
+            [
+              -72.0333267876179,
+              -37.66658301411294
+            ],
+            [
+              -72.03336364274654,
+              -37.666499800620464
+            ],
+            [
+              -72.03335380833244,
+              -37.66639950728102
+            ],
+            [
+              -72.03326949657887,
+              -37.66630570188068
+            ],
+            [
+              -72.03301381781556,
+              -37.666239159698996
+            ],
+            [
+              -72.03051781371296,
+              -37.6655127205651
+            ],
+            [
+              -72.03045661154758,
+              -37.66549377283276
+            ]
+          ],
+          [
+            [
+              -72.02955734103462,
+              -37.66631664540761
+            ],
+            [
+              -72.02968076608668,
+              -37.666665381669816
+            ],
+            [
+              -72.02901455607963,
+              -37.66682418681899
+            ],
+            [
+              -72.02888594792137,
+              -37.66648929295033
+            ],
+            [
+              -72.02955734103462,
+              -37.66631664540761
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "REG": "Biob\u00edo",
+        "COM": "Santa B\u00e1rbara",
+        "LOCALIDAD": "Santa B\u00e1rbara",
+        "ZONA": "Z2",
+        "NOMBRE": "Area consolidada 2",
+        "UPERM": "Residencial. Equipamiento: cientifico, comercio, culto y cultura, deporte, educacion, esparcimiento, salud, seguridad, servicios, social. Actividades productivas. Infraestructura: transporte.",
+        "UPROH": "Todos los usos de suelo no mencionados como permitidos",
+        "IPT": "1ra modificacion PRC Santa Barbara. Res. Gore N\u00b080. Fecha promulgacion 09.07.2007. Fecha publicacion D.O. 27.03.2008.",
+        "Capa": "PRC Santa B\u00e1rbara",
+        "CUT": "08311",
+        "Shape_STAr": 230776.421753,
+        "Shape_STLe": 2451.27286511
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -72.0308247089916,
+              -37.667826518504654
+            ],
+            [
+              -72.03033283694587,
+              -37.66803111776798
+            ],
+            [
+              -72.02949100011162,
+              -37.668395532389454
+            ],
+            [
+              -72.02900765049607,
+              -37.66866846208911
+            ],
+            [
+              -72.02872216107609,
+              -37.66885861061126
+            ],
+            [
+              -72.02798574370348,
+              -37.6694122556801
+            ],
+            [
+              -72.0281243431637,
+              -37.6695686539688
+            ],
+            [
+              -72.02822681174636,
+              -37.669684847234706
+            ],
+            [
+              -72.02838672816836,
+              -37.669941241243684
+            ],
+            [
+              -72.02848345338666,
+              -37.670057582766276
+            ],
+            [
+              -72.02863724311608,
+              -37.670163316728186
+            ],
+            [
+              -72.02878491972555,
+              -37.67026006676361
+            ],
+            [
+              -72.02886922969759,
+              -37.67035387450074
+            ],
+            [
+              -72.02892705135314,
+              -37.670503207174484
+            ],
+            [
+              -72.0289568975895,
+              -37.67067153878532
+            ],
+            [
+              -72.0297389434059,
+              -37.67053260778266
+            ],
+            [
+              -72.03042890165933,
+              -37.67039146989415
+            ],
+            [
+              -72.03141566464588,
+              -37.67019698973819
+            ],
+            [
+              -72.03114313720936,
+              -37.6688694858469
+            ],
+            [
+              -72.0309448146009,
+              -37.66823475180024
+            ],
+            [
+              -72.0308247089916,
+              -37.667826518504654
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "REG": "Biob\u00edo",
+        "COM": "Santa B\u00e1rbara",
+        "LOCALIDAD": "Santa B\u00e1rbara",
+        "ZONA": "Z6",
+        "NOMBRE": "Area consolidada 6",
+        "UPERM": "Equipamiento: culto y cultura, deporte, educacion, esparcimiento. Area verde.",
+        "UPROH": "Todos los usos de suelo no mencionados como permitidos",
+        "IPT": "1ra modificacion PRC Santa Barbara. Res. Gore N\u00b080. Fecha promulgacion 09.07.2007. Fecha publicacion D.O. 27.03.2008.",
+        "Capa": "PRC Santa B\u00e1rbara",
+        "CUT": "08311",
+        "Shape_STAr": 58128.5794678,
+        "Shape_STLe": 968.316634686
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -72.02798574370348,
+              -37.6694122556801
+            ],
+            [
+              -72.02784605424462,
+              -37.669511820741455
+            ],
+            [
+              -72.02776084125823,
+              -37.669678539112425
+            ],
+            [
+              -72.02718731463204,
+              -37.67084497883791
+            ],
+            [
+              -72.02737685541709,
+              -37.67084010949938
+            ],
+            [
+              -72.02777149458637,
+              -37.6707888377258
+            ],
+            [
+              -72.02826377666923,
+              -37.670735056300444
+            ],
+            [
+              -72.02855095702546,
+              -37.670727674941716
+            ],
+            [
+              -72.02878014522354,
+              -37.67070807355403
+            ],
+            [
+              -72.0289568975895,
+              -37.67067153878532
+            ],
+            [
+              -72.02892705135314,
+              -37.670503207174484
+            ],
+            [
+              -72.02886922969759,
+              -37.67035387450074
+            ],
+            [
+              -72.02878491972555,
+              -37.67026006676361
+            ],
+            [
+              -72.02863724311608,
+              -37.670163316728186
+            ],
+            [
+              -72.02848345338666,
+              -37.670057582766276
+            ],
+            [
+              -72.02838672816836,
+              -37.669941241243684
+            ],
+            [
+              -72.02822681174636,
+              -37.669684847234706
+            ],
+            [
+              -72.0281243431637,
+              -37.6695686539688
+            ],
+            [
+              -72.02798574370348,
+              -37.6694122556801
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "REG": "Biob\u00edo",
+        "COM": "Santa B\u00e1rbara",
+        "LOCALIDAD": "Santa B\u00e1rbara",
+        "ZONA": "Z8",
+        "NOMBRE": "Area consolidada 8",
+        "UPERM": "Equipamiento: educacion.",
+        "UPROH": "Todos los usos de suelo no mencionados como permitidos",
+        "IPT": "1ra modificacion PRC Santa Barbara. Res. Gore N\u00b080. Fecha promulgacion 09.07.2007. Fecha publicacion D.O. 27.03.2008.",
+        "Capa": "PRC Santa B\u00e1rbara",
+        "CUT": "08311",
+        "Shape_STAr": 13080.9604492,
+        "Shape_STLe": 501.463760118
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -72.0281713059907,
+              -37.66846144472239
+            ],
+            [
+              -72.02687052067824,
+              -37.66870966631365
+            ],
+            [
+              -72.02614517188461,
+              -37.66868716216272
+            ],
+            [
+              -72.02512525613518,
+              -37.66905611892591
+            ],
+            [
+              -72.02507341942871,
+              -37.669902948052794
+            ],
+            [
+              -72.02652635711104,
+              -37.669861069568036
+            ],
+            [
+              -72.02715722276972,
+              -37.66982201425583
+            ],
+            [
+              -72.02735934984051,
+              -37.6697025660613
+            ],
+            [
+              -72.02783418435246,
+              -37.66936130676596
+            ],
+            [
+              -72.02850446590132,
+              -37.66887791641942
+            ],
+            [
+              -72.0281713059907,
+              -37.66846144472239
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "REG": "Biob\u00edo",
+        "COM": "Santa B\u00e1rbara",
+        "LOCALIDAD": "Santa B\u00e1rbara",
+        "ZONA": "Z1",
+        "NOMBRE": "Area consolidada 1",
+        "UPERM": "Residencial. Equipamiento: cientifico, comercio, culto y cultura, deporte, educacion, esparcimiento, salud, seguridad, servicios, social. Actividades productivas.",
+        "UPROH": "Todos los usos de suelo no mencionados como permitidos",
+        "IPT": "1ra modificacion PRC Santa Barbara. Res. Gore N\u00b080. Fecha promulgacion 09.07.2007. Fecha publicacion D.O. 27.03.2008.",
+        "Capa": "PRC Santa B\u00e1rbara",
+        "CUT": "08311",
+        "Shape_STAr": 32082.4061279,
+        "Shape_STLe": 772.819015138
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -72.0271498188638,
+              -37.66992275104381
+            ],
+            [
+              -72.02509639938197,
+              -37.67004403633355
+            ],
+            [
+              -72.02506105147414,
+              -37.67087216127949
+            ],
+            [
+              -72.02581272835455,
+              -37.67083458065429
+            ],
+            [
+              -72.02651734100598,
+              -37.67077078329328
+            ],
+            [
+              -72.02707761877409,
+              -37.67069240786421
+            ],
+            [
+              -72.02733826504243,
+              -37.67017384365443
+            ],
+            [
+              -72.02735567013953,
+              -37.67003628925147
+            ],
+            [
+              -72.02728340679425,
+              -37.669955880823395
+            ],
+            [
+              -72.0271498188638,
+              -37.66992275104381
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "REG": "Biob\u00edo",
+        "COM": "Santa B\u00e1rbara",
+        "LOCALIDAD": "Santa B\u00e1rbara",
+        "ZONA": "Z1",
+        "NOMBRE": "Area consolidada 1",
+        "UPERM": "Residencial. Equipamiento: cientifico, comercio, culto y cultura, deporte, educacion, esparcimiento, salud, seguridad, servicios, social. Actividades productivas.",
+        "UPROH": "Todos los usos de suelo no mencionados como permitidos",
+        "IPT": "1ra modificacion PRC Santa Barbara. Res. Gore N\u00b080. Fecha promulgacion 09.07.2007. Fecha publicacion D.O. 27.03.2008.",
+        "Capa": "PRC Santa B\u00e1rbara",
+        "CUT": "08311",
+        "Shape_STAr": 17230.3068848,
+        "Shape_STLe": 553.731435631
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -72.02493627709494,
+              -37.66907468186404
+            ],
+            [
+              -72.02418869248226,
+              -37.669071018183935
+            ],
+            [
+              -72.02419131793823,
+              -37.66998500262431
+            ],
+            [
+              -72.02491426834426,
+              -37.66994816601488
+            ],
+            [
+              -72.02493627709494,
+              -37.66907468186404
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "REG": "Biob\u00edo",
+        "COM": "Santa B\u00e1rbara",
+        "LOCALIDAD": "Santa B\u00e1rbara",
+        "ZONA": "Z8",
+        "NOMBRE": "Area consolidada 8",
+        "UPERM": "Equipamiento: educacion.",
+        "UPROH": "Todos los usos de suelo no mencionados como permitidos",
+        "IPT": "1ra modificacion PRC Santa Barbara. Res. Gore N\u00b080. Fecha promulgacion 09.07.2007. Fecha publicacion D.O. 27.03.2008.",
+        "Capa": "PRC Santa B\u00e1rbara",
+        "CUT": "08311",
+        "Shape_STAr": 6439.3001709,
+        "Shape_STLe": 328.438084471
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -72.02228072823198,
+              -37.669092545150434
+            ],
+            [
+              -72.02232149853322,
+              -37.670096958461855
+            ],
+            [
+              -72.02275189761477,
+              -37.67007677801381
+            ],
+            [
+              -72.0237427611295,
+              -37.669982803475904
+            ],
+            [
+              -72.02419131793823,
+              -37.66998500262431
+            ],
+            [
+              -72.02418869248226,
+              -37.669071018183935
+            ],
+            [
+              -72.02228072823198,
+              -37.669092545150434
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "REG": "Biob\u00edo",
+        "COM": "Santa B\u00e1rbara",
+        "LOCALIDAD": "Santa B\u00e1rbara",
+        "ZONA": "Z1",
+        "NOMBRE": "Area consolidada 1",
+        "UPERM": "Residencial. Equipamiento: cientifico, comercio, culto y cultura, deporte, educacion, esparcimiento, salud, seguridad, servicios, social. Actividades productivas.",
+        "UPROH": "Todos los usos de suelo no mencionados como permitidos",
+        "IPT": "1ra modificacion PRC Santa Barbara. Res. Gore N\u00b080. Fecha promulgacion 09.07.2007. Fecha publicacion D.O. 27.03.2008.",
+        "Capa": "PRC Santa B\u00e1rbara",
+        "CUT": "08311",
+        "Shape_STAr": 17606.6051025,
+        "Shape_STLe": 547.241137431
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -72.02228072823198,
+              -37.669092545150434
+            ],
+            [
+              -72.02187256614411,
+              -37.66909387272667
+            ],
+            [
+              -72.02191370265346,
+              -37.670107416839194
+            ],
+            [
+              -72.02232149853322,
+              -37.670096958461855
+            ],
+            [
+              -72.02228072823198,
+              -37.669092545150434
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "REG": "Biob\u00edo",
+        "COM": "Santa B\u00e1rbara",
+        "LOCALIDAD": "Santa B\u00e1rbara",
+        "ZONA": "Z9",
+        "NOMBRE": "Area consolidada 9",
+        "UPERM": "Equipamiento: comercio, culto y cultura, esparcimiento, servicios.",
+        "UPROH": "Todos los usos de suelo no mencionados como permitidos",
+        "IPT": "1ra modificacion PRC Santa Barbara. Res. Gore N\u00b080. Fecha promulgacion 09.07.2007. Fecha publicacion D.O. 27.03.2008.",
+        "Capa": "PRC Santa B\u00e1rbara",
+        "CUT": "08311",
+        "Shape_STAr": 4037.04626465,
+        "Shape_STLe": 296.237783579
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -72.02180049604232,
+              -37.66972641745041
+            ],
+            [
+              -72.02102770490326,
+              -37.669810216052596
+            ],
+            [
+              -72.02106346093281,
+              -37.6701246477084
+            ],
+            [
+              -72.02179882959099,
+              -37.67011036173014
+            ],
+            [
+              -72.02180049604232,
+              -37.66972641745041
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "REG": "Biob\u00edo",
+        "COM": "Santa B\u00e1rbara",
+        "LOCALIDAD": "Santa B\u00e1rbara",
+        "ZONA": "Z9",
+        "NOMBRE": "Area consolidada 9",
+        "UPERM": "Equipamiento: comercio, culto y cultura, esparcimiento, servicios.",
+        "UPROH": "Todos los usos de suelo no mencionados como permitidos",
+        "IPT": "1ra modificacion PRC Santa Barbara. Res. Gore N\u00b080. Fecha promulgacion 09.07.2007. Fecha publicacion D.O. 27.03.2008.",
+        "Capa": "PRC Santa B\u00e1rbara",
+        "CUT": "08311",
+        "Shape_STAr": 2589.04846191,
+        "Shape_STLe": 211.463537204
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -72.02090764467587,
+              -37.66982700388423
+            ],
+            [
+              -72.02039850186591,
+              -37.66989032841947
+            ],
+            [
+              -72.02046130702354,
+              -37.6701629344746
+            ],
+            [
+              -72.02095433218365,
+              -37.67012744540806
+            ],
+            [
+              -72.02090764467587,
+              -37.66982700388423
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "REG": "Biob\u00edo",
+        "COM": "Santa B\u00e1rbara",
+        "LOCALIDAD": "Santa B\u00e1rbara",
+        "ZONA": "Z9",
+        "NOMBRE": "Area consolidada 9",
+        "UPERM": "Equipamiento: comercio, culto y cultura, esparcimiento, servicios.",
+        "UPROH": "Todos los usos de suelo no mencionados como permitidos",
+        "IPT": "1ra modificacion PRC Santa Barbara. Res. Gore N\u00b080. Fecha promulgacion 09.07.2007. Fecha publicacion D.O. 27.03.2008.",
+        "Capa": "PRC Santa B\u00e1rbara",
+        "CUT": "08311",
+        "Shape_STAr": 1433.71679688,
+        "Shape_STLe": 153.572493975
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -72.02234892050629,
+              -37.670205941797974
+            ],
+            [
+              -72.02196391289598,
+              -37.67021124500334
+            ],
+            [
+              -72.0220017155497,
+              -37.67114260942388
+            ],
+            [
+              -72.02237449993845,
+              -37.67111933781229
+            ],
+            [
+              -72.02234892050629,
+              -37.670205941797974
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "REG": "Biob\u00edo",
+        "COM": "Santa B\u00e1rbara",
+        "LOCALIDAD": "Santa B\u00e1rbara",
+        "ZONA": "Z9",
+        "NOMBRE": "Area consolidada 9",
+        "UPERM": "Equipamiento: comercio, culto y cultura, esparcimiento, servicios.",
+        "UPROH": "Todos los usos de suelo no mencionados como permitidos",
+        "IPT": "1ra modificacion PRC Santa Barbara. Res. Gore N\u00b080. Fecha promulgacion 09.07.2007. Fecha publicacion D.O. 27.03.2008.",
+        "Capa": "PRC Santa B\u00e1rbara",
+        "CUT": "08311",
+        "Shape_STAr": 3429.85351563,
+        "Shape_STLe": 271.920155223
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -72.02185621533646,
+              -37.67078802463173
+            ],
+            [
+              -72.02115541433426,
+              -37.67080963944804
+            ],
+            [
+              -72.02119518883288,
+              -37.67124555533348
+            ],
+            [
+              -72.02186479295959,
+              -37.671168971559155
+            ],
+            [
+              -72.02185621533646,
+              -37.67078802463173
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "REG": "Biob\u00edo",
+        "COM": "Santa B\u00e1rbara",
+        "LOCALIDAD": "Santa B\u00e1rbara",
+        "ZONA": "Z9",
+        "NOMBRE": "Area consolidada 9",
+        "UPERM": "Equipamiento: comercio, culto y cultura, esparcimiento, servicios.",
+        "UPROH": "Todos los usos de suelo no mencionados como permitidos",
+        "IPT": "1ra modificacion PRC Santa Barbara. Res. Gore N\u00b080. Fecha promulgacion 09.07.2007. Fecha publicacion D.O. 27.03.2008.",
+        "Capa": "PRC Santa B\u00e1rbara",
+        "CUT": "08311",
+        "Shape_STAr": 2754.59191895,
+        "Shape_STLe": 212.455227422
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -72.0209698951169,
+              -37.67022759136222
+            ],
+            [
+              -72.02044833703971,
+              -37.67026838274282
+            ],
+            [
+              -72.0206226700144,
+              -37.67130593406532
+            ],
+            [
+              -72.0210617871261,
+              -37.671216982934844
+            ],
+            [
+              -72.0209698951169,
+              -37.67022759136222
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "REG": "Biob\u00edo",
+        "COM": "Santa B\u00e1rbara",
+        "LOCALIDAD": "Santa B\u00e1rbara",
+        "ZONA": "Z9",
+        "NOMBRE": "Area consolidada 9",
+        "UPERM": "Equipamiento: comercio, culto y cultura, esparcimiento, servicios.",
+        "UPROH": "Todos los usos de suelo no mencionados como permitidos",
+        "IPT": "1ra modificacion PRC Santa Barbara. Res. Gore N\u00b080. Fecha promulgacion 09.07.2007. Fecha publicacion D.O. 27.03.2008.",
+        "Capa": "PRC Santa B\u00e1rbara",
+        "CUT": "08311",
+        "Shape_STAr": 4855.97607422,
+        "Shape_STLe": 312.655330106
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -72.02044833703971,
+              -37.67026838274282
+            ],
+            [
+              -72.01947803218107,
+              -37.67030239041433
+            ],
+            [
+              -72.01830780756417,
+              -37.67036893174768
+            ],
+            [
+              -72.01817662924317,
+              -37.67039514335534
+            ],
+            [
+              -72.01663677421524,
+              -37.67042086223166
+            ],
+            [
+              -72.01557827408232,
+              -37.670406822977306
+            ],
+            [
+              -72.01456757209047,
+              -37.67043725307468
+            ],
+            [
+              -72.01450766631406,
+              -37.671087763976686
+            ],
+            [
+              -72.01554746493295,
+              -37.671065729617276
+            ],
+            [
+              -72.01677551053324,
+              -37.67100687524841
+            ],
+            [
+              -72.01794037204877,
+              -37.67094962629331
+            ],
+            [
+              -72.01843432975382,
+              -37.670936974610065
+            ],
+            [
+              -72.01891531495882,
+              -37.67102976994867
+            ],
+            [
+              -72.02006182671006,
+              -37.67122890512564
+            ],
+            [
+              -72.0206226700144,
+              -37.67130593406532
+            ],
+            [
+              -72.02044833703971,
+              -37.67026838274282
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "REG": "Biob\u00edo",
+        "COM": "Santa B\u00e1rbara",
+        "LOCALIDAD": "Santa B\u00e1rbara",
+        "ZONA": "Z1",
+        "NOMBRE": "Area consolidada 1",
+        "UPERM": "Residencial. Equipamiento: cientifico, comercio, culto y cultura, deporte, educacion, esparcimiento, salud, seguridad, servicios, social. Actividades productivas.",
+        "UPROH": "Todos los usos de suelo no mencionados como permitidos",
+        "IPT": "1ra modificacion PRC Santa Barbara. Res. Gore N\u00b080. Fecha promulgacion 09.07.2007. Fecha publicacion D.O. 27.03.2008.",
+        "Capa": "PRC Santa B\u00e1rbara",
+        "CUT": "08311",
+        "Shape_STAr": 39995.9658203,
+        "Shape_STLe": 1253.0915617
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -72.02175195263086,
+              -37.66909696565272
+            ],
+            [
+              -72.02091858370018,
+              -37.669104622650906
+            ],
+            [
+              -72.02102770490326,
+              -37.669810216052596
+            ],
+            [
+              -72.02180049604232,
+              -37.66972641745041
+            ],
+            [
+              -72.02175195263086,
+              -37.66909696565272
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "REG": "Biob\u00edo",
+        "COM": "Santa B\u00e1rbara",
+        "LOCALIDAD": "Santa B\u00e1rbara",
+        "ZONA": "Z1",
+        "NOMBRE": "Area consolidada 1",
+        "UPERM": "Residencial. Equipamiento: cientifico, comercio, culto y cultura, deporte, educacion, esparcimiento, salud, seguridad, servicios, social. Actividades productivas.",
+        "UPROH": "Todos los usos de suelo no mencionados como permitidos",
+        "IPT": "1ra modificacion PRC Santa Barbara. Res. Gore N\u00b080. Fecha promulgacion 09.07.2007. Fecha publicacion D.O. 27.03.2008.",
+        "Capa": "PRC Santa B\u00e1rbara",
+        "CUT": "08311",
+        "Shape_STAr": 5289.63195801,
+        "Shape_STLe": 291.376215449
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -72.02080389845948,
+              -37.669112132608724
+            ],
+            [
+              -72.01965982066703,
+              -37.669114033467224
+            ],
+            [
+              -72.01807607947995,
+              -37.669191168714065
+            ],
+            [
+              -72.01629686777233,
+              -37.66926871440135
+            ],
+            [
+              -72.01461251855036,
+              -37.66927525398647
+            ],
+            [
+              -72.01456313565971,
+              -37.67032767971683
+            ],
+            [
+              -72.01521735887654,
+              -37.67029723075002
+            ],
+            [
+              -72.01562571419439,
+              -37.67030049210801
+            ],
+            [
+              -72.01656915396833,
+              -37.6703129073642
+            ],
+            [
+              -72.01821813721342,
+              -37.670284393460776
+            ],
+            [
+              -72.01832022762915,
+              -37.67024978690489
+            ],
+            [
+              -72.01960587691785,
+              -37.6701939977449
+            ],
+            [
+              -72.02046130702354,
+              -37.6701629344746
+            ],
+            [
+              -72.02039850186591,
+              -37.66989032841947
+            ],
+            [
+              -72.02090764467587,
+              -37.66982700388423
+            ],
+            [
+              -72.02080389845948,
+              -37.669112132608724
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "REG": "Biob\u00edo",
+        "COM": "Santa B\u00e1rbara",
+        "LOCALIDAD": "Santa B\u00e1rbara",
+        "ZONA": "Z1",
+        "NOMBRE": "Area consolidada 1",
+        "UPERM": "Residencial. Equipamiento: cientifico, comercio, culto y cultura, deporte, educacion, esparcimiento, salud, seguridad, servicios, social. Actividades productivas.",
+        "UPROH": "Todos los usos de suelo no mencionados como permitidos",
+        "IPT": "1ra modificacion PRC Santa Barbara. Res. Gore N\u00b080. Fecha promulgacion 09.07.2007. Fecha publicacion D.O. 27.03.2008.",
+        "Capa": "PRC Santa B\u00e1rbara",
+        "CUT": "08311",
+        "Shape_STAr": 63883.0996094,
+        "Shape_STLe": 1341.89780706
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -72.01442261099726,
+              -37.669270972097394
+            ],
+            [
+              -72.01338876324631,
+              -37.6692974129923
+            ],
+            [
+              -72.01233209014775,
+              -37.66961235645208
+            ],
+            [
+              -72.01256898822946,
+              -37.67020957662779
+            ],
+            [
+              -72.01279520785262,
+              -37.67025863656567
+            ],
+            [
+              -72.01320096112656,
+              -37.670339667156824
+            ],
+            [
+              -72.01339068670868,
+              -37.67033938563993
+            ],
+            [
+              -72.01440212792977,
+              -37.67032722851031
+            ],
+            [
+              -72.01442261099726,
+              -37.669270972097394
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "REG": "Biob\u00edo",
+        "COM": "Santa B\u00e1rbara",
+        "LOCALIDAD": "Santa B\u00e1rbara",
+        "ZONA": "Z1",
+        "NOMBRE": "Area consolidada 1",
+        "UPERM": "Residencial. Equipamiento: cientifico, comercio, culto y cultura, deporte, educacion, esparcimiento, salud, seguridad, servicios, social. Actividades productivas.",
+        "UPROH": "Todos los usos de suelo no mencionados como permitidos",
+        "IPT": "1ra modificacion PRC Santa Barbara. Res. Gore N\u00b080. Fecha promulgacion 09.07.2007. Fecha publicacion D.O. 27.03.2008.",
+        "Capa": "PRC Santa B\u00e1rbara",
+        "CUT": "08311",
+        "Shape_STAr": 18296.2432861,
+        "Shape_STLe": 541.406692936
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -72.0144067489535,
+              -37.670441367141606
+            ],
+            [
+              -72.01384850389248,
+              -37.6704282243607
+            ],
+            [
+              -72.01348201609407,
+              -37.67046501785643
+            ],
+            [
+              -72.01317815476625,
+              -37.67048649890148
+            ],
+            [
+              -72.01284780856862,
+              -37.670421821159024
+            ],
+            [
+              -72.01259213065507,
+              -37.670355234494096
+            ],
+            [
+              -72.01291718891808,
+              -37.67128382969379
+            ],
+            [
+              -72.01433387514474,
+              -37.67105564712818
+            ],
+            [
+              -72.0144067489535,
+              -37.670441367141606
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "REG": "Biob\u00edo",
+        "COM": "Santa B\u00e1rbara",
+        "LOCALIDAD": "Santa B\u00e1rbara",
+        "ZONA": "Z1",
+        "NOMBRE": "Area consolidada 1",
+        "UPERM": "Residencial. Equipamiento: cientifico, comercio, culto y cultura, deporte, educacion, esparcimiento, salud, seguridad, servicios, social. Actividades productivas.",
+        "UPROH": "Todos los usos de suelo no mencionados como permitidos",
+        "IPT": "1ra modificacion PRC Santa Barbara. Res. Gore N\u00b080. Fecha promulgacion 09.07.2007. Fecha publicacion D.O. 27.03.2008.",
+        "Capa": "PRC Santa B\u00e1rbara",
+        "CUT": "08311",
+        "Shape_STAr": 11543.4415283,
+        "Shape_STLe": 465.733799423
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -72.02234892050629,
+              -37.670205941797974
+            ],
+            [
+              -72.02237449993845,
+              -37.67111933781229
+            ],
+            [
+              -72.02263815284316,
+              -37.67109886347794
+            ],
+            [
+              -72.02365255958705,
+              -37.67101799639484
+            ],
+            [
+              -72.02489596953451,
+              -37.67091296062574
+            ],
+            [
+              -72.02490723233159,
+              -37.67005803321795
+            ],
+            [
+              -72.0237703704731,
+              -37.670096350712804
+            ],
+            [
+              -72.0227854353097,
+              -37.670194745213585
+            ],
+            [
+              -72.02234892050629,
+              -37.670205941797974
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "REG": "Biob\u00edo",
+        "COM": "Santa B\u00e1rbara",
+        "LOCALIDAD": "Santa B\u00e1rbara",
+        "ZONA": "Z1",
+        "NOMBRE": "Area consolidada 1",
+        "UPERM": "Residencial. Equipamiento: cientifico, comercio, culto y cultura, deporte, educacion, esparcimiento, salud, seguridad, servicios, social. Actividades productivas.",
+        "UPROH": "Todos los usos de suelo no mencionados como permitidos",
+        "IPT": "1ra modificacion PRC Santa Barbara. Res. Gore N\u00b080. Fecha promulgacion 09.07.2007. Fecha publicacion D.O. 27.03.2008.",
+        "Capa": "PRC Santa B\u00e1rbara",
+        "CUT": "08311",
+        "Shape_STAr": 22253.262085,
+        "Shape_STLe": 646.734076001
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -72.02035551806306,
+              -37.66089257213506
+            ],
+            [
+              -72.02016192613549,
+              -37.660938667006725
+            ],
+            [
+              -72.01995517539858,
+              -37.661085642932605
+            ],
+            [
+              -72.01943329917593,
+              -37.66140065311968
+            ],
+            [
+              -72.01883342180923,
+              -37.66177707349223
+            ],
+            [
+              -72.01881285581707,
+              -37.661837012827135
+            ],
+            [
+              -72.01881081428715,
+              -37.661928471136875
+            ],
+            [
+              -72.01887805802325,
+              -37.662027294576696
+            ],
+            [
+              -72.01906089667548,
+              -37.66228311607011
+            ],
+            [
+              -72.01898401109007,
+              -37.66237192084307
+            ],
+            [
+              -72.018223665884,
+              -37.6631866236916
+            ],
+            [
+              -72.01829291078616,
+              -37.66404406143659
+            ],
+            [
+              -72.01834455165839,
+              -37.665034487560874
+            ],
+            [
+              -72.0183293562312,
+              -37.66508514928595
+            ],
+            [
+              -72.01779319216561,
+              -37.66519028669535
+            ],
+            [
+              -72.01701469741185,
+              -37.66527420337542
+            ],
+            [
+              -72.01667158205328,
+              -37.665319549769094
+            ],
+            [
+              -72.01665804994289,
+              -37.66541130129245
+            ],
+            [
+              -72.01805367371003,
+              -37.665233889372736
+            ],
+            [
+              -72.01838419260108,
+              -37.66516143989696
+            ],
+            [
+              -72.01843699859423,
+              -37.66504583054712
+            ],
+            [
+              -72.01831665887941,
+              -37.663353342233876
+            ],
+            [
+              -72.01831073782955,
+              -37.66320724535229
+            ],
+            [
+              -72.01908775503968,
+              -37.662378403988605
+            ],
+            [
+              -72.01916501176899,
+              -37.66229872961093
+            ],
+            [
+              -72.01915130436319,
+              -37.66224423736189
+            ],
+            [
+              -72.01893864081599,
+              -37.66196175923403
+            ],
+            [
+              -72.01890103552005,
+              -37.6618850274157
+            ],
+            [
+              -72.01890993106495,
+              -37.66182081524097
+            ],
+            [
+              -72.02014932554766,
+              -37.66105324584282
+            ],
+            [
+              -72.02035551806306,
+              -37.66089257213506
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "REG": "Biob\u00edo",
+        "COM": "Santa B\u00e1rbara",
+        "LOCALIDAD": "Santa B\u00e1rbara",
+        "ZONA": "R3",
+        "NOMBRE": "Zona no edificable de proteccion de cursos de agua y canales",
+        "UPERM": "Sin informacion.",
+        "UPROH": "Todos los usos de suelo no mencionados como permitidos",
+        "IPT": "1ra modificacion PRC Santa Barbara. Res. Gore N\u00b080. Fecha promulgacion 09.07.2007. Fecha publicacion D.O. 27.03.2008.",
+        "Capa": "PRC Santa B\u00e1rbara",
+        "CUT": "08311",
+        "Shape_STAr": 5729.59338379,
+        "Shape_STLe": 1447.10580948
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -72.01665804994289,
+              -37.66541130129245
+            ],
+            [
+              -72.01667158205328,
+              -37.665319549769094
+            ],
+            [
+              -72.01701469741185,
+              -37.66527420337542
+            ],
+            [
+              -72.01779319216561,
+              -37.66519028669535
+            ],
+            [
+              -72.0183293562312,
+              -37.66508514928595
+            ],
+            [
+              -72.01834455165839,
+              -37.665034487560874
+            ],
+            [
+              -72.01829291078616,
+              -37.66404406143659
+            ],
+            [
+              -72.018223665884,
+              -37.6631866236916
+            ],
+            [
+              -72.01898401109007,
+              -37.66237192084307
+            ],
+            [
+              -72.01906089667548,
+              -37.66228311607011
+            ],
+            [
+              -72.01887805802325,
+              -37.662027294576696
+            ],
+            [
+              -72.01881081428715,
+              -37.661928471136875
+            ],
+            [
+              -72.01881285581707,
+              -37.661837012827135
+            ],
+            [
+              -72.01883342180923,
+              -37.66177707349223
+            ],
+            [
+              -72.01943329917593,
+              -37.66140065311968
+            ],
+            [
+              -72.01995517539858,
+              -37.661085642932605
+            ],
+            [
+              -72.02016192613549,
+              -37.660938667006725
+            ],
+            [
+              -72.01946165385965,
+              -37.661107429573704
+            ],
+            [
+              -72.01888401722572,
+              -37.66132332002495
+            ],
+            [
+              -72.01833768159464,
+              -37.6616023894217
+            ],
+            [
+              -72.01789453116814,
+              -37.66187424490295
+            ],
+            [
+              -72.01747249097974,
+              -37.66224153246327
+            ],
+            [
+              -72.01715308116303,
+              -37.662587911102214
+            ],
+            [
+              -72.01680790301324,
+              -37.663149750559604
+            ],
+            [
+              -72.0166520681765,
+              -37.66356049378337
+            ],
+            [
+              -72.016333870007,
+              -37.66493058025042
+            ],
+            [
+              -72.01665804994289,
+              -37.66541130129245
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "REG": "Biob\u00edo",
+        "COM": "Santa B\u00e1rbara",
+        "LOCALIDAD": "Santa B\u00e1rbara",
+        "ZONA": "EX3",
+        "NOMBRE": "Area de extensi\u00f3n urbana 3",
+        "UPERM": "Residencial. Equipamiento: cientifico, comercio, culto y cultura, deporte, educacion, esparcimiento, salud, seguridad, servicios, social. Actividades productivas. Infraestructura: transporte.",
+        "UPROH": "Todos los usos de suelo no mencionados como permitidos",
+        "IPT": "1ra modificacion PRC Santa Barbara. Res. Gore N\u00b080. Fecha promulgacion 09.07.2007. Fecha publicacion D.O. 27.03.2008.",
+        "Capa": "PRC Santa B\u00e1rbara",
+        "CUT": "08311",
+        "Shape_STAr": 59909.6234131,
+        "Shape_STLe": 1369.89425231
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -72.01610580403002,
+              -37.664977550128725
+            ],
+            [
+              -72.01510809053018,
+              -37.66561092825704
+            ],
+            [
+              -72.01639515420193,
+              -37.66545002246741
+            ],
+            [
+              -72.01610580403002,
+              -37.664977550128725
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "REG": "Biob\u00edo",
+        "COM": "Santa B\u00e1rbara",
+        "LOCALIDAD": "Santa B\u00e1rbara",
+        "ZONA": "EX2",
+        "NOMBRE": "Area de extensi\u00f3n urbana 2",
+        "UPERM": "Residencial. Equipamiento: cientifico, comercio, culto y cultura, deporte, educacion, esparcimiento, salud, seguridad, servicios, social.",
+        "UPROH": "Todos los usos de suelo no mencionados como permitidos",
+        "IPT": "1ra modificacion PRC Santa Barbara. Res. Gore N\u00b080. Fecha promulgacion 09.07.2007. Fecha publicacion D.O. 27.03.2008.",
+        "Capa": "PRC Santa B\u00e1rbara",
+        "CUT": "08311",
+        "Shape_STAr": 3208.45898438,
+        "Shape_STLe": 286.06598022
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -72.01572976716758,
+              -37.664351905898705
+            ],
+            [
+              -72.014907009318,
+              -37.664336395176676
+            ],
+            [
+              -72.01467264677889,
+              -37.66436981338442
+            ],
+            [
+              -72.01423132842842,
+              -37.66454563164485
+            ],
+            [
+              -72.01391506696952,
+              -37.66468625827627
+            ],
+            [
+              -72.0135708254211,
+              -37.6648458804498
+            ],
+            [
+              -72.01323880939127,
+              -37.66502347079884
+            ],
+            [
+              -72.01293384391148,
+              -37.66515923602725
+            ],
+            [
+              -72.01270280223035,
+              -37.66527482888429
+            ],
+            [
+              -72.01250474338221,
+              -37.66535301733088
+            ],
+            [
+              -72.01226295206544,
+              -37.66548716500076
+            ],
+            [
+              -72.01184422467158,
+              -37.66565325705126
+            ],
+            [
+              -72.01153777910602,
+              -37.66575249483449
+            ],
+            [
+              -72.0109947039509,
+              -37.66611371292396
+            ],
+            [
+              -72.01122759715844,
+              -37.66604377774673
+            ],
+            [
+              -72.01169949563709,
+              -37.66591289160918
+            ],
+            [
+              -72.01232127159845,
+              -37.665791883428795
+            ],
+            [
+              -72.01359649106853,
+              -37.66562217090872
+            ],
+            [
+              -72.01419046898656,
+              -37.66552471463941
+            ],
+            [
+              -72.0143785200818,
+              -37.66548334287659
+            ],
+            [
+              -72.01467866290444,
+              -37.66537054904136
+            ],
+            [
+              -72.01554779695273,
+              -37.664827300887275
+            ],
+            [
+              -72.01584034341057,
+              -37.66466899506338
+            ],
+            [
+              -72.01587110617668,
+              -37.66457680264962
+            ],
+            [
+              -72.01572976716758,
+              -37.664351905898705
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "REG": "Biob\u00edo",
+        "COM": "Santa B\u00e1rbara",
+        "LOCALIDAD": "Santa B\u00e1rbara",
+        "ZONA": "EX2",
+        "NOMBRE": "Area de extensi\u00f3n urbana 2",
+        "UPERM": "Residencial. Equipamiento: cientifico, comercio, culto y cultura, deporte, educacion, esparcimiento, salud, seguridad, servicios, social.",
+        "UPROH": "Todos los usos de suelo no mencionados como permitidos",
+        "IPT": "1ra modificacion PRC Santa Barbara. Res. Gore N\u00b080. Fecha promulgacion 09.07.2007. Fecha publicacion D.O. 27.03.2008.",
+        "Capa": "PRC Santa B\u00e1rbara",
+        "CUT": "08311",
+        "Shape_STAr": 26818.2597656,
+        "Shape_STLe": 977.389348036
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -72.01954799841357,
+              -37.660684752511365
+            ],
+            [
+              -72.01946074411237,
+              -37.66065956640215
+            ],
+            [
+              -72.01794534045088,
+              -37.661000021367485
+            ],
+            [
+              -72.01663629930655,
+              -37.661326033967164
+            ],
+            [
+              -72.01668204857056,
+              -37.66146197153916
+            ],
+            [
+              -72.016540497836,
+              -37.66165754696333
+            ],
+            [
+              -72.01626235190854,
+              -37.662597001464825
+            ],
+            [
+              -72.01597739458708,
+              -37.66294249431215
+            ],
+            [
+              -72.0154964156534,
+              -37.66341640029858
+            ],
+            [
+              -72.01548805957184,
+              -37.663635987954535
+            ],
+            [
+              -72.01564643988414,
+              -37.663855878083915
+            ],
+            [
+              -72.0159178131878,
+              -37.664310531863684
+            ],
+            [
+              -72.0159817284925,
+              -37.66432717606993
+            ],
+            [
+              -72.01615223090828,
+              -37.66356871853516
+            ],
+            [
+              -72.01625859814095,
+              -37.663214084595594
+            ],
+            [
+              -72.0165057690214,
+              -37.66278729312105
+            ],
+            [
+              -72.01666696620794,
+              -37.66250895054232
+            ],
+            [
+              -72.01690652872635,
+              -37.66217832816562
+            ],
+            [
+              -72.01720018304819,
+              -37.66190573389299
+            ],
+            [
+              -72.01752328831915,
+              -37.66165066747502
+            ],
+            [
+              -72.0177735828102,
+              -37.66144316636869
+            ],
+            [
+              -72.01817708591837,
+              -37.661186037622315
+            ],
+            [
+              -72.01869636954575,
+              -37.660948794514844
+            ],
+            [
+              -72.01911597953604,
+              -37.66080550690505
+            ],
+            [
+              -72.01954799841357,
+              -37.660684752511365
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "REG": "Biob\u00edo",
+        "COM": "Santa B\u00e1rbara",
+        "LOCALIDAD": "Santa B\u00e1rbara",
+        "ZONA": "R2",
+        "NOMBRE": "Zona no edificable de proteccion de laderas y quebradas",
+        "UPERM": "Area verde.",
+        "UPROH": "Todos los usos de suelo no mencionados como permitidos",
+        "IPT": "1ra modificacion PRC Santa Barbara. Res. Gore N\u00b080. Fecha promulgacion 09.07.2007. Fecha publicacion D.O. 27.03.2008.",
+        "Capa": "PRC Santa B\u00e1rbara",
+        "CUT": "08311",
+        "Shape_STAr": 20997.5999756,
+        "Shape_STLe": 1189.83869002
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -72.01623239818207,
+              -37.66185738322221
+            ],
+            [
+              -72.01614031422015,
+              -37.66199684865373
+            ],
+            [
+              -72.01605916060534,
+              -37.662122323414046
+            ],
+            [
+              -72.0159189011601,
+              -37.66234985589475
+            ],
+            [
+              -72.01568212910936,
+              -37.66246560106461
+            ],
+            [
+              -72.01555818613086,
+              -37.66252818700959
+            ],
+            [
+              -72.01548240397896,
+              -37.66264438306433
+            ],
+            [
+              -72.01541792333691,
+              -37.6627557199079
+            ],
+            [
+              -72.01530731348608,
+              -37.66286366522313
+            ],
+            [
+              -72.0151585479098,
+              -37.66288118239203
+            ],
+            [
+              -72.01494291116319,
+              -37.662809005003275
+            ],
+            [
+              -72.01476599763652,
+              -37.66269927398707
+            ],
+            [
+              -72.01464132689516,
+              -37.66260191806302
+            ],
+            [
+              -72.0144401499047,
+              -37.66246081458256
+            ],
+            [
+              -72.01424896631977,
+              -37.66242457301476
+            ],
+            [
+              -72.01408352516387,
+              -37.66245622530083
+            ],
+            [
+              -72.01397884234291,
+              -37.66256858869679
+            ],
+            [
+              -72.01402236940737,
+              -37.66264974070345
+            ],
+            [
+              -72.01415797063505,
+              -37.66273310776094
+            ],
+            [
+              -72.01433636058805,
+              -37.66287936456121
+            ],
+            [
+              -72.01446361746402,
+              -37.663040639008535
+            ],
+            [
+              -72.01458827610699,
+              -37.66327967499001
+            ],
+            [
+              -72.01463012616324,
+              -37.663461415708404
+            ],
+            [
+              -72.01463066689381,
+              -37.663616791408934
+            ],
+            [
+              -72.01453765272042,
+              -37.66373342769439
+            ],
+            [
+              -72.01438072472169,
+              -37.66383341701361
+            ],
+            [
+              -72.01418451823105,
+              -37.663957262519006
+            ],
+            [
+              -72.01402666541787,
+              -37.66403442418632
+            ],
+            [
+              -72.0138111958029,
+              -37.66410849007049
+            ],
+            [
+              -72.0136420413156,
+              -37.66419051025159
+            ],
+            [
+              -72.01342786396656,
+              -37.66429653322868
+            ],
+            [
+              -72.01322517171302,
+              -37.664402262160706
+            ],
+            [
+              -72.01298116935475,
+              -37.66448162519775
+            ],
+            [
+              -72.0128238682262,
+              -37.6645724820526
+            ],
+            [
+              -72.01263618776687,
+              -37.66462298271463
+            ],
+            [
+              -72.01248017868772,
+              -37.664745797825766
+            ],
+            [
+              -72.01227526887614,
+              -37.664796739254925
+            ],
+            [
+              -72.01205312888904,
+              -37.6648481198234
+            ],
+            [
+              -72.0119035998569,
+              -37.664989049429735
+            ],
+            [
+              -72.01169663761638,
+              -37.66513144665127
+            ],
+            [
+              -72.01152747837929,
+              -37.66521346488249
+            ],
+            [
+              -72.01135554944904,
+              -37.665226999275134
+            ],
+            [
+              -72.01112637113881,
+              -37.66524656623284
+            ],
+            [
+              -72.0109110793934,
+              -37.66532519144707
+            ],
+            [
+              -72.01078470476942,
+              -37.66547009897706
+            ],
+            [
+              -72.01059441641883,
+              -37.66559835743507
+            ],
+            [
+              -72.01041192207285,
+              -37.66563501124265
+            ],
+            [
+              -72.01022515986739,
+              -37.66570833643006
+            ],
+            [
+              -72.00998984418825,
+              -37.66586059586794
+            ],
+            [
+              -72.00982105037453,
+              -37.66595174325027
+            ],
+            [
+              -72.00947402589743,
+              -37.66604287033386
+            ],
+            [
+              -72.00919536891409,
+              -37.66611854066033
+            ],
+            [
+              -72.0092043607241,
+              -37.66662561271954
+            ],
+            [
+              -72.00879025798515,
+              -37.66676415334155
+            ],
+            [
+              -72.00845600680017,
+              -37.66688694402744
+            ],
+            [
+              -72.00819623471565,
+              -37.6670032625791
+            ],
+            [
+              -72.00786216579534,
+              -37.667130616949784
+            ],
+            [
+              -72.00759572672949,
+              -37.66722425259769
+            ],
+            [
+              -72.00732185723652,
+              -37.66741862346122
+            ],
+            [
+              -72.0071762145192,
+              -37.667513746329
+            ],
+            [
+              -72.00703797387602,
+              -37.667649811894925
+            ],
+            [
+              -72.00678022351453,
+              -37.667816347547465
+            ],
+            [
+              -72.00668943456118,
+              -37.66784608578111
+            ],
+            [
+              -72.00644077499096,
+              -37.66795297612403
+            ],
+            [
+              -72.00619045577675,
+              -37.668018775628575
+            ],
+            [
+              -72.00586528591862,
+              -37.66808191478683
+            ],
+            [
+              -72.0055189831648,
+              -37.66819129290226
+            ],
+            [
+              -72.00526884763914,
+              -37.6682616566826
+            ],
+            [
+              -72.00507187676085,
+              -37.668367225983275
+            ],
+            [
+              -72.00487935882624,
+              -37.668440689638246
+            ],
+            [
+              -72.0046297733393,
+              -37.6685247489472
+            ],
+            [
+              -72.00410095994643,
+              -37.66867076897916
+            ],
+            [
+              -72.00377317395137,
+              -37.66881166177788
+            ],
+            [
+              -72.00337627660711,
+              -37.66894974601204
+            ],
+            [
+              -72.00289617011191,
+              -37.66916307471043
+            ],
+            [
+              -72.00258115488616,
+              -37.66933563151407
+            ],
+            [
+              -72.0024053093874,
+              -37.66939495548491
+            ],
+            [
+              -72.00213256023467,
+              -37.66947502795481
+            ],
+            [
+              -72.00204305464197,
+              -37.66953672266148
+            ],
+            [
+              -72.00184589147625,
+              -37.66963772067599
+            ],
+            [
+              -72.00167597312642,
+              -37.669701462588904
+            ],
+            [
+              -72.00154125297455,
+              -37.66978258952873
+            ],
+            [
+              -72.00133797591224,
+              -37.66987460243996
+            ],
+            [
+              -72.00111746827012,
+              -37.66996705382902
+            ],
+            [
+              -72.00094644557328,
+              -37.67000340193363
+            ],
+            [
+              -72.00077413350886,
+              -37.670007789922316
+            ],
+            [
+              -72.00059644600906,
+              -37.6700214545346
+            ],
+            [
+              -72.00044228609225,
+              -37.670048230728895
+            ],
+            [
+              -72.00021176062275,
+              -37.67017749822419
+            ],
+            [
+              -71.99998399253238,
+              -37.67037524869596
+            ],
+            [
+              -71.99987445247685,
+              -37.67051057544526
+            ],
+            [
+              -71.99973361750624,
+              -37.67058271512745
+            ],
+            [
+              -71.99956870389468,
+              -37.67062804665124
+            ],
+            [
+              -71.99935526435044,
+              -37.67061062675032
+            ],
+            [
+              -71.99931800092224,
+              -37.67068470062472
+            ],
+            [
+              -71.99952630724641,
+              -37.671145567461
+            ],
+            [
+              -71.99966199308386,
+              -37.670945590956926
+            ],
+            [
+              -71.9997114789756,
+              -37.67088948855334
+            ],
+            [
+              -71.99993497639234,
+              -37.67072840910989
+            ],
+            [
+              -72.00016513723733,
+              -37.67059001141088
+            ],
+            [
+              -72.00052772925234,
+              -37.67059906031139
+            ],
+            [
+              -72.00081027825095,
+              -37.67061928732061
+            ],
+            [
+              -72.00123958729499,
+              -37.670571791453966
+            ],
+            [
+              -72.00152475191257,
+              -37.67051425564124
+            ],
+            [
+              -72.00170505457261,
+              -37.67042282670781
+            ],
+            [
+              -72.00182387010689,
+              -37.67023241844221
+            ],
+            [
+              -72.00190339968509,
+              -37.670065862644826
+            ],
+            [
+              -72.00200457685122,
+              -37.67000844250246
+            ],
+            [
+              -72.00219249965531,
+              -37.6698208433468
+            ],
+            [
+              -72.00240950747717,
+              -37.66964164376335
+            ],
+            [
+              -72.00256443910459,
+              -37.66949144638548
+            ],
+            [
+              -72.00279031957002,
+              -37.66938971452646
+            ],
+            [
+              -72.0033447267497,
+              -37.669165353515936
+            ],
+            [
+              -72.00347554097533,
+              -37.66913002768876
+            ],
+            [
+              -72.00375237511048,
+              -37.66900871444047
+            ],
+            [
+              -72.00392711223454,
+              -37.6689219949542
+            ],
+            [
+              -72.00417095557194,
+              -37.66883808439163
+            ],
+            [
+              -72.00435644254912,
+              -37.66873280934321
+            ],
+            [
+              -72.00455897447424,
+              -37.668622529427985
+            ],
+            [
+              -72.00479873209062,
+              -37.668579853531675
+            ],
+            [
+              -72.00502552781052,
+              -37.66850094591291
+            ],
+            [
+              -72.00521693901096,
+              -37.66840008846375
+            ],
+            [
+              -72.00550746631711,
+              -37.66833326551854
+            ],
+            [
+              -72.00575668035555,
+              -37.668240073855266
+            ],
+            [
+              -72.0061717202131,
+              -37.668124370676736
+            ],
+            [
+              -72.00671627976583,
+              -37.66794137703774
+            ],
+            [
+              -72.0068802618362,
+              -37.66787320854417
+            ],
+            [
+              -72.00712059494155,
+              -37.667702547135114
+            ],
+            [
+              -72.00730459846035,
+              -37.66756074273765
+            ],
+            [
+              -72.00757067029468,
+              -37.667457976209256
+            ],
+            [
+              -72.00814154021143,
+              -37.66721489108393
+            ],
+            [
+              -72.00847005035553,
+              -37.66709224872903
+            ],
+            [
+              -72.00921487709802,
+              -37.666885849087805
+            ],
+            [
+              -72.009362177574,
+              -37.66683181405627
+            ],
+            [
+              -72.00949003224788,
+              -37.66672343373894
+            ],
+            [
+              -72.00980668145198,
+              -37.66659194883404
+            ],
+            [
+              -72.01005588493551,
+              -37.66649874849997
+            ],
+            [
+              -72.01019651705259,
+              -37.66642203191109
+            ],
+            [
+              -72.01062544670292,
+              -37.66622369322142
+            ],
+            [
+              -72.0109947039509,
+              -37.66611371292396
+            ],
+            [
+              -72.01153777910602,
+              -37.66575249483449
+            ],
+            [
+              -72.01184422467158,
+              -37.66565325705126
+            ],
+            [
+              -72.01226295206544,
+              -37.66548716500076
+            ],
+            [
+              -72.01250474338221,
+              -37.66535301733088
+            ],
+            [
+              -72.01270280223035,
+              -37.66527482888429
+            ],
+            [
+              -72.01293384391148,
+              -37.66515923602725
+            ],
+            [
+              -72.01323880939127,
+              -37.66502347079884
+            ],
+            [
+              -72.0135708254211,
+              -37.6648458804498
+            ],
+            [
+              -72.01391506696952,
+              -37.66468625827627
+            ],
+            [
+              -72.01423132842842,
+              -37.66454563164485
+            ],
+            [
+              -72.01467264677889,
+              -37.66436981338442
+            ],
+            [
+              -72.014907009318,
+              -37.664336395176676
+            ],
+            [
+              -72.01572976716758,
+              -37.664351905898705
+            ],
+            [
+              -72.01549191650287,
+              -37.66401522167551
+            ],
+            [
+              -72.01528167632745,
+              -37.66365040873618
+            ],
+            [
+              -72.01528670580859,
+              -37.66334864280807
+            ],
+            [
+              -72.01563539711911,
+              -37.66301523063913
+            ],
+            [
+              -72.01581715402487,
+              -37.66281862824843
+            ],
+            [
+              -72.01603670875718,
+              -37.662561643899174
+            ],
+            [
+              -72.01623239818207,
+              -37.66185738322221
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "REG": "Biob\u00edo",
+        "COM": "Santa B\u00e1rbara",
+        "LOCALIDAD": "Santa B\u00e1rbara",
+        "ZONA": "R2",
+        "NOMBRE": "Zona no edificable de proteccion de laderas y quebradas",
+        "UPERM": "Area verde.",
+        "UPROH": "Todos los usos de suelo no mencionados como permitidos",
+        "IPT": "1ra modificacion PRC Santa Barbara. Res. Gore N\u00b080. Fecha promulgacion 09.07.2007. Fecha publicacion D.O. 27.03.2008.",
+        "Capa": "PRC Santa B\u00e1rbara",
+        "CUT": "08311",
+        "Shape_STAr": 78949.793335,
+        "Shape_STLe": 4079.50743035
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -72.01397884234291,
+              -37.66256858869679
+            ],
+            [
+              -72.0138287748517,
+              -37.66262498509548
+            ],
+            [
+              -72.0137347521779,
+              -37.6626456713489
+            ],
+            [
+              -72.01357357623847,
+              -37.66264065212772
+            ],
+            [
+              -72.0134738278539,
+              -37.6625198049691
+            ],
+            [
+              -72.01342381988567,
+              -37.66242053850279
+            ],
+            [
+              -72.01313085745926,
+              -37.66221322531013
+            ],
+            [
+              -72.01283020390413,
+              -37.662028961542084
+            ],
+            [
+              -72.01254491630002,
+              -37.66194027851665
+            ],
+            [
+              -72.01232335719945,
+              -37.661863676721055
+            ],
+            [
+              -72.01217645770824,
+              -37.66178516624777
+            ],
+            [
+              -72.01233351449494,
+              -37.66211478197901
+            ],
+            [
+              -72.01257632865618,
+              -37.66257474402728
+            ],
+            [
+              -72.01262873765158,
+              -37.66273336388535
+            ],
+            [
+              -72.01269634469914,
+              -37.6628413216772
+            ],
+            [
+              -72.0126657632241,
+              -37.66293807959356
+            ],
+            [
+              -72.01242751775851,
+              -37.6629464548784
+            ],
+            [
+              -72.01200381928491,
+              -37.662989277374436
+            ],
+            [
+              -72.01166552881708,
+              -37.663011633956984
+            ],
+            [
+              -72.01139651616039,
+              -37.66311219868665
+            ],
+            [
+              -72.01133842779514,
+              -37.66316852653994
+            ],
+            [
+              -72.0109329625243,
+              -37.66330685365329
+            ],
+            [
+              -72.01082920478756,
+              -37.66337120397202
+            ],
+            [
+              -72.01072089319213,
+              -37.66353621669734
+            ],
+            [
+              -72.01065640679471,
+              -37.6636475503002
+            ],
+            [
+              -72.01058015320704,
+              -37.663752329491665
+            ],
+            [
+              -72.01038644363553,
+              -37.66386696499068
+            ],
+            [
+              -72.01029870376546,
+              -37.663972037423314
+            ],
+            [
+              -72.0102146677684,
+              -37.664097581054286
+            ],
+            [
+              -72.01008819027203,
+              -37.66431104487719
+            ],
+            [
+              -72.0099556935503,
+              -37.6645178073208
+            ],
+            [
+              -72.00979244842347,
+              -37.66467508051098
+            ],
+            [
+              -72.00962476393461,
+              -37.664793619211075
+            ],
+            [
+              -72.00949506763557,
+              -37.66485634583327
+            ],
+            [
+              -72.00933201711709,
+              -37.66494734492437
+            ],
+            [
+              -72.00916915183372,
+              -37.66504290996014
+            ],
+            [
+              -72.00915482467255,
+              -37.665399756940445
+            ],
+            [
+              -72.00919536891409,
+              -37.66611854066033
+            ],
+            [
+              -72.00947402589743,
+              -37.66604287033386
+            ],
+            [
+              -72.00982105037453,
+              -37.66595174325027
+            ],
+            [
+              -72.00998984418825,
+              -37.66586059586794
+            ],
+            [
+              -72.01022515986739,
+              -37.66570833643006
+            ],
+            [
+              -72.01041192207285,
+              -37.66563501124265
+            ],
+            [
+              -72.01059441641883,
+              -37.66559835743507
+            ],
+            [
+              -72.01078470476942,
+              -37.66547009897706
+            ],
+            [
+              -72.0109110793934,
+              -37.66532519144707
+            ],
+            [
+              -72.01112637113881,
+              -37.66524656623284
+            ],
+            [
+              -72.01135554944904,
+              -37.665226999275134
+            ],
+            [
+              -72.01152747837929,
+              -37.66521346488249
+            ],
+            [
+              -72.01169663761638,
+              -37.66513144665127
+            ],
+            [
+              -72.0119035998569,
+              -37.664989049429735
+            ],
+            [
+              -72.01205312888904,
+              -37.6648481198234
+            ],
+            [
+              -72.01227526887614,
+              -37.664796739254925
+            ],
+            [
+              -72.01248017868772,
+              -37.664745797825766
+            ],
+            [
+              -72.01263618776687,
+              -37.66462298271463
+            ],
+            [
+              -72.0128238682262,
+              -37.6645724820526
+            ],
+            [
+              -72.01298116935475,
+              -37.66448162519775
+            ],
+            [
+              -72.01322517171302,
+              -37.664402262160706
+            ],
+            [
+              -72.01342786396656,
+              -37.66429653322868
+            ],
+            [
+              -72.0136420413156,
+              -37.66419051025159
+            ],
+            [
+              -72.0138111958029,
+              -37.66410849007049
+            ],
+            [
+              -72.01402666541787,
+              -37.66403442418632
+            ],
+            [
+              -72.01418451823105,
+              -37.663957262519006
+            ],
+            [
+              -72.01438072472169,
+              -37.66383341701361
+            ],
+            [
+              -72.01453765272042,
+              -37.66373342769439
+            ],
+            [
+              -72.01463066689381,
+              -37.663616791408934
+            ],
+            [
+              -72.01463012616324,
+              -37.663461415708404
+            ],
+            [
+              -72.01458827610699,
+              -37.66327967499001
+            ],
+            [
+              -72.01446361746402,
+              -37.663040639008535
+            ],
+            [
+              -72.01433636058805,
+              -37.66287936456121
+            ],
+            [
+              -72.01415797063505,
+              -37.66273310776094
+            ],
+            [
+              -72.01402236940737,
+              -37.66264974070345
+            ],
+            [
+              -72.01397884234291,
+              -37.66256858869679
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "REG": "Biob\u00edo",
+        "COM": "Santa B\u00e1rbara",
+        "LOCALIDAD": "Santa B\u00e1rbara",
+        "ZONA": "AV",
+        "NOMBRE": "Area verde",
+        "UPERM": "Area verde.",
+        "UPROH": "Todos los usos de suelo no mencionados como permitidos",
+        "IPT": "1ra modificacion PRC Santa Barbara. Res. Gore N\u00b080. Fecha promulgacion 09.07.2007. Fecha publicacion D.O. 27.03.2008.",
+        "Capa": "PRC Santa B\u00e1rbara",
+        "CUT": "08311",
+        "Shape_STAr": 93146.0843506,
+        "Shape_STLe": 1573.63338571
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -72.0244023437749,
+              -37.664340878311485
+            ],
+            [
+              -72.0216823414381,
+              -37.664937524044944
+            ],
+            [
+              -72.0204284615802,
+              -37.66520732183686
+            ],
+            [
+              -72.01867934829374,
+              -37.66559948096124
+            ],
+            [
+              -72.01889446309566,
+              -37.66618767626316
+            ],
+            [
+              -72.01901808101239,
+              -37.66616013763975
+            ],
+            [
+              -72.01889943739225,
+              -37.665781224009514
+            ],
+            [
+              -72.0245535677456,
+              -37.66449448029938
+            ],
+            [
+              -72.02452896351662,
+              -37.66442575389519
+            ],
+            [
+              -72.0244023437749,
+              -37.664340878311485
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "REG": "Biob\u00edo",
+        "COM": "Santa B\u00e1rbara",
+        "LOCALIDAD": "Santa B\u00e1rbara",
+        "ZONA": "AV",
+        "NOMBRE": "Area verde",
+        "UPERM": "Area verde.",
+        "UPROH": "Todos los usos de suelo no mencionados como permitidos",
+        "IPT": "1ra modificacion PRC Santa Barbara. Res. Gore N\u00b080. Fecha promulgacion 09.07.2007. Fecha publicacion D.O. 27.03.2008.",
+        "Capa": "PRC Santa B\u00e1rbara",
+        "CUT": "08311",
+        "Shape_STAr": 12527.6356201,
+        "Shape_STLe": 1188.5806999
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -72.01660236460486,
+              -37.66559782287889
+            ],
+            [
+              -72.01649045808654,
+              -37.66567381170501
+            ],
+            [
+              -72.01425605384789,
+              -37.666434807365924
+            ],
+            [
+              -72.01456223163811,
+              -37.66718107104987
+            ],
+            [
+              -72.01461298521465,
+              -37.66729859956687
+            ],
+            [
+              -72.01461818348353,
+              -37.66913114550556
+            ],
+            [
+              -72.01602146505954,
+              -37.66914094076188
+            ],
+            [
+              -72.01576324503353,
+              -37.66844372758184
+            ],
+            [
+              -72.01552373985739,
+              -37.667782597375655
+            ],
+            [
+              -72.01523162400552,
+              -37.66709996097507
+            ],
+            [
+              -72.01722739770486,
+              -37.66655071863034
+            ],
+            [
+              -72.01660236460486,
+              -37.66559782287889
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "REG": "Biob\u00edo",
+        "COM": "Santa B\u00e1rbara",
+        "LOCALIDAD": "Santa B\u00e1rbara",
+        "ZONA": "Z4",
+        "NOMBRE": "Area consolidada 4",
+        "UPERM": "Residencial. Equipamiento: cientifico, comercio, culto y cultura, deporte, educacion, esparcimiento, salud, seguridad, servicios, social. Actividades productivas. Infraestructura: transporte.",
+        "UPROH": "Todos los usos de suelo no mencionados como permitidos",
+        "IPT": "1ra modificacion PRC Santa Barbara. Res. Gore N\u00b080. Fecha promulgacion 09.07.2007. Fecha publicacion D.O. 27.03.2008.",
+        "Capa": "PRC Santa B\u00e1rbara",
+        "CUT": "08311",
+        "Shape_STAr": 45034.3562012,
+        "Shape_STLe": 1198.81201518
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -72.01628203428336,
+              -37.66563801492016
+            ],
+            [
+              -72.01403526330871,
+              -37.66595143528037
+            ],
+            [
+              -72.01421845070432,
+              -37.666358073991894
+            ],
+            [
+              -72.01525599182203,
+              -37.66599790134821
+            ],
+            [
+              -72.01601635195141,
+              -37.66574993087207
+            ],
+            [
+              -72.01628203428336,
+              -37.66563801492016
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "REG": "Biob\u00edo",
+        "COM": "Santa B\u00e1rbara",
+        "LOCALIDAD": "Santa B\u00e1rbara",
+        "ZONA": "Z4",
+        "NOMBRE": "Area consolidada 4",
+        "UPERM": "Residencial. Equipamiento: cientifico, comercio, culto y cultura, deporte, educacion, esparcimiento, salud, seguridad, servicios, social. Actividades productivas. Infraestructura: transporte.",
+        "UPROH": "Todos los usos de suelo no mencionados como permitidos",
+        "IPT": "1ra modificacion PRC Santa Barbara. Res. Gore N\u00b080. Fecha promulgacion 09.07.2007. Fecha publicacion D.O. 27.03.2008.",
+        "Capa": "PRC Santa B\u00e1rbara",
+        "CUT": "08311",
+        "Shape_STAr": 4871.91845703,
+        "Shape_STLe": 448.341876752
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -72.01388593685894,
+              -37.665955254423885
+            ],
+            [
+              -72.0125419767964,
+              -37.66613129744417
+            ],
+            [
+              -72.01176697349989,
+              -37.666301925601715
+            ],
+            [
+              -72.01093748511329,
+              -37.66654706518974
+            ],
+            [
+              -72.01101157515643,
+              -37.66667314090693
+            ],
+            [
+              -72.011265023587,
+              -37.66668494656459
+            ],
+            [
+              -72.01165130972919,
+              -37.666711636864854
+            ],
+            [
+              -72.01210669959232,
+              -37.66674113049547
+            ],
+            [
+              -72.01247630883348,
+              -37.666781955207234
+            ],
+            [
+              -72.01271771737922,
+              -37.66678035373206
+            ],
+            [
+              -72.01294671504135,
+              -37.66675621823027
+            ],
+            [
+              -72.01322536995015,
+              -37.66668053909435
+            ],
+            [
+              -72.01334450364418,
+              -37.66664093110911
+            ],
+            [
+              -72.01375896676772,
+              -37.666511504458455
+            ],
+            [
+              -72.01408245968265,
+              -37.66640725488508
+            ],
+            [
+              -72.01388593685894,
+              -37.665955254423885
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "REG": "Biob\u00edo",
+        "COM": "Santa B\u00e1rbara",
+        "LOCALIDAD": "Santa B\u00e1rbara",
+        "ZONA": "Z4",
+        "NOMBRE": "Area consolidada 4",
+        "UPERM": "Residencial. Equipamiento: cientifico, comercio, culto y cultura, deporte, educacion, esparcimiento, salud, seguridad, servicios, social. Actividades productivas. Infraestructura: transporte.",
+        "UPROH": "Todos los usos de suelo no mencionados como permitidos",
+        "IPT": "1ra modificacion PRC Santa Barbara. Res. Gore N\u00b080. Fecha promulgacion 09.07.2007. Fecha publicacion D.O. 27.03.2008.",
+        "Capa": "PRC Santa B\u00e1rbara",
+        "CUT": "08311",
+        "Shape_STAr": 14863.0535889,
+        "Shape_STLe": 617.004826778
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -72.01410949841868,
+              -37.66650711025336
+            ],
+            [
+              -72.01295003898312,
+              -37.66683839754998
+            ],
+            [
+              -72.0127266005538,
+              -37.66685782094879
+            ],
+            [
+              -72.01248537761528,
+              -37.66686398859212
+            ],
+            [
+              -72.0120524051437,
+              -37.66682021259289
+            ],
+            [
+              -72.01175801402474,
+              -37.66679117507351
+            ],
+            [
+              -72.01140655727693,
+              -37.6667727350783
+            ],
+            [
+              -72.01106139865585,
+              -37.66676784397738
+            ],
+            [
+              -72.01167021239222,
+              -37.66803196375029
+            ],
+            [
+              -72.0122919959029,
+              -37.66947398862331
+            ],
+            [
+              -72.01282079402093,
+              -37.669327931424114
+            ],
+            [
+              -72.01340072926294,
+              -37.66916685516288
+            ],
+            [
+              -72.01442901449307,
+              -37.66914512557113
+            ],
+            [
+              -72.01445046371573,
+              -37.6676866602463
+            ],
+            [
+              -72.01446123874089,
+              -37.66738474566496
+            ],
+            [
+              -72.0144154902662,
+              -37.667248808201215
+            ],
+            [
+              -72.01410949841868,
+              -37.66650711025336
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "REG": "Biob\u00edo",
+        "COM": "Santa B\u00e1rbara",
+        "LOCALIDAD": "Santa B\u00e1rbara",
+        "ZONA": "Z4",
+        "NOMBRE": "Area consolidada 4",
+        "UPERM": "Residencial. Equipamiento: cientifico, comercio, culto y cultura, deporte, educacion, esparcimiento, salud, seguridad, servicios, social. Actividades productivas. Infraestructura: transporte.",
+        "UPROH": "Todos los usos de suelo no mencionados como permitidos",
+        "IPT": "1ra modificacion PRC Santa Barbara. Res. Gore N\u00b080. Fecha promulgacion 09.07.2007. Fecha publicacion D.O. 27.03.2008.",
+        "Capa": "PRC Santa B\u00e1rbara",
+        "CUT": "08311",
+        "Shape_STAr": 67736.3502197,
+        "Shape_STLe": 1087.98575623
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -72.01077332653472,
+              -37.666610673757575
+            ],
+            [
+              -72.01034569250216,
+              -37.666805552418744
+            ],
+            [
+              -72.00999474522105,
+              -37.66708416357884
+            ],
+            [
+              -72.01024523656831,
+              -37.66705834090953
+            ],
+            [
+              -72.01034496173799,
+              -37.66703637007596
+            ],
+            [
+              -72.01041013496764,
+              -37.667012996827175
+            ],
+            [
+              -72.01043774402888,
+              -37.6669848697762
+            ],
+            [
+              -72.01051098440406,
+              -37.6669121584761
+            ],
+            [
+              -72.01057315164172,
+              -37.66685001520407
+            ],
+            [
+              -72.01064597122658,
+              -37.666802451327484
+            ],
+            [
+              -72.01084037993962,
+              -37.66670493582143
+            ],
+            [
+              -72.01077332653472,
+              -37.666610673757575
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "REG": "Biob\u00edo",
+        "COM": "Santa B\u00e1rbara",
+        "LOCALIDAD": "Santa B\u00e1rbara",
+        "ZONA": "AV",
+        "NOMBRE": "Area verde",
+        "UPERM": "Area verde.",
+        "UPROH": "Todos los usos de suelo no mencionados como permitidos",
+        "IPT": "1ra modificacion PRC Santa Barbara. Res. Gore N\u00b080. Fecha promulgacion 09.07.2007. Fecha publicacion D.O. 27.03.2008.",
+        "Capa": "PRC Santa B\u00e1rbara",
+        "CUT": "08311",
+        "Shape_STAr": 1171.95129395,
+        "Shape_STLe": 188.789083673
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -72.01660236460486,
+              -37.66559782287889
+            ],
+            [
+              -72.01628203428336,
+              -37.66563801492016
+            ],
+            [
+              -72.01601635195141,
+              -37.66574993087207
+            ],
+            [
+              -72.01525599182203,
+              -37.66599790134821
+            ],
+            [
+              -72.01421845070432,
+              -37.666358073991894
+            ],
+            [
+              -72.01408245968265,
+              -37.66640725488508
+            ],
+            [
+              -72.01375896676772,
+              -37.666511504458455
+            ],
+            [
+              -72.01334450364418,
+              -37.66664093110911
+            ],
+            [
+              -72.01322536995015,
+              -37.66668053909435
+            ],
+            [
+              -72.01294671504135,
+              -37.66675621823027
+            ],
+            [
+              -72.01271771737922,
+              -37.66678035373206
+            ],
+            [
+              -72.01247630883348,
+              -37.666781955207234
+            ],
+            [
+              -72.01210669959232,
+              -37.66674113049547
+            ],
+            [
+              -72.01165130972919,
+              -37.666711636864854
+            ],
+            [
+              -72.011265023587,
+              -37.66668494656459
+            ],
+            [
+              -72.01101157515643,
+              -37.66667314090693
+            ],
+            [
+              -72.01106139865585,
+              -37.66676784397738
+            ],
+            [
+              -72.01140655727693,
+              -37.6667727350783
+            ],
+            [
+              -72.01175801402474,
+              -37.66679117507351
+            ],
+            [
+              -72.0120524051437,
+              -37.66682021259289
+            ],
+            [
+              -72.01248537761528,
+              -37.66686398859212
+            ],
+            [
+              -72.0127266005538,
+              -37.66685782094879
+            ],
+            [
+              -72.01295003898312,
+              -37.66683839754998
+            ],
+            [
+              -72.01410949841868,
+              -37.66650711025336
+            ],
+            [
+              -72.01425605384789,
+              -37.666434807365924
+            ],
+            [
+              -72.01649045808654,
+              -37.66567381170501
+            ],
+            [
+              -72.01660236460486,
+              -37.66559782287889
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "REG": "Biob\u00edo",
+        "COM": "Santa B\u00e1rbara",
+        "LOCALIDAD": "Santa B\u00e1rbara",
+        "ZONA": "R3",
+        "NOMBRE": "Zona no edificable de proteccion de cursos de agua y canales",
+        "UPERM": "Sin informacion.",
+        "UPROH": "Todos los usos de suelo no mencionados como permitidos",
+        "IPT": "1ra modificacion PRC Santa Barbara. Res. Gore N\u00b080. Fecha promulgacion 09.07.2007. Fecha publicacion D.O. 27.03.2008.",
+        "Capa": "PRC Santa B\u00e1rbara",
+        "CUT": "08311",
+        "Shape_STAr": 4735.57470703,
+        "Shape_STLe": 1050.31601691
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -72.01084037993962,
+              -37.66670493582143
+            ],
+            [
+              -72.01064597122658,
+              -37.666802451327484
+            ],
+            [
+              -72.01057315164172,
+              -37.66685001520407
+            ],
+            [
+              -72.01051098440406,
+              -37.6669121584761
+            ],
+            [
+              -72.01043774402888,
+              -37.6669848697762
+            ],
+            [
+              -72.01041013496764,
+              -37.667012996827175
+            ],
+            [
+              -72.01034496173799,
+              -37.66703637007596
+            ],
+            [
+              -72.01024523656831,
+              -37.66705834090953
+            ],
+            [
+              -72.00999474522105,
+              -37.66708416357884
+            ],
+            [
+              -72.0099038067783,
+              -37.66718131906291
+            ],
+            [
+              -72.01010131109672,
+              -37.6671602784501
+            ],
+            [
+              -72.010298443868,
+              -37.667130106114456
+            ],
+            [
+              -72.0104205438117,
+              -37.667092709377336
+            ],
+            [
+              -72.01052189572177,
+              -37.66703984759397
+            ],
+            [
+              -72.01057100266888,
+              -37.66697460957579
+            ],
+            [
+              -72.01063706296885,
+              -37.66690208253111
+            ],
+            [
+              -72.01072368534358,
+              -37.66684045600188
+            ],
+            [
+              -72.01087996944123,
+              -37.66679533045357
+            ],
+            [
+              -72.01084037993962,
+              -37.66670493582143
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "REG": "Biob\u00edo",
+        "COM": "Santa B\u00e1rbara",
+        "LOCALIDAD": "Santa B\u00e1rbara",
+        "ZONA": "R3",
+        "NOMBRE": "Zona no edificable de proteccion de cursos de agua y canales",
+        "UPERM": "Sin informacion.",
+        "UPROH": "Todos los usos de suelo no mencionados como permitidos",
+        "IPT": "1ra modificacion PRC Santa Barbara. Res. Gore N\u00b080. Fecha promulgacion 09.07.2007. Fecha publicacion D.O. 27.03.2008.",
+        "Capa": "PRC Santa B\u00e1rbara",
+        "CUT": "08311",
+        "Shape_STAr": 830.382568359,
+        "Shape_STLe": 214.431994265
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -72.01722739770486,
+              -37.66655071863034
+            ],
+            [
+              -72.01523162400552,
+              -37.66709996097507
+            ],
+            [
+              -72.01576324503353,
+              -37.66844372758184
+            ],
+            [
+              -72.01602146505954,
+              -37.66914094076188
+            ],
+            [
+              -72.0163251773065,
+              -37.669151447978045
+            ],
+            [
+              -72.01806418262376,
+              -37.669074930758626
+            ],
+            [
+              -72.01798213449004,
+              -37.66846918660336
+            ],
+            [
+              -72.01785229874048,
+              -37.66767728512266
+            ],
+            [
+              -72.01776394083524,
+              -37.66734134748435
+            ],
+            [
+              -72.01722739770486,
+              -37.66655071863034
+            ]
+          ],
+          [
+            [
+              -72.01715568396577,
+              -37.66751231179862
+            ],
+            [
+              -72.01749875526949,
+              -37.668458713511704
+            ],
+            [
+              -72.01689920033512,
+              -37.66856089955931
+            ],
+            [
+              -72.01624183856559,
+              -37.6686554222351
+            ],
+            [
+              -72.01602772924011,
+              -37.66776969945418
+            ],
+            [
+              -72.01715568396577,
+              -37.66751231179862
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "REG": "Biob\u00edo",
+        "COM": "Santa B\u00e1rbara",
+        "LOCALIDAD": "Santa B\u00e1rbara",
+        "ZONA": "Z3",
+        "NOMBRE": "Area consolidada 3",
+        "UPERM": "Residencial. Equipamiento: cientifico, comercio, culto y cultura, deporte, educacion, esparcimiento, salud, seguridad, servicios, social. Actividades productivas. Infraestructura: transporte.",
+        "UPROH": "Todos los usos de suelo no mencionados como permitidos",
+        "IPT": "1ra modificacion PRC Santa Barbara. Res. Gore N\u00b080. Fecha promulgacion 09.07.2007. Fecha publicacion D.O. 27.03.2008.",
+        "Capa": "PRC Santa B\u00e1rbara",
+        "CUT": "08311",
+        "Shape_STAr": 40056.8052979,
+        "Shape_STLe": 1324.5044546
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -72.01715568396577,
+              -37.66751231179862
+            ],
+            [
+              -72.01602772924011,
+              -37.66776969945418
+            ],
+            [
+              -72.01624183856559,
+              -37.6686554222351
+            ],
+            [
+              -72.01689920033512,
+              -37.66856089955931
+            ],
+            [
+              -72.01749875526949,
+              -37.668458713511704
+            ],
+            [
+              -72.01715568396577,
+              -37.66751231179862
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "REG": "Biob\u00edo",
+        "COM": "Santa B\u00e1rbara",
+        "LOCALIDAD": "Santa B\u00e1rbara",
+        "ZONA": "Z5",
+        "NOMBRE": "Area consolidada 5",
+        "UPERM": "Equipamiento: culto y cultura, educacion, salud, servicios. Area verde.",
+        "UPROH": "Todos los usos de suelo no mencionados como permitidos",
+        "IPT": "1ra modificacion PRC Santa Barbara. Res. Gore N\u00b080. Fecha promulgacion 09.07.2007. Fecha publicacion D.O. 27.03.2008.",
+        "Capa": "PRC Santa B\u00e1rbara",
+        "CUT": "08311",
+        "Shape_STAr": 11378.1291504,
+        "Shape_STLe": 426.193712608
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -72.01987556991611,
+              -37.67135021930251
+            ],
+            [
+              -72.01841519451743,
+              -37.67106771731451
+            ],
+            [
+              -72.0144649926448,
+              -37.671205397451125
+            ],
+            [
+              -72.01156452906588,
+              -37.671709165216804
+            ],
+            [
+              -72.01166418628695,
+              -37.67189856944312
+            ],
+            [
+              -72.01187724135681,
+              -37.672048513535536
+            ],
+            [
+              -72.01219221099655,
+              -37.672159289510944
+            ],
+            [
+              -72.01253052490277,
+              -37.672278608701774
+            ],
+            [
+              -72.01292590961815,
+              -37.67238732682514
+            ],
+            [
+              -72.01325126035829,
+              -37.67247041276216
+            ],
+            [
+              -72.01356327563308,
+              -37.67250813627368
+            ],
+            [
+              -72.0138289714058,
+              -37.672537903667966
+            ],
+            [
+              -72.01413913877022,
+              -37.672529970356585
+            ],
+            [
+              -72.01442596126977,
+              -37.6725134934534
+            ],
+            [
+              -72.01476726252466,
+              -37.67242249602489
+            ],
+            [
+              -72.01501518505287,
+              -37.67229732699802
+            ],
+            [
+              -72.015298677927,
+              -37.67219866717018
+            ],
+            [
+              -72.01559365693136,
+              -37.67209971362927
+            ],
+            [
+              -72.01584601428034,
+              -37.6720841143893
+            ],
+            [
+              -72.01610727012078,
+              -37.67200430348929
+            ],
+            [
+              -72.0164241121285,
+              -37.671877366603496
+            ],
+            [
+              -72.01682099638064,
+              -37.67173923884471
+            ],
+            [
+              -72.01725345299388,
+              -37.67162762063184
+            ],
+            [
+              -72.01787860374499,
+              -37.671447081795606
+            ],
+            [
+              -72.01834551817976,
+              -37.671334577135866
+            ],
+            [
+              -72.01864197012986,
+              -37.671272140880866
+            ],
+            [
+              -72.0189658402228,
+              -37.67131868727316
+            ],
+            [
+              -72.01942830109003,
+              -37.67137996248014
+            ],
+            [
+              -72.01961210009829,
+              -37.67137525275554
+            ],
+            [
+              -72.01987556991611,
+              -37.67135021930251
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "REG": "Biob\u00edo",
+        "COM": "Santa B\u00e1rbara",
+        "LOCALIDAD": "Santa B\u00e1rbara",
+        "ZONA": "EX6",
+        "NOMBRE": "Area de extensi\u00f3n urbana 6",
+        "UPERM": "Equipamiento: culto y cultura, esparcimiento, servicios. Area verde.",
+        "UPROH": "Todos los usos de suelo no mencionados como permitidos",
+        "IPT": "1ra modificacion PRC Santa Barbara. Res. Gore N\u00b080. Fecha promulgacion 09.07.2007. Fecha publicacion D.O. 27.03.2008.",
+        "Capa": "PRC Santa B\u00e1rbara",
+        "CUT": "08311",
+        "Shape_STAr": 55615.5380859,
+        "Shape_STLe": 1535.02520983
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -72.012335874304,
+              -37.67009670905722
+            ],
+            [
+              -72.00896847320449,
+              -37.67092541105701
+            ],
+            [
+              -72.00895364054732,
+              -37.67098520328467
+            ],
+            [
+              -72.01025722188615,
+              -37.67137237595035
+            ],
+            [
+              -72.0106820555941,
+              -37.6714986303354
+            ],
+            [
+              -72.01091958268572,
+              -37.67154283494312
+            ],
+            [
+              -72.0111039374781,
+              -37.67155183517146
+            ],
+            [
+              -72.01131664120936,
+              -37.671550969790225
+            ],
+            [
+              -72.01274176908413,
+              -37.67131802143982
+            ],
+            [
+              -72.012335874304,
+              -37.67009670905722
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "REG": "Biob\u00edo",
+        "COM": "Santa B\u00e1rbara",
+        "LOCALIDAD": "Santa B\u00e1rbara",
+        "ZONA": "EX1",
+        "NOMBRE": "Area de extensi\u00f3n urbana 1",
+        "UPERM": "Residencial. Equipamiento: cientifico, comercio, culto y cultura, deporte, educacion, esparcimiento, salud, seguridad, servicios, social. Actividades productivas. Infraestructura: transporte.",
+        "UPROH": "Todos los usos de suelo no mencionados como permitidos",
+        "IPT": "1ra modificacion PRC Santa Barbara. Res. Gore N\u00b080. Fecha promulgacion 09.07.2007. Fecha publicacion D.O. 27.03.2008.",
+        "Capa": "PRC Santa B\u00e1rbara",
+        "CUT": "08311",
+        "Shape_STAr": 30824.9758301,
+        "Shape_STLe": 806.072302867
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -72.01090135764584,
+              -37.66684146060674
+            ],
+            [
+              -72.01081650412775,
+              -37.66686093634332
+            ],
+            [
+              -72.01070440489842,
+              -37.666932353816335
+            ],
+            [
+              -72.01063278614238,
+              -37.6670095928953
+            ],
+            [
+              -72.01053281764632,
+              -37.667096697969
+            ],
+            [
+              -72.01043415378145,
+              -37.667144921102285
+            ],
+            [
+              -72.01018004697922,
+              -37.66718797399928
+            ],
+            [
+              -72.00997457389278,
+              -37.66722521415763
+            ],
+            [
+              -72.00985138635501,
+              -37.667234312736866
+            ],
+            [
+              -72.00935419836466,
+              -37.66773693398168
+            ],
+            [
+              -72.00865966402472,
+              -37.66847677218491
+            ],
+            [
+              -72.00848269551673,
+              -37.668650389928644
+            ],
+            [
+              -72.00718642743324,
+              -37.67000885734733
+            ],
+            [
+              -72.00710017782816,
+              -37.670102721295684
+            ],
+            [
+              -72.0072711735811,
+              -37.67062575481051
+            ],
+            [
+              -72.00847100613369,
+              -37.67085127734014
+            ],
+            [
+              -72.01227419939192,
+              -37.66992233029261
+            ],
+            [
+              -72.0119967483422,
+              -37.66917532735077
+            ],
+            [
+              -72.01158814552443,
+              -37.668312847568906
+            ],
+            [
+              -72.01129253404439,
+              -37.66768513365122
+            ],
+            [
+              -72.01090135764584,
+              -37.66684146060674
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "REG": "Biob\u00edo",
+        "COM": "Santa B\u00e1rbara",
+        "LOCALIDAD": "Santa B\u00e1rbara",
+        "ZONA": "EX1",
+        "NOMBRE": "Area de extensi\u00f3n urbana 1",
+        "UPERM": "Residencial. Equipamiento: cientifico, comercio, culto y cultura, deporte, educacion, esparcimiento, salud, seguridad, servicios, social. Actividades productivas. Infraestructura: transporte.",
+        "UPROH": "Todos los usos de suelo no mencionados como permitidos",
+        "IPT": "1ra modificacion PRC Santa Barbara. Res. Gore N\u00b080. Fecha promulgacion 09.07.2007. Fecha publicacion D.O. 27.03.2008.",
+        "Capa": "PRC Santa B\u00e1rbara",
+        "CUT": "08311",
+        "Shape_STAr": 112217.387085,
+        "Shape_STLe": 1390.57087363
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -72.00671466586451,
+              -37.67021513269639
+            ],
+            [
+              -72.00616146053547,
+              -37.67046918653672
+            ],
+            [
+              -72.00666096543236,
+              -37.670522712249934
+            ],
+            [
+              -72.00665227216436,
+              -37.670449808754704
+            ],
+            [
+              -72.00666183817576,
+              -37.67033073764051
+            ],
+            [
+              -72.00671466586451,
+              -37.67021513269639
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "REG": "Biob\u00edo",
+        "COM": "Santa B\u00e1rbara",
+        "LOCALIDAD": "Santa B\u00e1rbara",
+        "ZONA": "AV",
+        "NOMBRE": "Area verde",
+        "UPERM": "Area verde.",
+        "UPROH": "Todos los usos de suelo no mencionados como permitidos",
+        "IPT": "1ra modificacion PRC Santa Barbara. Res. Gore N\u00b080. Fecha promulgacion 09.07.2007. Fecha publicacion D.O. 27.03.2008.",
+        "Capa": "PRC Santa B\u00e1rbara",
+        "CUT": "08311",
+        "Shape_STAr": 709.301391602,
+        "Shape_STLe": 135.918114946
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -72.0072711735811,
+              -37.67062575481051
+            ],
+            [
+              -72.00710017782816,
+              -37.670102721295684
+            ],
+            [
+              -72.00687249819639,
+              -37.670350499278
+            ],
+            [
+              -72.00687600027521,
+              -37.670437245195714
+            ],
+            [
+              -72.006878397214,
+              -37.67049659755033
+            ],
+            [
+              -72.00696175900673,
+              -37.670567594803366
+            ],
+            [
+              -72.0072711735811,
+              -37.67062575481051
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "REG": "Biob\u00edo",
+        "COM": "Santa B\u00e1rbara",
+        "LOCALIDAD": "Santa B\u00e1rbara",
+        "ZONA": "AV",
+        "NOMBRE": "Area verde",
+        "UPERM": "Area verde.",
+        "UPROH": "Todos los usos de suelo no mencionados como permitidos",
+        "IPT": "1ra modificacion PRC Santa Barbara. Res. Gore N\u00b080. Fecha promulgacion 09.07.2007. Fecha publicacion D.O. 27.03.2008.",
+        "Capa": "PRC Santa B\u00e1rbara",
+        "CUT": "08311",
+        "Shape_STAr": 1152.5871582,
+        "Shape_STLe": 149.158239884
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -72.02115541433426,
+              -37.67080963944804
+            ],
+            [
+              -72.02185621533646,
+              -37.67078802463173
+            ],
+            [
+              -72.02184329758454,
+              -37.67021433810032
+            ],
+            [
+              -72.02110199934762,
+              -37.67022420461389
+            ],
+            [
+              -72.02115541433426,
+              -37.67080963944804
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "REG": "Biob\u00edo",
+        "COM": "Santa B\u00e1rbara",
+        "LOCALIDAD": "Santa B\u00e1rbara",
+        "ZONA": "AV",
+        "NOMBRE": "Area verde",
+        "UPERM": "Area verde.",
+        "UPROH": "Todos los usos de suelo no mencionados como permitidos",
+        "IPT": "1ra modificacion PRC Santa Barbara. Res. Gore N\u00b080. Fecha promulgacion 09.07.2007. Fecha publicacion D.O. 27.03.2008.",
+        "Capa": "PRC Santa B\u00e1rbara",
+        "CUT": "08311",
+        "Shape_STAr": 4101.00317383,
+        "Shape_STLe": 256.237092282
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -72.01889446309566,
+              -37.66618767626316
+            ],
+            [
+              -72.01867934829374,
+              -37.66559948096124
+            ],
+            [
+              -72.0204284615802,
+              -37.66520732183686
+            ],
+            [
+              -72.0216823414381,
+              -37.664937524044944
+            ],
+            [
+              -72.0244023437749,
+              -37.664340878311485
+            ],
+            [
+              -72.02435166312956,
+              -37.6643069067135
+            ],
+            [
+              -72.0240887720576,
+              -37.664203967406245
+            ],
+            [
+              -72.02380494849311,
+              -37.664151836174995
+            ],
+            [
+              -72.02359819346442,
+              -37.66415714113659
+            ],
+            [
+              -72.0219060014106,
+              -37.66453417629603
+            ],
+            [
+              -72.01974692031918,
+              -37.665023697242276
+            ],
+            [
+              -72.01852285547572,
+              -37.66532013254626
+            ],
+            [
+              -72.01805523949794,
+              -37.665414374460575
+            ],
+            [
+              -72.01674001911941,
+              -37.66558972820715
+            ],
+            [
+              -72.01720481138578,
+              -37.66627708073218
+            ],
+            [
+              -72.01737598490828,
+              -37.66652863331461
+            ],
+            [
+              -72.01884592554543,
+              -37.66619848853059
+            ],
+            [
+              -72.01889446309566,
+              -37.66618767626316
+            ]
+          ],
+          [
+            [
+              -72.01855373513291,
+              -37.6656209794154
+            ],
+            [
+              -72.01863746722873,
+              -37.66584277820767
+            ],
+            [
+              -72.0174011591394,
+              -37.66612123489132
+            ],
+            [
+              -72.01732336053308,
+              -37.66590385412972
+            ],
+            [
+              -72.01855373513291,
+              -37.6656209794154
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "REG": "Biob\u00edo",
+        "COM": "Santa B\u00e1rbara",
+        "LOCALIDAD": "Santa B\u00e1rbara",
+        "ZONA": "Z4",
+        "NOMBRE": "Area consolidada 4",
+        "UPERM": "Residencial. Equipamiento: cientifico, comercio, culto y cultura, deporte, educacion, esparcimiento, salud, seguridad, servicios, social. Actividades productivas. Infraestructura: transporte.",
+        "UPROH": "Todos los usos de suelo no mencionados como permitidos",
+        "IPT": "1ra modificacion PRC Santa Barbara. Res. Gore N\u00b080. Fecha promulgacion 09.07.2007. Fecha publicacion D.O. 27.03.2008.",
+        "Capa": "PRC Santa B\u00e1rbara",
+        "CUT": "08311",
+        "Shape_STAr": 31815.1502686,
+        "Shape_STLe": 1829.43898399
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -72.0245535677456,
+              -37.66449448029938
+            ],
+            [
+              -72.01889943739225,
+              -37.665781224009514
+            ],
+            [
+              -72.01901808101239,
+              -37.66616013763975
+            ],
+            [
+              -72.02053817341557,
+              -37.665821496042156
+            ],
+            [
+              -72.02307928895799,
+              -37.665253606330744
+            ],
+            [
+              -72.02466348310517,
+              -37.66490674868123
+            ],
+            [
+              -72.02458732742977,
+              -37.66458878506073
+            ],
+            [
+              -72.0245535677456,
+              -37.66449448029938
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "REG": "Biob\u00edo",
+        "COM": "Santa B\u00e1rbara",
+        "LOCALIDAD": "Santa B\u00e1rbara",
+        "ZONA": "Z4",
+        "NOMBRE": "Area consolidada 4",
+        "UPERM": "Residencial. Equipamiento: cientifico, comercio, culto y cultura, deporte, educacion, esparcimiento, salud, seguridad, servicios, social. Actividades productivas. Infraestructura: transporte.",
+        "UPROH": "Todos los usos de suelo no mencionados como permitidos",
+        "IPT": "1ra modificacion PRC Santa Barbara. Res. Gore N\u00b080. Fecha promulgacion 09.07.2007. Fecha publicacion D.O. 27.03.2008.",
+        "Capa": "PRC Santa B\u00e1rbara",
+        "CUT": "08311",
+        "Shape_STAr": 23224.9781494,
+        "Shape_STLe": 1126.74376411
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -72.01855373513291,
+              -37.6656209794154
+            ],
+            [
+              -72.01732336053308,
+              -37.66590385412972
+            ],
+            [
+              -72.0174011591394,
+              -37.66612123489132
+            ],
+            [
+              -72.01863746722873,
+              -37.66584277820767
+            ],
+            [
+              -72.01855373513291,
+              -37.6656209794154
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "REG": "Biob\u00edo",
+        "COM": "Santa B\u00e1rbara",
+        "LOCALIDAD": "Santa B\u00e1rbara",
+        "ZONA": "AV",
+        "NOMBRE": "Area verde",
+        "UPERM": "Area verde.",
+        "UPROH": "Todos los usos de suelo no mencionados como permitidos",
+        "IPT": "1ra modificacion PRC Santa Barbara. Res. Gore N\u00b080. Fecha promulgacion 09.07.2007. Fecha publicacion D.O. 27.03.2008.",
+        "Capa": "PRC Santa B\u00e1rbara",
+        "CUT": "08311",
+        "Shape_STAr": 2876.82116699,
+        "Shape_STLe": 277.294743604
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -72.01901808101239,
+              -37.66616013763975
+            ],
+            [
+              -72.01889446309566,
+              -37.66618767626316
+            ],
+            [
+              -72.01884592554543,
+              -37.66619848853059
+            ],
+            [
+              -72.01737598490828,
+              -37.66652863331461
+            ],
+            [
+              -72.0178288851001,
+              -37.66724142339506
+            ],
+            [
+              -72.01791113578464,
+              -37.66742669803553
+            ],
+            [
+              -72.01796429231682,
+              -37.667745255334
+            ],
+            [
+              -72.01808395149573,
+              -37.66828605294717
+            ],
+            [
+              -72.01819026212783,
+              -37.6690648466444
+            ],
+            [
+              -72.01932100134131,
+              -37.66901759935504
+            ],
+            [
+              -72.02053344379208,
+              -37.66900023865111
+            ],
+            [
+              -72.02221740986198,
+              -37.6689844833052
+            ],
+            [
+              -72.02345337898909,
+              -37.66898019994862
+            ],
+            [
+              -72.02493594749883,
+              -37.66896043284653
+            ],
+            [
+              -72.02492368769198,
+              -37.668234076475365
+            ],
+            [
+              -72.02489957045692,
+              -37.66749888355252
+            ],
+            [
+              -72.02486080925891,
+              -37.66654469316961
+            ],
+            [
+              -72.02484262380966,
+              -37.66581391777913
+            ],
+            [
+              -72.02483149689918,
+              -37.665539987663216
+            ],
+            [
+              -72.02466348310517,
+              -37.66490674868123
+            ],
+            [
+              -72.02307928895799,
+              -37.665253606330744
+            ],
+            [
+              -72.02053817341557,
+              -37.665821496042156
+            ],
+            [
+              -72.01901808101239,
+              -37.66616013763975
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "REG": "Biob\u00edo",
+        "COM": "Santa B\u00e1rbara",
+        "LOCALIDAD": "Santa B\u00e1rbara",
+        "ZONA": "Z3",
+        "NOMBRE": "Area consolidada 3",
+        "UPERM": "Residencial. Equipamiento: cientifico, comercio, culto y cultura, deporte, educacion, esparcimiento, salud, seguridad, servicios, social. Actividades productivas. Infraestructura: transporte.",
+        "UPROH": "Todos los usos de suelo no mencionados como permitidos",
+        "IPT": "1ra modificacion PRC Santa Barbara. Res. Gore N\u00b080. Fecha promulgacion 09.07.2007. Fecha publicacion D.O. 27.03.2008.",
+        "Capa": "PRC Santa B\u00e1rbara",
+        "CUT": "08311",
+        "Shape_STAr": 229670.141602,
+        "Shape_STLe": 2009.56334099
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -72.00985138635501,
+              -37.667234312736866
+            ],
+            [
+              -72.00997457389278,
+              -37.66722521415763
+            ],
+            [
+              -72.01018004697922,
+              -37.66718797399928
+            ],
+            [
+              -72.01043415378145,
+              -37.667144921102285
+            ],
+            [
+              -72.01053281764632,
+              -37.667096697969
+            ],
+            [
+              -72.01063278614238,
+              -37.6670095928953
+            ],
+            [
+              -72.01070440489842,
+              -37.666932353816335
+            ],
+            [
+              -72.01081650412775,
+              -37.66686093634332
+            ],
+            [
+              -72.01090135764584,
+              -37.66684146060674
+            ],
+            [
+              -72.01087996944123,
+              -37.66679533045357
+            ],
+            [
+              -72.01072368534358,
+              -37.66684045600188
+            ],
+            [
+              -72.01063706296885,
+              -37.66690208253111
+            ],
+            [
+              -72.01057100266888,
+              -37.66697460957579
+            ],
+            [
+              -72.01052189572177,
+              -37.66703984759397
+            ],
+            [
+              -72.0104205438117,
+              -37.667092709377336
+            ],
+            [
+              -72.010298443868,
+              -37.667130106114456
+            ],
+            [
+              -72.01010131109672,
+              -37.6671602784501
+            ],
+            [
+              -72.0099038067783,
+              -37.66718131906291
+            ],
+            [
+              -72.00985138635501,
+              -37.667234312736866
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "REG": "Biob\u00edo",
+        "COM": "Santa B\u00e1rbara",
+        "LOCALIDAD": "Santa B\u00e1rbara",
+        "ZONA": "AV",
+        "NOMBRE": "Area verde",
+        "UPERM": "Area verde.",
+        "UPROH": "Todos los usos de suelo no mencionados como permitidos",
+        "IPT": "1ra modificacion PRC Santa Barbara. Res. Gore N\u00b080. Fecha promulgacion 09.07.2007. Fecha publicacion D.O. 27.03.2008.",
+        "Capa": "PRC Santa B\u00e1rbara",
+        "CUT": "08311",
+        "Shape_STAr": 564.905517578,
+        "Shape_STLe": 220.732395942
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -72.02955734103462,
+              -37.66631664540761
+            ],
+            [
+              -72.02888594792137,
+              -37.66648929295033
+            ],
+            [
+              -72.02901455607963,
+              -37.66682418681899
+            ],
+            [
+              -72.02968076608668,
+              -37.666665381669816
+            ],
+            [
+              -72.02955734103462,
+              -37.66631664540761
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "REG": "Biob\u00edo",
+        "COM": "Santa B\u00e1rbara",
+        "LOCALIDAD": "Santa B\u00e1rbara",
+        "ZONA": "AV",
+        "NOMBRE": "Area verde",
+        "UPERM": "Area verde.",
+        "UPROH": "Todos los usos de suelo no mencionados como permitidos",
+        "IPT": "1ra modificacion PRC Santa Barbara. Res. Gore N\u00b080. Fecha promulgacion 09.07.2007. Fecha publicacion D.O. 27.03.2008.",
+        "Capa": "PRC Santa B\u00e1rbara",
+        "CUT": "08311",
+        "Shape_STAr": 2445.48413086,
+        "Shape_STLe": 202.79245681
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -72.03019426198148,
+              -37.66541255166689
+            ],
+            [
+              -72.0301021152271,
+              -37.66543429028137
+            ],
+            [
+              -72.03029261869031,
+              -37.665877276807855
+            ],
+            [
+              -72.03056050622561,
+              -37.665820114593764
+            ],
+            [
+              -72.03045661154758,
+              -37.66549377283276
+            ],
+            [
+              -72.03019426198148,
+              -37.66541255166689
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "REG": "Biob\u00edo",
+        "COM": "Santa B\u00e1rbara",
+        "LOCALIDAD": "Santa B\u00e1rbara",
+        "ZONA": "AV",
+        "NOMBRE": "Area verde",
+        "UPERM": "Area verde.",
+        "UPROH": "Todos los usos de suelo no mencionados como permitidos",
+        "IPT": "1ra modificacion PRC Santa Barbara. Res. Gore N\u00b080. Fecha promulgacion 09.07.2007. Fecha publicacion D.O. 27.03.2008.",
+        "Capa": "PRC Santa B\u00e1rbara",
+        "CUT": "08311",
+        "Shape_STAr": 1236.30529785,
+        "Shape_STLe": 147.187448736
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -72.00920754005266,
+              -37.66727336765079
+            ],
+            [
+              -72.00846947221132,
+              -37.66746931136664
+            ],
+            [
+              -72.00825361885138,
+              -37.667534235308906
+            ],
+            [
+              -72.00813058194,
+              -37.66761964047631
+            ],
+            [
+              -72.00801504002409,
+              -37.66774827274762
+            ],
+            [
+              -72.00793378858462,
+              -37.667800620250986
+            ],
+            [
+              -72.00777324676407,
+              -37.6678115729604
+            ],
+            [
+              -72.00740195976601,
+              -37.667800482189655
+            ],
+            [
+              -72.00723298749455,
+              -37.667816220206696
+            ],
+            [
+              -72.00711106892736,
+              -37.66785817904388
+            ],
+            [
+              -72.00695125040548,
+              -37.667958233379736
+            ],
+            [
+              -72.00693595561314,
+              -37.6680066112972
+            ],
+            [
+              -72.00686275081543,
+              -37.66811588129038
+            ],
+            [
+              -72.00680688264723,
+              -37.66815615356335
+            ],
+            [
+              -72.00668774268874,
+              -37.66819575607855
+            ],
+            [
+              -72.00652414266163,
+              -37.66820221513301
+            ],
+            [
+              -72.0063348825534,
+              -37.66821389858503
+            ],
+            [
+              -72.00615469800131,
+              -37.668236777006854
+            ],
+            [
+              -72.0059528295204,
+              -37.66829219914481
+            ],
+            [
+              -72.00576281573605,
+              -37.668356459460114
+            ],
+            [
+              -72.00565052492969,
+              -37.66842330801532
+            ],
+            [
+              -72.00549950221094,
+              -37.668527705176416
+            ],
+            [
+              -72.00534950914678,
+              -37.66858637502969
+            ],
+            [
+              -72.00516098369809,
+              -37.668616319661574
+            ],
+            [
+              -72.00499348289574,
+              -37.6686685787455
+            ],
+            [
+              -72.00484367330867,
+              -37.66873181238079
+            ],
+            [
+              -72.00471970918993,
+              -37.66879438682693
+            ],
+            [
+              -72.0045802641499,
+              -37.66890077352995
+            ],
+            [
+              -72.0044789973319,
+              -37.66895591312411
+            ],
+            [
+              -72.00431510374895,
+              -37.669026361080604
+            ],
+            [
+              -72.00422236052822,
+              -37.66907899905647
+            ],
+            [
+              -72.00410200262117,
+              -37.669159762721506
+            ],
+            [
+              -72.0039719265869,
+              -37.669213351313076
+            ],
+            [
+              -72.00361672433998,
+              -37.669316095814864
+            ],
+            [
+              -72.00356048400437,
+              -37.66934723607617
+            ],
+            [
+              -72.00351619293855,
+              -37.669389498546984
+            ],
+            [
+              -72.00340647554214,
+              -37.66952026208941
+            ],
+            [
+              -72.00333606200267,
+              -37.669556334375514
+            ],
+            [
+              -72.00321181780504,
+              -37.66961205851152
+            ],
+            [
+              -72.00305635344826,
+              -37.669677719032784
+            ],
+            [
+              -72.00300011372921,
+              -37.66970885901766
+            ],
+            [
+              -72.00296508159195,
+              -37.669766881231354
+            ],
+            [
+              -72.00291837740905,
+              -37.66982062907241
+            ],
+            [
+              -72.00284536671488,
+              -37.6698636222519
+            ],
+            [
+              -72.00273881312549,
+              -37.6699303219008
+            ],
+            [
+              -72.002640693583,
+              -37.66999223475239
+            ],
+            [
+              -72.00252589282641,
+              -37.670068285252555
+            ],
+            [
+              -72.00244769061922,
+              -37.67012512136467
+            ],
+            [
+              -72.00240941679299,
+              -37.67017408421685
+            ],
+            [
+              -72.00236946903092,
+              -37.67025279649632
+            ],
+            [
+              -72.00229494737772,
+              -37.67040094500788
+            ],
+            [
+              -72.00224739571452,
+              -37.67050498776928
+            ],
+            [
+              -72.00219975301768,
+              -37.67060674783258
+            ],
+            [
+              -72.00217296673132,
+              -37.67065541794454
+            ],
+            [
+              -72.0021229295038,
+              -37.67069782450161
+            ],
+            [
+              -72.00184960348683,
+              -37.67083504147277
+            ],
+            [
+              -72.00129517808712,
+              -37.6710593961428
+            ],
+            [
+              -72.00067543214101,
+              -37.671303694295865
+            ],
+            [
+              -72.00066495835718,
+              -37.6713290968984
+            ],
+            [
+              -72.00067754931997,
+              -37.671356198079614
+            ],
+            [
+              -72.00071812381992,
+              -37.671364304877464
+            ],
+            [
+              -72.00078872559305,
+              -37.67133280112396
+            ],
+            [
+              -72.00101229445549,
+              -37.671244841428226
+            ],
+            [
+              -72.0014674004801,
+              -37.67105272463385
+            ],
+            [
+              -72.00192064593702,
+              -37.6708857903034
+            ],
+            [
+              -72.00222418228782,
+              -37.670713526710855
+            ],
+            [
+              -72.0022758944838,
+              -37.67064136974712
+            ],
+            [
+              -72.00235367438935,
+              -37.67043143965486
+            ],
+            [
+              -72.00251030062917,
+              -37.67018065379401
+            ],
+            [
+              -72.00259350974697,
+              -37.67010540917079
+            ],
+            [
+              -72.00282320311646,
+              -37.669955592391005
+            ],
+            [
+              -72.00289398556863,
+              -37.66992865189879
+            ],
+            [
+              -72.00298886711307,
+              -37.6698576804592
+            ],
+            [
+              -72.00305410880475,
+              -37.669764611598474
+            ],
+            [
+              -72.00314111044916,
+              -37.66971212174312
+            ],
+            [
+              -72.00335920333339,
+              -37.66963115404999
+            ],
+            [
+              -72.00346361864928,
+              -37.66958278924295
+            ],
+            [
+              -72.00352895166266,
+              -37.66949200460315
+            ],
+            [
+              -72.00364820455641,
+              -37.66938384788786
+            ],
+            [
+              -72.00392058534467,
+              -37.669294639528054
+            ],
+            [
+              -72.00415321965104,
+              -37.66921787061219
+            ],
+            [
+              -72.00423771544214,
+              -37.66917458294082
+            ],
+            [
+              -72.00436344694111,
+              -37.66908454214642
+            ],
+            [
+              -72.00450769978742,
+              -37.66902602167975
+            ],
+            [
+              -72.00465964609792,
+              -37.66894445309192
+            ],
+            [
+              -72.00470912681344,
+              -37.668888347889755
+            ],
+            [
+              -72.00483003520121,
+              -37.668821280472876
+            ],
+            [
+              -72.00499689155019,
+              -37.66875304125979
+            ],
+            [
+              -72.00516124454077,
+              -37.668694007448536
+            ],
+            [
+              -72.00528927856375,
+              -37.668661034626666
+            ],
+            [
+              -72.00539766963986,
+              -37.668639989426765
+            ],
+            [
+              -72.00548855342869,
+              -37.668612535648194
+            ],
+            [
+              -72.0055618377189,
+              -37.66857638888356
+            ],
+            [
+              -72.00563734969847,
+              -37.668524190270865
+            ],
+            [
+              -72.00573240989232,
+              -37.66845778121881
+            ],
+            [
+              -72.00586489521018,
+              -37.668392703374316
+            ],
+            [
+              -72.00596439440932,
+              -37.66836502857605
+            ],
+            [
+              -72.00610317550303,
+              -37.66831350076045
+            ],
+            [
+              -72.0062314849404,
+              -37.66828737669845
+            ],
+            [
+              -72.00635450962471,
+              -37.66827281230848
+            ],
+            [
+              -72.00652385189915,
+              -37.668266206984796
+            ],
+            [
+              -72.00665021118195,
+              -37.66826298219773
+            ],
+            [
+              -72.00673599491378,
+              -37.66825165347536
+            ],
+            [
+              -72.00687245784054,
+              -37.66821389479606
+            ],
+            [
+              -72.00691943349597,
+              -37.66816699260399
+            ],
+            [
+              -72.00696604267677,
+              -37.66811096065724
+            ],
+            [
+              -72.00704128919627,
+              -37.667981071725684
+            ],
+            [
+              -72.00712578301564,
+              -37.6679377838775
+            ],
+            [
+              -72.0072099079176,
+              -37.667885363593655
+            ],
+            [
+              -72.00735877703067,
+              -37.66787013864375
+            ],
+            [
+              -72.00745910471694,
+              -37.66786300823267
+            ],
+            [
+              -72.00760009776661,
+              -37.66786626576109
+            ],
+            [
+              -72.00769810703747,
+              -37.66787290429897
+            ],
+            [
+              -72.00779861795087,
+              -37.667870338915804
+            ],
+            [
+              -72.00794192929347,
+              -37.66785982598012
+            ],
+            [
+              -72.00801891311544,
+              -37.667844150055814
+            ],
+            [
+              -72.00808923158633,
+              -37.66780579335538
+            ],
+            [
+              -72.00814992079565,
+              -37.66774254475186
+            ],
+            [
+              -72.0082051423147,
+              -37.667686291584765
+            ],
+            [
+              -72.00830816932336,
+              -37.66760368125224
+            ],
+            [
+              -72.00833633280621,
+              -37.66758925230799
+            ],
+            [
+              -72.00845306041141,
+              -37.66756113562082
+            ],
+            [
+              -72.00868883234911,
+              -37.667491131873895
+            ],
+            [
+              -72.00885364051503,
+              -37.66744350635071
+            ],
+            [
+              -72.00898454097643,
+              -37.667410457277455
+            ],
+            [
+              -72.00913198251219,
+              -37.66736588597196
+            ],
+            [
+              -72.00920754005266,
+              -37.66727336765079
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "REG": "Biob\u00edo",
+        "COM": "Santa B\u00e1rbara",
+        "LOCALIDAD": "Santa B\u00e1rbara",
+        "ZONA": "R3",
+        "NOMBRE": "Zona no edificable de proteccion de cursos de agua y canales",
+        "UPERM": "Sin informacion.",
+        "UPROH": "Todos los usos de suelo no mencionados como permitidos",
+        "IPT": "1ra modificacion PRC Santa Barbara. Res. Gore N\u00b080. Fecha promulgacion 09.07.2007. Fecha publicacion D.O. 27.03.2008.",
+        "Capa": "PRC Santa B\u00e1rbara",
+        "CUT": "08311",
+        "Shape_STAr": 6891.27770996,
+        "Shape_STLe": 1847.1562065
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -72.00913198251219,
+              -37.66736588597196
+            ],
+            [
+              -72.00898454097643,
+              -37.667410457277455
+            ],
+            [
+              -72.00885364051503,
+              -37.66744350635071
+            ],
+            [
+              -72.00868883234911,
+              -37.667491131873895
+            ],
+            [
+              -72.00845306041141,
+              -37.66756113562082
+            ],
+            [
+              -72.00833633280621,
+              -37.66758925230799
+            ],
+            [
+              -72.00830816932336,
+              -37.66760368125224
+            ],
+            [
+              -72.0082051423147,
+              -37.667686291584765
+            ],
+            [
+              -72.00814992079565,
+              -37.66774254475186
+            ],
+            [
+              -72.00808923158633,
+              -37.66780579335538
+            ],
+            [
+              -72.00801891311544,
+              -37.667844150055814
+            ],
+            [
+              -72.00794192929347,
+              -37.66785982598012
+            ],
+            [
+              -72.00779861795087,
+              -37.667870338915804
+            ],
+            [
+              -72.00769810703747,
+              -37.66787290429897
+            ],
+            [
+              -72.00760009776661,
+              -37.66786626576109
+            ],
+            [
+              -72.00745910471694,
+              -37.66786300823267
+            ],
+            [
+              -72.00735877703067,
+              -37.66787013864375
+            ],
+            [
+              -72.0072099079176,
+              -37.667885363593655
+            ],
+            [
+              -72.00712578301564,
+              -37.6679377838775
+            ],
+            [
+              -72.00704128919627,
+              -37.667981071725684
+            ],
+            [
+              -72.00696604267677,
+              -37.66811096065724
+            ],
+            [
+              -72.00691943349597,
+              -37.66816699260399
+            ],
+            [
+              -72.00687245784054,
+              -37.66821389479606
+            ],
+            [
+              -72.00673599491378,
+              -37.66825165347536
+            ],
+            [
+              -72.00665021118195,
+              -37.66826298219773
+            ],
+            [
+              -72.00652385189915,
+              -37.668266206984796
+            ],
+            [
+              -72.00635450962471,
+              -37.66827281230848
+            ],
+            [
+              -72.0062314849404,
+              -37.66828737669845
+            ],
+            [
+              -72.00610317550303,
+              -37.66831350076045
+            ],
+            [
+              -72.00596439440932,
+              -37.66836502857605
+            ],
+            [
+              -72.00586489521018,
+              -37.668392703374316
+            ],
+            [
+              -72.00573240989232,
+              -37.66845778121881
+            ],
+            [
+              -72.00563734969847,
+              -37.668524190270865
+            ],
+            [
+              -72.0055618377189,
+              -37.66857638888356
+            ],
+            [
+              -72.00548855342869,
+              -37.668612535648194
+            ],
+            [
+              -72.00539766963986,
+              -37.668639989426765
+            ],
+            [
+              -72.00528927856375,
+              -37.668661034626666
+            ],
+            [
+              -72.00516124454077,
+              -37.668694007448536
+            ],
+            [
+              -72.00499689155019,
+              -37.66875304125979
+            ],
+            [
+              -72.00483003520121,
+              -37.668821280472876
+            ],
+            [
+              -72.00470912681344,
+              -37.668888347889755
+            ],
+            [
+              -72.00465964609792,
+              -37.66894445309192
+            ],
+            [
+              -72.00450769978742,
+              -37.66902602167975
+            ],
+            [
+              -72.00436344694111,
+              -37.66908454214642
+            ],
+            [
+              -72.00423771544214,
+              -37.66917458294082
+            ],
+            [
+              -72.00415321965104,
+              -37.66921787061219
+            ],
+            [
+              -72.00392058534467,
+              -37.669294639528054
+            ],
+            [
+              -72.00364820455641,
+              -37.66938384788786
+            ],
+            [
+              -72.00352895166266,
+              -37.66949200460315
+            ],
+            [
+              -72.00346361864928,
+              -37.66958278924295
+            ],
+            [
+              -72.00335920333339,
+              -37.66963115404999
+            ],
+            [
+              -72.00314111044916,
+              -37.66971212174312
+            ],
+            [
+              -72.00305410880475,
+              -37.669764611598474
+            ],
+            [
+              -72.00298886711307,
+              -37.6698576804592
+            ],
+            [
+              -72.00289398556863,
+              -37.66992865189879
+            ],
+            [
+              -72.00282320311646,
+              -37.669955592391005
+            ],
+            [
+              -72.00259350974697,
+              -37.67010540917079
+            ],
+            [
+              -72.00251030062917,
+              -37.67018065379401
+            ],
+            [
+              -72.00235367438935,
+              -37.67043143965486
+            ],
+            [
+              -72.0022758944838,
+              -37.67064136974712
+            ],
+            [
+              -72.00222418228782,
+              -37.670713526710855
+            ],
+            [
+              -72.00192064593702,
+              -37.6708857903034
+            ],
+            [
+              -72.0014674004801,
+              -37.67105272463385
+            ],
+            [
+              -72.00101229445549,
+              -37.671244841428226
+            ],
+            [
+              -72.00078872559305,
+              -37.67133280112396
+            ],
+            [
+              -72.00071812381992,
+              -37.671364304877464
+            ],
+            [
+              -72.00067754931997,
+              -37.671356198079614
+            ],
+            [
+              -72.00066495835718,
+              -37.6713290968984
+            ],
+            [
+              -72.00067543214101,
+              -37.671303694295865
+            ],
+            [
+              -72.00129517808712,
+              -37.6710593961428
+            ],
+            [
+              -72.00184960348683,
+              -37.67083504147277
+            ],
+            [
+              -72.0021229295038,
+              -37.67069782450161
+            ],
+            [
+              -72.00217296673132,
+              -37.67065541794454
+            ],
+            [
+              -72.00219975301768,
+              -37.67060674783258
+            ],
+            [
+              -72.00224739571452,
+              -37.67050498776928
+            ],
+            [
+              -72.00229494737772,
+              -37.67040094500788
+            ],
+            [
+              -72.00236946903092,
+              -37.67025279649632
+            ],
+            [
+              -72.00240941679299,
+              -37.67017408421685
+            ],
+            [
+              -72.00244769061922,
+              -37.67012512136467
+            ],
+            [
+              -72.00252589282641,
+              -37.670068285252555
+            ],
+            [
+              -72.002640693583,
+              -37.66999223475239
+            ],
+            [
+              -72.00273881312549,
+              -37.6699303219008
+            ],
+            [
+              -72.00284536671488,
+              -37.6698636222519
+            ],
+            [
+              -72.00291837740905,
+              -37.66982062907241
+            ],
+            [
+              -72.00296508159195,
+              -37.669766881231354
+            ],
+            [
+              -72.00300011372921,
+              -37.66970885901766
+            ],
+            [
+              -72.00305635344826,
+              -37.669677719032784
+            ],
+            [
+              -72.00321181780504,
+              -37.66961205851152
+            ],
+            [
+              -72.00333606200267,
+              -37.669556334375514
+            ],
+            [
+              -72.00340647554214,
+              -37.66952026208941
+            ],
+            [
+              -72.00351619293855,
+              -37.669389498546984
+            ],
+            [
+              -72.00356048400437,
+              -37.66934723607617
+            ],
+            [
+              -72.00361672433998,
+              -37.669316095814864
+            ],
+            [
+              -72.0039719265869,
+              -37.669213351313076
+            ],
+            [
+              -72.00410200262117,
+              -37.669159762721506
+            ],
+            [
+              -72.00422236052822,
+              -37.66907899905647
+            ],
+            [
+              -72.00431510374895,
+              -37.669026361080604
+            ],
+            [
+              -72.0044789973319,
+              -37.66895591312411
+            ],
+            [
+              -72.0045802641499,
+              -37.66890077352995
+            ],
+            [
+              -72.00471970918993,
+              -37.66879438682693
+            ],
+            [
+              -72.00484367330867,
+              -37.66873181238079
+            ],
+            [
+              -72.00499348289574,
+              -37.6686685787455
+            ],
+            [
+              -72.00516098369809,
+              -37.668616319661574
+            ],
+            [
+              -72.00534950914678,
+              -37.66858637502969
+            ],
+            [
+              -72.00549950221094,
+              -37.668527705176416
+            ],
+            [
+              -72.00565052492969,
+              -37.66842330801532
+            ],
+            [
+              -72.00576281573605,
+              -37.668356459460114
+            ],
+            [
+              -72.0059528295204,
+              -37.66829219914481
+            ],
+            [
+              -72.00615469800131,
+              -37.668236777006854
+            ],
+            [
+              -72.0063348825534,
+              -37.66821389858503
+            ],
+            [
+              -72.00652414266163,
+              -37.66820221513301
+            ],
+            [
+              -72.00668774268874,
+              -37.66819575607855
+            ],
+            [
+              -72.00680688264723,
+              -37.66815615356335
+            ],
+            [
+              -72.00686275081543,
+              -37.66811588129038
+            ],
+            [
+              -72.00693595561314,
+              -37.6680066112972
+            ],
+            [
+              -72.00695125040548,
+              -37.667958233379736
+            ],
+            [
+              -72.00711106892736,
+              -37.66785817904388
+            ],
+            [
+              -72.00723298749455,
+              -37.667816220206696
+            ],
+            [
+              -72.00740195976601,
+              -37.667800482189655
+            ],
+            [
+              -72.00777324676407,
+              -37.6678115729604
+            ],
+            [
+              -72.00793378858462,
+              -37.667800620250986
+            ],
+            [
+              -72.00801504002409,
+              -37.66774827274762
+            ],
+            [
+              -72.00813058194,
+              -37.66761964047631
+            ],
+            [
+              -72.00825361885138,
+              -37.667534235308906
+            ],
+            [
+              -72.00846947221132,
+              -37.66746931136664
+            ],
+            [
+              -72.00920754005266,
+              -37.66727336765079
+            ],
+            [
+              -72.00930320671107,
+              -37.66715095518587
+            ],
+            [
+              -72.0094497350046,
+              -37.667006677000494
+            ],
+            [
+              -72.00958644190688,
+              -37.66686836285846
+            ],
+            [
+              -72.0097256912193,
+              -37.666757404485736
+            ],
+            [
+              -72.00994646690306,
+              -37.66660094692156
+            ],
+            [
+              -72.01005588493551,
+              -37.66649874849997
+            ],
+            [
+              -72.00980668145198,
+              -37.66659194883404
+            ],
+            [
+              -72.00949003224788,
+              -37.66672343373894
+            ],
+            [
+              -72.009362177574,
+              -37.66683181405627
+            ],
+            [
+              -72.00921487709802,
+              -37.666885849087805
+            ],
+            [
+              -72.00847005035553,
+              -37.66709224872903
+            ],
+            [
+              -72.00814154021143,
+              -37.66721489108393
+            ],
+            [
+              -72.00757067029468,
+              -37.667457976209256
+            ],
+            [
+              -72.00730459846035,
+              -37.66756074273765
+            ],
+            [
+              -72.00712059494155,
+              -37.667702547135114
+            ],
+            [
+              -72.0068802618362,
+              -37.66787320854417
+            ],
+            [
+              -72.00671627976583,
+              -37.66794137703774
+            ],
+            [
+              -72.0061717202131,
+              -37.668124370676736
+            ],
+            [
+              -72.00575668035555,
+              -37.668240073855266
+            ],
+            [
+              -72.00550746631711,
+              -37.66833326551854
+            ],
+            [
+              -72.00521693901096,
+              -37.66840008846375
+            ],
+            [
+              -72.00502552781052,
+              -37.66850094591291
+            ],
+            [
+              -72.00479873209062,
+              -37.668579853531675
+            ],
+            [
+              -72.00455897447424,
+              -37.668622529427985
+            ],
+            [
+              -72.00435644254912,
+              -37.66873280934321
+            ],
+            [
+              -72.00417095557194,
+              -37.66883808439163
+            ],
+            [
+              -72.00392711223454,
+              -37.6689219949542
+            ],
+            [
+              -72.00375237511048,
+              -37.66900871444047
+            ],
+            [
+              -72.00347554097533,
+              -37.66913002768876
+            ],
+            [
+              -72.0033447267497,
+              -37.669165353515936
+            ],
+            [
+              -72.00279031957002,
+              -37.66938971452646
+            ],
+            [
+              -72.00256443910459,
+              -37.66949144638548
+            ],
+            [
+              -72.00240950747717,
+              -37.66964164376335
+            ],
+            [
+              -72.00219249965531,
+              -37.6698208433468
+            ],
+            [
+              -72.00200457685122,
+              -37.67000844250246
+            ],
+            [
+              -72.00190339968509,
+              -37.670065862644826
+            ],
+            [
+              -72.00182387010689,
+              -37.67023241844221
+            ],
+            [
+              -72.00170505457261,
+              -37.67042282670781
+            ],
+            [
+              -72.00152475191257,
+              -37.67051425564124
+            ],
+            [
+              -72.00123958729499,
+              -37.670571791453966
+            ],
+            [
+              -72.00081027825095,
+              -37.67061928732061
+            ],
+            [
+              -72.00052772925234,
+              -37.67059906031139
+            ],
+            [
+              -72.00016513723733,
+              -37.67059001141088
+            ],
+            [
+              -71.99993497639234,
+              -37.67072840910989
+            ],
+            [
+              -71.9997114789756,
+              -37.67088948855334
+            ],
+            [
+              -71.99966199308386,
+              -37.670945590956926
+            ],
+            [
+              -71.99952630724641,
+              -37.671145567461
+            ],
+            [
+              -71.99978418937806,
+              -37.67173085585097
+            ],
+            [
+              -72.00121916323306,
+              -37.67124185883285
+            ],
+            [
+              -72.00248817472037,
+              -37.67084390869038
+            ],
+            [
+              -72.00320627307862,
+              -37.67068621677256
+            ],
+            [
+              -72.00397493902126,
+              -37.6705706482282
+            ],
+            [
+              -72.00502653638425,
+              -37.670413583269884
+            ],
+            [
+              -72.00542222371847,
+              -37.670316656923504
+            ],
+            [
+              -72.00591593698424,
+              -37.670155529388914
+            ],
+            [
+              -72.00610512450538,
+              -37.67007072396554
+            ],
+            [
+              -72.00653890910729,
+              -37.66984942410143
+            ],
+            [
+              -72.00681334240117,
+              -37.669668751426016
+            ],
+            [
+              -72.00742180402116,
+              -37.6691459236223
+            ],
+            [
+              -72.00913198251219,
+              -37.66736588597196
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "REG": "Biob\u00edo",
+        "COM": "Santa B\u00e1rbara",
+        "LOCALIDAD": "Santa B\u00e1rbara",
+        "ZONA": "EX2",
+        "NOMBRE": "Area de extensi\u00f3n urbana 2",
+        "UPERM": "Residencial. Equipamiento: cientifico, comercio, culto y cultura, deporte, educacion, esparcimiento, salud, seguridad, servicios, social.",
+        "UPROH": "Todos los usos de suelo no mencionados como permitidos",
+        "IPT": "1ra modificacion PRC Santa Barbara. Res. Gore N\u00b080. Fecha promulgacion 09.07.2007. Fecha publicacion D.O. 27.03.2008.",
+        "Capa": "PRC Santa B\u00e1rbara",
+        "CUT": "08311",
+        "Shape_STAr": 120972.217285,
+        "Shape_STLe": 4114.78919899
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -71.99988296802076,
+              -37.67197056655359
+            ],
+            [
+              -72.00004008796081,
+              -37.672302481360106
+            ],
+            [
+              -72.00047762313699,
+              -37.67203083610979
+            ],
+            [
+              -72.00073039387573,
+              -37.671882720667426
+            ],
+            [
+              -72.00101854579422,
+              -37.67175655454027
+            ],
+            [
+              -72.00131152000576,
+              -37.671607414907385
+            ],
+            [
+              -72.00181646254971,
+              -37.67143916331301
+            ],
+            [
+              -72.00225395071446,
+              -37.67130918995747
+            ],
+            [
+              -72.00280557632239,
+              -37.67115802659517
+            ],
+            [
+              -72.00316485720768,
+              -37.671084887233
+            ],
+            [
+              -72.00346261269023,
+              -37.67105444671342
+            ],
+            [
+              -72.00392767520403,
+              -37.67103802151217
+            ],
+            [
+              -72.00435234588471,
+              -37.671018055187865
+            ],
+            [
+              -72.00463305444181,
+              -37.67099261722724
+            ],
+            [
+              -72.00500047235205,
+              -37.67097867746028
+            ],
+            [
+              -72.00532639281656,
+              -37.670933804023214
+            ],
+            [
+              -72.00568843425923,
+              -37.6709291401213
+            ],
+            [
+              -72.00605287190442,
+              -37.670983827502845
+            ],
+            [
+              -72.00645306326079,
+              -37.67106959421727
+            ],
+            [
+              -72.0068334415758,
+              -37.671091880705376
+            ],
+            [
+              -72.00726662283978,
+              -37.67114024019173
+            ],
+            [
+              -72.00764773933788,
+              -37.671180786965614
+            ],
+            [
+              -72.00801810828472,
+              -37.67123988771156
+            ],
+            [
+              -72.00839495906754,
+              -37.67131710266624
+            ],
+            [
+              -72.00868380744369,
+              -37.67135086071446
+            ],
+            [
+              -72.00901879244114,
+              -37.671388009947265
+            ],
+            [
+              -72.0094249155636,
+              -37.671478184963725
+            ],
+            [
+              -72.00969911841058,
+              -37.67157629798045
+            ],
+            [
+              -72.00987512410539,
+              -37.67166320770513
+            ],
+            [
+              -72.01013710294042,
+              -37.67174335104848
+            ],
+            [
+              -72.0105046853679,
+              -37.67187563937555
+            ],
+            [
+              -72.0108542978706,
+              -37.67199010482167
+            ],
+            [
+              -72.01118001424089,
+              -37.67208232810091
+            ],
+            [
+              -72.0114375438792,
+              -37.6721945738984
+            ],
+            [
+              -72.01172805990393,
+              -37.67226941434725
+            ],
+            [
+              -72.01230780046673,
+              -37.67238713346515
+            ],
+            [
+              -72.01272486618892,
+              -37.672463306316665
+            ],
+            [
+              -72.01302205281353,
+              -37.6725608238064
+            ],
+            [
+              -72.01331626739668,
+              -37.67272697081279
+            ],
+            [
+              -72.01351580933648,
+              -37.67282698393931
+            ],
+            [
+              -72.01374091332184,
+              -37.67299032724462
+            ],
+            [
+              -72.01393432956982,
+              -37.67322303485545
+            ],
+            [
+              -72.01412387872335,
+              -37.67321818655593
+            ],
+            [
+              -72.01434250220561,
+              -37.67336341268475
+            ],
+            [
+              -72.01470583492421,
+              -37.67353235885705
+            ],
+            [
+              -72.01491428053484,
+              -37.67356815747248
+            ],
+            [
+              -72.01521960924678,
+              -37.673866553689756
+            ],
+            [
+              -72.01552903024505,
+              -37.673982033341616
+            ],
+            [
+              -72.0157786095736,
+              -37.67403962944424
+            ],
+            [
+              -72.01605005495925,
+              -37.67406924364971
+            ],
+            [
+              -72.01642637192957,
+              -37.67413273615301
+            ],
+            [
+              -72.0167385802696,
+              -37.6741750161166
+            ],
+            [
+              -72.0171091534518,
+              -37.67423865256087
+            ],
+            [
+              -72.01775339486684,
+              -37.674386685404
+            ],
+            [
+              -72.01848620500205,
+              -37.67459185832696
+            ],
+            [
+              -72.01903243411503,
+              -37.6747332538669
+            ],
+            [
+              -72.01931111231303,
+              -37.674657559368256
+            ],
+            [
+              -72.01964000317658,
+              -37.67454401585442
+            ],
+            [
+              -72.01996815212394,
+              -37.67441220874035
+            ],
+            [
+              -72.02030704729646,
+              -37.67426184537778
+            ],
+            [
+              -72.02056571173601,
+              -37.674118106783915
+            ],
+            [
+              -72.0208343813191,
+              -37.67393754862915
+            ],
+            [
+              -72.02114251444026,
+              -37.673737698188525
+            ],
+            [
+              -72.02142748538837,
+              -37.673533870892406
+            ],
+            [
+              -72.02163204113964,
+              -37.67333210411885
+            ],
+            [
+              -72.02188828948542,
+              -37.673129012266706
+            ],
+            [
+              -72.02218455876242,
+              -37.672920322575415
+            ],
+            [
+              -72.02234760802519,
+              -37.672829305746156
+            ],
+            [
+              -72.02259032943834,
+              -37.67271796337143
+            ],
+            [
+              -72.02295774757002,
+              -37.672703968278924
+            ],
+            [
+              -72.02379541674715,
+              -37.67265962418427
+            ],
+            [
+              -72.02466791723523,
+              -37.672623520925804
+            ],
+            [
+              -72.02646331049895,
+              -37.67251800917594
+            ],
+            [
+              -72.028091569831,
+              -37.672403054310344
+            ],
+            [
+              -72.0295840160242,
+              -37.67234184207196
+            ],
+            [
+              -72.03111055030361,
+              -37.672270592344546
+            ],
+            [
+              -72.03244160655183,
+              -37.6721997835423
+            ],
+            [
+              -72.03438298211783,
+              -37.67214980835325
+            ],
+            [
+              -72.03444549423446,
+              -37.67043892511031
+            ],
+            [
+              -72.03444737341532,
+              -37.669250611273895
+            ],
+            [
+              -72.03341991481292,
+              -37.66971580921667
+            ],
+            [
+              -72.0329441533798,
+              -37.66989258403637
+            ],
+            [
+              -72.03258177384984,
+              -37.670029878500834
+            ],
+            [
+              -72.0321478668766,
+              -37.67010502655566
+            ],
+            [
+              -72.03141566464588,
+              -37.67019698973819
+            ],
+            [
+              -72.03042890165933,
+              -37.67039146989415
+            ],
+            [
+              -72.0297389434059,
+              -37.67053260778266
+            ],
+            [
+              -72.0289568975895,
+              -37.67067153878532
+            ],
+            [
+              -72.02878014522354,
+              -37.67070807355403
+            ],
+            [
+              -72.02855095702546,
+              -37.670727674941716
+            ],
+            [
+              -72.02826377666923,
+              -37.670735056300444
+            ],
+            [
+              -72.02777149458637,
+              -37.6707888377258
+            ],
+            [
+              -72.02737685541709,
+              -37.67084010949938
+            ],
+            [
+              -72.02718731463204,
+              -37.67084497883791
+            ],
+            [
+              -72.02647839466151,
+              -37.6709088908436
+            ],
+            [
+              -72.02544083431047,
+              -37.67098580762628
+            ],
+            [
+              -72.02448460829113,
+              -37.67108347852203
+            ],
+            [
+              -72.02381333979827,
+              -37.67111898649389
+            ],
+            [
+              -72.02270277249885,
+              -37.671238885082225
+            ],
+            [
+              -72.02165371243277,
+              -37.671316063561434
+            ],
+            [
+              -72.02088072053441,
+              -37.671395295740766
+            ],
+            [
+              -72.02032469061271,
+              -37.671436969521174
+            ],
+            [
+              -72.01987556991611,
+              -37.67135021930251
+            ],
+            [
+              -72.01961210009829,
+              -37.67137525275554
+            ],
+            [
+              -72.01942830109003,
+              -37.67137996248014
+            ],
+            [
+              -72.0189658402228,
+              -37.67131868727316
+            ],
+            [
+              -72.01864197012986,
+              -37.671272140880866
+            ],
+            [
+              -72.01834551817976,
+              -37.671334577135866
+            ],
+            [
+              -72.01787860374499,
+              -37.671447081795606
+            ],
+            [
+              -72.01725345299388,
+              -37.67162762063184
+            ],
+            [
+              -72.01682099638064,
+              -37.67173923884471
+            ],
+            [
+              -72.0164241121285,
+              -37.671877366603496
+            ],
+            [
+              -72.01610727012078,
+              -37.67200430348929
+            ],
+            [
+              -72.01584601428034,
+              -37.6720841143893
+            ],
+            [
+              -72.01559365693136,
+              -37.67209971362927
+            ],
+            [
+              -72.015298677927,
+              -37.67219866717018
+            ],
+            [
+              -72.01501518505287,
+              -37.67229732699802
+            ],
+            [
+              -72.01476726252466,
+              -37.67242249602489
+            ],
+            [
+              -72.01442596126977,
+              -37.6725134934534
+            ],
+            [
+              -72.01413913877022,
+              -37.672529970356585
+            ],
+            [
+              -72.0138289714058,
+              -37.672537903667966
+            ],
+            [
+              -72.01356327563308,
+              -37.67250813627368
+            ],
+            [
+              -72.01325126035829,
+              -37.67247041276216
+            ],
+            [
+              -72.01292590961815,
+              -37.67238732682514
+            ],
+            [
+              -72.01253052490277,
+              -37.672278608701774
+            ],
+            [
+              -72.01219221099655,
+              -37.672159289510944
+            ],
+            [
+              -72.01187724135681,
+              -37.672048513535536
+            ],
+            [
+              -72.01166418628695,
+              -37.67189856944312
+            ],
+            [
+              -72.01156452906588,
+              -37.671709165216804
+            ],
+            [
+              -72.01116598061526,
+              -37.67173534600691
+            ],
+            [
+              -72.01089528351747,
+              -37.671723982065956
+            ],
+            [
+              -72.01062940679137,
+              -37.67168964260063
+            ],
+            [
+              -72.0102744206396,
+              -37.67158445370288
+            ],
+            [
+              -72.0098028991227,
+              -37.671441109479254
+            ],
+            [
+              -72.00934249705233,
+              -37.67128833848326
+            ],
+            [
+              -72.00875462693597,
+              -37.6711113976768
+            ],
+            [
+              -72.00789032073627,
+              -37.670923229459376
+            ],
+            [
+              -72.00702156702626,
+              -37.67076716095104
+            ],
+            [
+              -72.00618912128985,
+              -37.67065586145633
+            ],
+            [
+              -72.00575686600963,
+              -37.67063032608964
+            ],
+            [
+              -72.00525196955495,
+              -37.670656915254284
+            ],
+            [
+              -72.00402008668819,
+              -37.67083457331259
+            ],
+            [
+              -72.00320055157427,
+              -37.6709720054184
+            ],
+            [
+              -72.00266172288282,
+              -37.67108399684252
+            ],
+            [
+              -72.00218161898655,
+              -37.67122648330293
+            ],
+            [
+              -72.00144348277335,
+              -37.67145780393796
+            ],
+            [
+              -72.00076204397743,
+              -37.671669396233156
+            ],
+            [
+              -71.99988296802076,
+              -37.67197056655359
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "REG": "Biob\u00edo",
+        "COM": "Santa B\u00e1rbara",
+        "LOCALIDAD": "Santa B\u00e1rbara",
+        "ZONA": "R1",
+        "NOMBRE": "Zona no edificable de borde de r\u00edo, con riesgo de inundaci\u00f3n",
+        "UPERM": "Equipamiento: esparcimiento. Area verde.",
+        "UPROH": "Todos los usos de suelo no mencionados como permitidos",
+        "IPT": "1ra modificacion PRC Santa Barbara. Res. Gore N\u00b080. Fecha promulgacion 09.07.2007. Fecha publicacion D.O. 27.03.2008.",
+        "Capa": "PRC Santa B\u00e1rbara",
+        "CUT": "08311",
+        "Shape_STAr": 443906.026978,
+        "Shape_STLe": 6794.69060012
+      }
+    }
+  ]
+}

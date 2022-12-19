@@ -1,0 +1,937 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -70.39443633692137,
+              -23.104667007856044
+            ],
+            [
+              -70.39583369952597,
+              -23.105042329772676
+            ],
+            [
+              -70.40787851714099,
+              -23.108185146237535
+            ],
+            [
+              -70.42383540951214,
+              -23.112343168404955
+            ],
+            [
+              -70.42515198475598,
+              -23.112885048653585
+            ],
+            [
+              -70.4237145552335,
+              -23.103944963810857
+            ],
+            [
+              -70.42460806553649,
+              -23.10404124452743
+            ],
+            [
+              -70.42656516922153,
+              -23.104439348100083
+            ],
+            [
+              -70.42761047980717,
+              -23.104424638122442
+            ],
+            [
+              -70.42519508932732,
+              -23.103191952592834
+            ],
+            [
+              -70.42267030588397,
+              -23.102605395045604
+            ],
+            [
+              -70.40903225732428,
+              -23.099000016818664
+            ],
+            [
+              -70.4049285398248,
+              -23.096388571913664
+            ],
+            [
+              -70.40397950000944,
+              -23.097327913080335
+            ],
+            [
+              -70.40154970097683,
+              -23.099156025835818
+            ],
+            [
+              -70.40018010027619,
+              -23.10010011634249
+            ],
+            [
+              -70.39868842809402,
+              -23.101231665043205
+            ],
+            [
+              -70.39775094057947,
+              -23.10199985555925
+            ],
+            [
+              -70.39638501829789,
+              -23.10330518689336
+            ],
+            [
+              -70.39592660387743,
+              -23.1039400907618
+            ],
+            [
+              -70.39443633692137,
+              -23.104667007856044
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "REG": "Antofagasta",
+        "COM": "Mejillones",
+        "LOCALIDAD": "Meseta",
+        "ZONA": "ZIM",
+        "NOMBRE": "ZIM Zona Insustrial Mixta",
+        "UPERM": "Industria todo impacto; fabricas productortas y ensambladoras de partes, bienes y servicios; comercio, oficinas; bodegas, almacenamiento y distribuci\u00f3n de material; equip. p\u00fablico, seguridad, servicios; espacios p\u00fablicos y fajas verdes",
+        "UPROH": "Todos los no indicados expresamente",
+        "URL": "http://www.observatoriourbano.cl/Ipt/cehu_resultado_decreto.asp?r=2&c=73&i=18",
+        "Capa": "Seccional Mejillones - Meseta",
+        "CUT": "02102",
+        "Shape_STAr": 2799147.82715,
+        "Shape_STLe": 8616.40798516
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -70.39305135858955,
+              -23.10429499857737
+            ],
+            [
+              -70.39443633692137,
+              -23.104667007856044
+            ],
+            [
+              -70.39592660387743,
+              -23.1039400907618
+            ],
+            [
+              -70.39638501829789,
+              -23.10330518689336
+            ],
+            [
+              -70.39775094057947,
+              -23.10199985555925
+            ],
+            [
+              -70.39868842809402,
+              -23.101231665043205
+            ],
+            [
+              -70.40018010027619,
+              -23.10010011634249
+            ],
+            [
+              -70.40154970097683,
+              -23.099156025835818
+            ],
+            [
+              -70.40397950000944,
+              -23.097327913080335
+            ],
+            [
+              -70.4049285398248,
+              -23.096388571913664
+            ],
+            [
+              -70.40412560454433,
+              -23.095877590182603
+            ],
+            [
+              -70.40366050182296,
+              -23.096459032982338
+            ],
+            [
+              -70.4020784461912,
+              -23.097835151434825
+            ],
+            [
+              -70.40041634590699,
+              -23.098968228946106
+            ],
+            [
+              -70.3987388683155,
+              -23.100115762718136
+            ],
+            [
+              -70.39701709247616,
+              -23.10147873429673
+            ],
+            [
+              -70.39543179963174,
+              -23.102553731678498
+            ],
+            [
+              -70.39416823579764,
+              -23.10326743582994
+            ],
+            [
+              -70.3936742284036,
+              -23.10345818603786
+            ],
+            [
+              -70.39305135858955,
+              -23.10429499857737
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "REG": "Antofagasta",
+        "COM": "Mejillones",
+        "LOCALIDAD": "Meseta",
+        "ZONA": "ZEA",
+        "NOMBRE": "ZEA Zona Especial Aluvional",
+        "UPERM": "Torres, ductos o l\u00edneas de red para la producci\u00f3n o distribuci\u00f3n de energ\u00eda; espacio p\u00fablico, vialidad; \u00e1reas libres y fajas verdes.",
+        "UPROH": "Todos los no indicados expresamente",
+        "URL": "http://www.observatoriourbano.cl/Ipt/cehu_resultado_decreto.asp?r=2&c=73&i=18",
+        "Capa": "Seccional Mejillones - Meseta",
+        "CUT": "02102",
+        "Shape_STAr": 149165.048096,
+        "Shape_STLe": 3150.01968888
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -70.39305135858955,
+              -23.10429499857737
+            ],
+            [
+              -70.3936742284036,
+              -23.10345818603786
+            ],
+            [
+              -70.39416823579764,
+              -23.10326743582994
+            ],
+            [
+              -70.39543179963174,
+              -23.102553731678498
+            ],
+            [
+              -70.39701709247616,
+              -23.10147873429673
+            ],
+            [
+              -70.3987388683155,
+              -23.100115762718136
+            ],
+            [
+              -70.40041634590699,
+              -23.098968228946106
+            ],
+            [
+              -70.4020784461912,
+              -23.097835151434825
+            ],
+            [
+              -70.40366050182296,
+              -23.096459032982338
+            ],
+            [
+              -70.40412560454433,
+              -23.095877590182603
+            ],
+            [
+              -70.39475713292848,
+              -23.089914965720766
+            ],
+            [
+              -70.39413099534751,
+              -23.08931115160799
+            ],
+            [
+              -70.39385514823856,
+              -23.088812705535627
+            ],
+            [
+              -70.39354663394397,
+              -23.089305636847186
+            ],
+            [
+              -70.38986231023873,
+              -23.09573264419625
+            ],
+            [
+              -70.38836742379783,
+              -23.101079354105185
+            ],
+            [
+              -70.3878451901075,
+              -23.10304818562484
+            ],
+            [
+              -70.38793464611963,
+              -23.103080853351265
+            ],
+            [
+              -70.39238844611324,
+              -23.104116932942038
+            ],
+            [
+              -70.39305135858955,
+              -23.10429499857737
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "REG": "Antofagasta",
+        "COM": "Mejillones",
+        "LOCALIDAD": "Meseta",
+        "ZONA": "ZIM",
+        "NOMBRE": "ZIM Zona Insustrial Mixta",
+        "UPERM": "Industria todo impacto; fabricas productortas y ensambladoras de partes, bienes y servicios; comercio, oficinas; bodegas, almacenamiento y distribuci\u00f3n de material; equip. p\u00fablico, seguridad, servicios; espacios p\u00fablicos y fajas verdes",
+        "UPROH": "Todos los no indicados expresamente",
+        "URL": "http://www.observatoriourbano.cl/Ipt/cehu_resultado_decreto.asp?r=2&c=73&i=18",
+        "Capa": "Seccional Mejillones - Meseta",
+        "CUT": "02102",
+        "Shape_STAr": 1474585.26538,
+        "Shape_STLe": 5055.24666615
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -70.38681350119685,
+              -23.107073963757845
+            ],
+            [
+              -70.38866165754467,
+              -23.107532146442686
+            ],
+            [
+              -70.41391127477036,
+              -23.113508838438495
+            ],
+            [
+              -70.42571080045026,
+              -23.116360211314863
+            ],
+            [
+              -70.42515198475598,
+              -23.112885048653585
+            ],
+            [
+              -70.42383540951214,
+              -23.112343168404955
+            ],
+            [
+              -70.40787851714099,
+              -23.108185146237535
+            ],
+            [
+              -70.39583369952597,
+              -23.105042329772676
+            ],
+            [
+              -70.39238844611324,
+              -23.104116932942038
+            ],
+            [
+              -70.38793464611963,
+              -23.103080853351265
+            ],
+            [
+              -70.3878451901075,
+              -23.10304818562484
+            ],
+            [
+              -70.3877574106436,
+              -23.10338606846427
+            ],
+            [
+              -70.38681350119685,
+              -23.107073963757845
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "REG": "Antofagasta",
+        "COM": "Mejillones",
+        "LOCALIDAD": "Meseta",
+        "ZONA": "ZIP",
+        "NOMBRE": "ZIP Zona Industrial Periferia",
+        "UPERM": "Industria inofensiva; fabrica productora y ensambladora de partes y bienes; comercio, oficina; bodega de almacenamiento y distribuci\u00f3n de material s\u00f3lido no granular; equip. p\u00fablico de salud, seguridad, culto; espacio p\u00fablico, faja ve",
+        "UPROH": "Todos los no indicados expresamente",
+        "URL": "http://www.observatoriourbano.cl/Ipt/cehu_resultado_decreto.asp?r=2&c=73&i=18",
+        "Capa": "Seccional Mejillones - Meseta",
+        "CUT": "02102",
+        "Shape_STAr": 1699391.78418,
+        "Shape_STLe": 8936.89273645
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -70.3859047482382,
+              -23.106848663613647
+            ],
+            [
+              -70.38681350119685,
+              -23.107073963757845
+            ],
+            [
+              -70.3877574106436,
+              -23.10338606846427
+            ],
+            [
+              -70.3878451901075,
+              -23.10304818562484
+            ],
+            [
+              -70.38836742379783,
+              -23.101079354105185
+            ],
+            [
+              -70.38986231023873,
+              -23.09573264419625
+            ],
+            [
+              -70.39343978659002,
+              -23.0894920332129
+            ],
+            [
+              -70.39274013646231,
+              -23.089076362834714
+            ],
+            [
+              -70.39111170569196,
+              -23.09197255966225
+            ],
+            [
+              -70.38908662542904,
+              -23.095488744183506
+            ],
+            [
+              -70.38901208871467,
+              -23.095776150696224
+            ],
+            [
+              -70.38709722176014,
+              -23.102488609205196
+            ],
+            [
+              -70.38601934360274,
+              -23.106197157249877
+            ],
+            [
+              -70.3859047482382,
+              -23.106848663613647
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "REG": "Antofagasta",
+        "COM": "Mejillones",
+        "LOCALIDAD": "Meseta",
+        "ZONA": "ZEA",
+        "NOMBRE": "ZEA Zona Especial Aluvional",
+        "UPERM": "Torres, ductos o l\u00edneas de red para la producci\u00f3n o distribuci\u00f3n de energ\u00eda; espacio p\u00fablico, vialidad; \u00e1reas libres y fajas verdes.",
+        "UPROH": "Todos los no indicados expresamente",
+        "URL": "http://www.observatoriourbano.cl/Ipt/cehu_resultado_decreto.asp?r=2&c=73&i=18",
+        "Capa": "Seccional Mejillones - Meseta",
+        "CUT": "02102",
+        "Shape_STAr": 181394.83667,
+        "Shape_STLe": 4360.22419477
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -70.38097240328382,
+              -23.101243239021645
+            ],
+            [
+              -70.38700781102172,
+              -23.10279624515219
+            ],
+            [
+              -70.38709722176014,
+              -23.102488609205196
+            ],
+            [
+              -70.38901208871467,
+              -23.095776150696224
+            ],
+            [
+              -70.38908662542904,
+              -23.095488744183506
+            ],
+            [
+              -70.39111170569196,
+              -23.09197255966225
+            ],
+            [
+              -70.39274013646231,
+              -23.089076362834714
+            ],
+            [
+              -70.39343978659002,
+              -23.0894920332129
+            ],
+            [
+              -70.39354663394397,
+              -23.089305636847186
+            ],
+            [
+              -70.39385514823856,
+              -23.088812705535627
+            ],
+            [
+              -70.3938151557645,
+              -23.08874044003845
+            ],
+            [
+              -70.39373286991339,
+              -23.088275196971374
+            ],
+            [
+              -70.39376754373599,
+              -23.08788060976397
+            ],
+            [
+              -70.39383984899013,
+              -23.087378158803894
+            ],
+            [
+              -70.39402504668001,
+              -23.086552116519545
+            ],
+            [
+              -70.3934586720228,
+              -23.084227270101803
+            ],
+            [
+              -70.39326563127557,
+              -23.083916731307347
+            ],
+            [
+              -70.39042152444436,
+              -23.087855168210165
+            ],
+            [
+              -70.38753500774835,
+              -23.09199543214053
+            ],
+            [
+              -70.38538071121482,
+              -23.09501089501408
+            ],
+            [
+              -70.38515207819366,
+              -23.09538567731832
+            ],
+            [
+              -70.38263102298033,
+              -23.098920475849717
+            ],
+            [
+              -70.38097240328382,
+              -23.101243239021645
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "REG": "Antofagasta",
+        "COM": "Mejillones",
+        "LOCALIDAD": "Meseta",
+        "ZONA": "ZEE",
+        "NOMBRE": "ZEE Zona Especial Energ\u00eda",
+        "UPERM": "Ductos y tendidos de redes para la pruducci\u00f3n o distribuci\u00f3n de energ\u00eda; torres y equipamiento para la producci\u00f3n de energ\u00eda; espacio p\u00fablico; \u00c1reas libres y fajas verdes.",
+        "UPROH": "Todos los no indicados expresamente",
+        "URL": "http://www.observatoriourbano.cl/Ipt/cehu_resultado_decreto.asp?r=2&c=73&i=18",
+        "Capa": "Seccional Mejillones - Meseta",
+        "CUT": "02102",
+        "Shape_STAr": 801782.437012,
+        "Shape_STLe": 5305.80836538
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -70.37751946368772,
+              -23.104769470790398
+            ],
+            [
+              -70.37843350424698,
+              -23.10499613890078
+            ],
+            [
+              -70.37855115746913,
+              -23.10463383017939
+            ],
+            [
+              -70.38263102298033,
+              -23.098920475849717
+            ],
+            [
+              -70.38515207819366,
+              -23.09538567731832
+            ],
+            [
+              -70.38538071121482,
+              -23.09501089501408
+            ],
+            [
+              -70.38753500774835,
+              -23.09199543214053
+            ],
+            [
+              -70.39042152444436,
+              -23.087855168210165
+            ],
+            [
+              -70.39326563127557,
+              -23.083916731307347
+            ],
+            [
+              -70.3931041098867,
+              -23.083656896945044
+            ],
+            [
+              -70.39277838999121,
+              -23.08319943666551
+            ],
+            [
+              -70.39236293204871,
+              -23.083751868074486
+            ],
+            [
+              -70.38927702430601,
+              -23.088080305633763
+            ],
+            [
+              -70.38503051892913,
+              -23.094110703225965
+            ],
+            [
+              -70.38003451671301,
+              -23.101151181099358
+            ],
+            [
+              -70.37751946368772,
+              -23.104769470790398
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "REG": "Antofagasta",
+        "COM": "Mejillones",
+        "LOCALIDAD": "Meseta",
+        "ZONA": "ZEA",
+        "NOMBRE": "ZEA Zona Especial Aluvional",
+        "UPERM": "Torres, ductos o l\u00edneas de red para la producci\u00f3n o distribuci\u00f3n de energ\u00eda; espacio p\u00fablico, vialidad; \u00e1reas libres y fajas verdes.",
+        "UPROH": "Todos los no indicados expresamente",
+        "URL": "http://www.observatoriourbano.cl/Ipt/cehu_resultado_decreto.asp?r=2&c=73&i=18",
+        "Capa": "Seccional Mejillones - Meseta",
+        "CUT": "02102",
+        "Shape_STAr": 241968.48291,
+        "Shape_STLe": 5832.14036282
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -70.37751946368772,
+              -23.104769470790398
+            ],
+            [
+              -70.38003451671301,
+              -23.101151181099358
+            ],
+            [
+              -70.38503051892913,
+              -23.094110703225965
+            ],
+            [
+              -70.38927702430601,
+              -23.088080305633763
+            ],
+            [
+              -70.39236293204871,
+              -23.083751868074486
+            ],
+            [
+              -70.39277838999121,
+              -23.08319943666551
+            ],
+            [
+              -70.39231788587165,
+              -23.08255267260422
+            ],
+            [
+              -70.38678279469528,
+              -23.079267893592146
+            ],
+            [
+              -70.379444601935,
+              -23.089081705439988
+            ],
+            [
+              -70.36939344206165,
+              -23.102754072055596
+            ],
+            [
+              -70.37751946368772,
+              -23.104769470790398
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "REG": "Antofagasta",
+        "COM": "Mejillones",
+        "LOCALIDAD": "Meseta",
+        "ZONA": "ZIB",
+        "NOMBRE": "ZIB Zona industrial Borde",
+        "UPERM": "Industria inofensiva, fabricas productoras y ensambladoras de partes y bienes; comercio minorista y mayorista, oficinas; equipamientos p\u00fablicos de salud, seguridad, culto, alimentaci\u00f3n, servicios; espaci\u00f3s p\u00fablicos y fajas verdes.",
+        "UPROH": "Todos los no indicados expresamente",
+        "URL": "http://www.observatoriourbano.cl/Ipt/cehu_resultado_decreto.asp?r=2&c=73&i=18",
+        "Capa": "Seccional Mejillones - Meseta",
+        "CUT": "02102",
+        "Shape_STAr": 2367695.41382,
+        "Shape_STLe": 7627.8242537
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -70.4237145552335,
+              -23.103944963810857
+            ],
+            [
+              -70.42526891629387,
+              -23.113612235128887
+            ],
+            [
+              -70.426455030843,
+              -23.113085755214673
+            ],
+            [
+              -70.4322560170383,
+              -23.11049855041755
+            ],
+            [
+              -70.42761047980717,
+              -23.104424638122442
+            ],
+            [
+              -70.42656516922153,
+              -23.104439348100083
+            ],
+            [
+              -70.42460806553649,
+              -23.10404124452743
+            ],
+            [
+              -70.4237145552335,
+              -23.103944963810857
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "REG": "Antofagasta",
+        "COM": "Mejillones",
+        "LOCALIDAD": "Meseta",
+        "ZONA": "ZAC",
+        "NOMBRE": "ZAC Zona Aut\u00f3noma Cementerio",
+        "UPERM": "Actividades relacionadas con el cementerio; oficnas; equipamientos sanitarios",
+        "UPROH": "Todos los no indicados expresamente",
+        "URL": "http://www.observatoriourbano.cl/Ipt/cehu_resultado_decreto.asp?r=2&c=73&i=18",
+        "Capa": "Seccional Mejillones - Meseta",
+        "CUT": "02102",
+        "Shape_STAr": 529910.424805,
+        "Shape_STLe": 3104.9527873
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -70.42713905696964,
+              -23.116705282409157
+            ],
+            [
+              -70.44079608423765,
+              -23.120004110082142
+            ],
+            [
+              -70.44058359385352,
+              -23.118249736871928
+            ],
+            [
+              -70.44037990726598,
+              -23.117319675349002
+            ],
+            [
+              -70.44020807949326,
+              -23.116287253134725
+            ],
+            [
+              -70.43998075336047,
+              -23.116288949109297
+            ],
+            [
+              -70.43958621706926,
+              -23.11557060644481
+            ],
+            [
+              -70.43865169590005,
+              -23.11514901373399
+            ],
+            [
+              -70.43487987387509,
+              -23.113928853992842
+            ],
+            [
+              -70.4322560170383,
+              -23.11049855041755
+            ],
+            [
+              -70.426455030843,
+              -23.113085755214673
+            ],
+            [
+              -70.42526891629387,
+              -23.113612235128887
+            ],
+            [
+              -70.42571080045026,
+              -23.116360211314863
+            ],
+            [
+              -70.42713905696964,
+              -23.116705282409157
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "REG": "Antofagasta",
+        "COM": "Mejillones",
+        "LOCALIDAD": "Meseta",
+        "ZONA": "ZIB",
+        "NOMBRE": "ZIB Zona industrial Borde",
+        "UPERM": "Industria inofensiva, fabricas productoras y ensambladoras de partes y bienes; comercio minorista y mayorista, oficinas; equipamientos p\u00fablicos de salud, seguridad, culto, alimentaci\u00f3n, servicios; espaci\u00f3s p\u00fablicos y fajas verdes.",
+        "UPROH": "Todos los no indicados expresamente",
+        "URL": "http://www.observatoriourbano.cl/Ipt/cehu_resultado_decreto.asp?r=2&c=73&i=18",
+        "Capa": "Seccional Mejillones - Meseta",
+        "CUT": "02102",
+        "Shape_STAr": 849076.028564,
+        "Shape_STLe": 4208.62678692
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -70.38700781102172,
+              -23.10279624515219
+            ],
+            [
+              -70.38097240328382,
+              -23.101243239021645
+            ],
+            [
+              -70.37855115746913,
+              -23.10463383017939
+            ],
+            [
+              -70.37843350424698,
+              -23.10499613890078
+            ],
+            [
+              -70.3859047482382,
+              -23.106848663613647
+            ],
+            [
+              -70.38601934360274,
+              -23.106197157249877
+            ],
+            [
+              -70.38700781102172,
+              -23.10279624515219
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "REG": "Antofagasta",
+        "COM": "Mejillones",
+        "LOCALIDAD": "Meseta",
+        "ZONA": "ZIP",
+        "NOMBRE": "ZIP Zona Industrial Periferia",
+        "UPERM": "Industria inofensiva; fabrica productora y ensambladora de partes y bienes; comercio, oficina; bodega de almacenamiento y distribuci\u00f3n de material s\u00f3lido no granular; equip. p\u00fablico de salud, seguridad, culto; espacio p\u00fablico, faja ve",
+        "UPROH": "Todos los no indicados expresamente",
+        "URL": "http://www.observatoriourbano.cl/Ipt/cehu_resultado_decreto.asp?r=2&c=73&i=18",
+        "Capa": "Seccional Mejillones - Meseta",
+        "CUT": "02102",
+        "Shape_STAr": 335360.946289,
+        "Shape_STLe": 2388.8306789
+      }
+    }
+  ]
+}

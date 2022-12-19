@@ -1,0 +1,1054 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -70.680929121198,
+              -34.08022811158008
+            ],
+            [
+              -70.68036651235765,
+              -34.078730186233116
+            ],
+            [
+              -70.68025846289284,
+              -34.07709344764821
+            ],
+            [
+              -70.68019626712956,
+              -34.076151266208036
+            ],
+            [
+              -70.67961825592883,
+              -34.07627190033172
+            ],
+            [
+              -70.67974579574853,
+              -34.07820411820433
+            ],
+            [
+              -70.67979409692545,
+              -34.07832508381117
+            ],
+            [
+              -70.67991967717259,
+              -34.07864798856962
+            ],
+            [
+              -70.67991916857218,
+              -34.079170998241295
+            ],
+            [
+              -70.67991907419429,
+              -34.07917104822557
+            ],
+            [
+              -70.68043156256509,
+              -34.08053554170119
+            ],
+            [
+              -70.68054991227253,
+              -34.080379705360926
+            ],
+            [
+              -70.6807644568254,
+              -34.08026856295546
+            ],
+            [
+              -70.68078594698477,
+              -34.08025925158544
+            ],
+            [
+              -70.680929121198,
+              -34.08022811158008
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "Shape_Leng": 1058.17588644,
+        "Shape_Area": 24382.9603808,
+        "REG": "O'higgins",
+        "COM": "Graneros",
+        "LOC": "Graneros",
+        "ZONA": "PLAT",
+        "NOM": "PLAT Faja de Protecci\u00f3n L\u00ednea Alta Tensi\u00f3n",
+        "UPERM": "Se ubican en la Localidad de La Compa\u00f1\u00eda. Corresponden a las fajas de Alta Tensi\u00f3n, regidas por el ordenamiento jur\u00eddico vigente.",
+        "UPROH": "Para mayor detalle revisar ordenanza local",
+        "P_DO": "02/07/2016",
+        "N_DOC": "481",
+        "T_DO": "Decreto",
+        "OBS": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -70.68157366915577,
+              -34.08557617883164
+            ],
+            [
+              -70.68149670683353,
+              -34.08551379718995
+            ],
+            [
+              -70.68104650776172,
+              -34.08514888100734
+            ],
+            [
+              -70.68102126875104,
+              -34.08512842249227
+            ],
+            [
+              -70.68089191567564,
+              -34.08683613699774
+            ],
+            [
+              -70.68089785793225,
+              -34.086840953000376
+            ],
+            [
+              -70.68138356690827,
+              -34.08648292520861
+            ],
+            [
+              -70.68151217269738,
+              -34.086388124813276
+            ],
+            [
+              -70.68157366915577,
+              -34.08557617883164
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "Shape_Leng": 427.687927217,
+        "Shape_Area": 7589.28629557,
+        "REG": "O'higgins",
+        "COM": "Graneros",
+        "LOC": "Graneros",
+        "ZONA": "PLAT",
+        "NOM": "PLAT Faja de Protecci\u00f3n L\u00ednea Alta Tensi\u00f3n",
+        "UPERM": "Se ubican en la Localidad de La Compa\u00f1\u00eda. Corresponden a las fajas de Alta Tensi\u00f3n, regidas por el ordenamiento jur\u00eddico vigente.",
+        "UPROH": "Para mayor detalle revisar ordenanza local",
+        "P_DO": "02/07/2016",
+        "N_DOC": "481",
+        "T_DO": "Decreto",
+        "OBS": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -70.6814345052679,
+              -34.087413558361824
+            ],
+            [
+              -70.68088224466659,
+              -34.086963814170616
+            ],
+            [
+              -70.68075177869287,
+              -34.08868615958118
+            ],
+            [
+              -70.68130420166248,
+              -34.08913391623337
+            ],
+            [
+              -70.6814345052679,
+              -34.087413558361824
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "Shape_Leng": 525.077237526,
+        "Shape_Area": 10330.0123218,
+        "REG": "O'higgins",
+        "COM": "Graneros",
+        "LOC": "Graneros",
+        "ZONA": "PLAT",
+        "NOM": "PLAT Faja de Protecci\u00f3n L\u00ednea Alta Tensi\u00f3n",
+        "UPERM": "Se ubican en la Localidad de La Compa\u00f1\u00eda. Corresponden a las fajas de Alta Tensi\u00f3n, regidas por el ordenamiento jur\u00eddico vigente.",
+        "UPROH": "Para mayor detalle revisar ordenanza local",
+        "P_DO": "02/07/2016",
+        "N_DOC": "481",
+        "T_DO": "Decreto",
+        "OBS": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -70.68150057754949,
+              -34.08654121848378
+            ],
+            [
+              -70.68099125239456,
+              -34.08691665416531
+            ],
+            [
+              -70.68144432689324,
+              -34.08728389258574
+            ],
+            [
+              -70.68150057754949,
+              -34.08654121848378
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "Shape_Leng": 203.699450805,
+        "Shape_Area": 1827.70648402,
+        "REG": "O'higgins",
+        "COM": "Graneros",
+        "LOC": "Graneros",
+        "ZONA": "PLAT",
+        "NOM": "PLAT Faja de Protecci\u00f3n L\u00ednea Alta Tensi\u00f3n",
+        "UPERM": "Se ubican en la Localidad de La Compa\u00f1\u00eda. Corresponden a las fajas de Alta Tensi\u00f3n, regidas por el ordenamiento jur\u00eddico vigente.",
+        "UPROH": "Para mayor detalle revisar ordenanza local",
+        "P_DO": "02/07/2016",
+        "N_DOC": "481",
+        "T_DO": "Decreto",
+        "OBS": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -70.73091529541436,
+              -34.08670634689833
+            ],
+            [
+              -70.73074529200956,
+              -34.086076929729174
+            ],
+            [
+              -70.73000560746641,
+              -34.08333820863868
+            ],
+            [
+              -70.72982458418292,
+              -34.08266792894998
+            ],
+            [
+              -70.7298223210673,
+              -34.08265954952048
+            ],
+            [
+              -70.72982189467574,
+              -34.0826596321715
+            ],
+            [
+              -70.72973816211694,
+              -34.08240123593978
+            ],
+            [
+              -70.72906817397774,
+              -34.07990302648841
+            ],
+            [
+              -70.72865876244815,
+              -34.07837461884685
+            ],
+            [
+              -70.72828046377721,
+              -34.07697807832357
+            ],
+            [
+              -70.72786416603358,
+              -34.07537556966268
+            ],
+            [
+              -70.72747814042016,
+              -34.073888732499796
+            ],
+            [
+              -70.72671204460292,
+              -34.0710286536139
+            ],
+            [
+              -70.72651966412539,
+              -34.07029609181939
+            ],
+            [
+              -70.7243421830321,
+              -34.062178849670595
+            ],
+            [
+              -70.72401129210661,
+              -34.06087953478026
+            ],
+            [
+              -70.72330686326562,
+              -34.05816334273461
+            ],
+            [
+              -70.72318229560449,
+              -34.05770190592194
+            ],
+            [
+              -70.72307579680574,
+              -34.05730740169849
+            ],
+            [
+              -70.72268058350086,
+              -34.055843359955674
+            ],
+            [
+              -70.72253697064964,
+              -34.055871148150096
+            ],
+            [
+              -70.72225853553418,
+              -34.05592502371357
+            ],
+            [
+              -70.7222974356798,
+              -34.05606912875152
+            ],
+            [
+              -70.72288370012521,
+              -34.058240917955864
+            ],
+            [
+              -70.72358755935203,
+              -34.060954969076796
+            ],
+            [
+              -70.72431141468114,
+              -34.063797332931514
+            ],
+            [
+              -70.72491543505423,
+              -34.06604351855307
+            ],
+            [
+              -70.72577183081842,
+              -34.06915975879033
+            ],
+            [
+              -70.72588521677169,
+              -34.06956930459917
+            ],
+            [
+              -70.7262888601991,
+              -34.07110638151379
+            ],
+            [
+              -70.72705483013893,
+              -34.07396604209448
+            ],
+            [
+              -70.72744055487017,
+              -34.075451746039285
+            ],
+            [
+              -70.72785725307948,
+              -34.07705582773455
+            ],
+            [
+              -70.72823584990395,
+              -34.078453496227844
+            ],
+            [
+              -70.72864515453645,
+              -34.07998152726097
+            ],
+            [
+              -70.72938563469833,
+              -34.082742625167405
+            ],
+            [
+              -70.72958600342292,
+              -34.082708528721774
+            ],
+            [
+              -70.73064130327202,
+              -34.08676920018436
+            ],
+            [
+              -70.73091529541436,
+              -34.08670634689833
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "Shape_Leng": 7098.85549192,
+        "Shape_Area": 133976.361439,
+        "REG": "O'higgins",
+        "COM": "Graneros",
+        "LOC": "Graneros",
+        "ZONA": "FLF",
+        "NOM": "FLF Faja L\u00ednea F\u00e9rrea",
+        "UPERM": "Se ubican en la localidad de Graneros. Corresponden a fajas a ambos costados de la v\u00eda f\u00e9rrea, de un ancho de 20 m por lado. Se encuentra regida por el ordenamiento jur\u00eddico vigente.",
+        "UPROH": "Para mayor detalle revisar ordenanza local",
+        "P_DO": "02/07/2016",
+        "N_DOC": "481",
+        "T_DO": "Decreto",
+        "OBS": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -70.74180278395802,
+              -34.06685159867096
+            ],
+            [
+              -70.74112414595146,
+              -34.06582106289954
+            ],
+            [
+              -70.74102804409928,
+              -34.06421234757808
+            ],
+            [
+              -70.74071978927375,
+              -34.06425024475304
+            ],
+            [
+              -70.74022257847658,
+              -34.06439469362295
+            ],
+            [
+              -70.74022420697602,
+              -34.06439760838327
+            ],
+            [
+              -70.74017281734203,
+              -34.0644120433383
+            ],
+            [
+              -70.74026525226043,
+              -34.065959469764564
+            ],
+            [
+              -70.74026734365216,
+              -34.06599550918866
+            ],
+            [
+              -70.74039002816339,
+              -34.066183133063724
+            ],
+            [
+              -70.74095820024162,
+              -34.06704610601222
+            ],
+            [
+              -70.74148227152394,
+              -34.06689890443802
+            ],
+            [
+              -70.74180278395802,
+              -34.06685159867096
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "Shape_Leng": 781.511842151,
+        "Shape_Area": 24570.9678351,
+        "REG": "O'higgins",
+        "COM": "Graneros",
+        "LOC": "Graneros",
+        "ZONA": "FO",
+        "NOM": "FO Faja de Protecci\u00f3n Oleoducto",
+        "UPERM": "Esta corresponde a una faja destinada a cautelar su seguridad y funcionamiento, ubicada a lo largo del oleoducto y s\u00f3lo para usarse para la inspecci\u00f3n mantenimiento de \u00e9ste. En esta zona se proh\u00edbe plantar \u00e1rboles, emplazar construcciones, realizar",
+        "UPROH": "Para mayor detalle revisar ordenanza local",
+        "P_DO": "02/07/2016",
+        "N_DOC": "481",
+        "T_DO": "Decreto",
+        "OBS": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -70.6815120173141,
+              -34.081780062952376
+            ],
+            [
+              -70.68096877081241,
+              -34.080333997185036
+            ],
+            [
+              -70.68081646660472,
+              -34.08036779062075
+            ],
+            [
+              -70.68064676994912,
+              -34.08048171911401
+            ],
+            [
+              -70.68047350429485,
+              -34.080687088816326
+            ],
+            [
+              -70.68110136633636,
+              -34.08231881841399
+            ],
+            [
+              -70.6815120173141,
+              -34.081780062952376
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "Shape_Leng": 491.32773221,
+        "Shape_Area": 10074.5417709,
+        "REG": "O'higgins",
+        "COM": "Graneros",
+        "LOC": "Graneros",
+        "ZONA": "PLAT",
+        "NOM": "PLAT Faja de Protecci\u00f3n L\u00ednea Alta Tensi\u00f3n",
+        "UPERM": "Se ubican en la Localidad de La Compa\u00f1\u00eda. Corresponden a las fajas de Alta Tensi\u00f3n, regidas por el ordenamiento jur\u00eddico vigente.",
+        "UPROH": "Para mayor detalle revisar ordenanza local",
+        "P_DO": "02/07/2016",
+        "N_DOC": "481",
+        "T_DO": "Decreto",
+        "OBS": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -70.73900425447667,
+              -34.066196177810696
+            ],
+            [
+              -70.73270741377074,
+              -34.06792457765083
+            ],
+            [
+              -70.73267933589632,
+              -34.067842357360924
+            ],
+            [
+              -70.73242441390806,
+              -34.067474169852844
+            ],
+            [
+              -70.73231110400346,
+              -34.06730989561354
+            ],
+            [
+              -70.73164179542141,
+              -34.06749503375893
+            ],
+            [
+              -70.73114324419608,
+              -34.06761222677111
+            ],
+            [
+              -70.73133801500602,
+              -34.06822224949274
+            ],
+            [
+              -70.73174748856812,
+              -34.06884598098065
+            ],
+            [
+              -70.73234049161499,
+              -34.068596692477215
+            ],
+            [
+              -70.73387765260884,
+              -34.07326122345521
+            ],
+            [
+              -70.73473389225917,
+              -34.07663083142099
+            ],
+            [
+              -70.74099121027027,
+              -34.0759638932707
+            ],
+            [
+              -70.74077227750723,
+              -34.074882566995875
+            ],
+            [
+              -70.740512007164,
+              -34.073919056268906
+            ],
+            [
+              -70.74016505823653,
+              -34.07272721038957
+            ],
+            [
+              -70.73981714911625,
+              -34.07179741095681
+            ],
+            [
+              -70.73986007148436,
+              -34.07178683184645
+            ],
+            [
+              -70.73946693395004,
+              -34.07055126437035
+            ],
+            [
+              -70.7385811453459,
+              -34.06771352006863
+            ],
+            [
+              -70.73941332342372,
+              -34.06747996230579
+            ],
+            [
+              -70.73900425447667,
+              -34.066196177810696
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "Shape_Leng": 3688.08324662,
+        "Shape_Area": 625813.61972,
+        "REG": "O'higgins",
+        "COM": "Graneros",
+        "LOC": "Graneros",
+        "ZONA": "RI-1",
+        "NOM": "RI-1 \u00c1rea inundable por proximidad a r\u00edos y esteros",
+        "UPERM": "Una vez que cumplan con lo dispuesto en la OGUC referente a la presentaci\u00f3n de estudios fundados que determinen las acciones que deber\u00e1n ejecutarse para su utilizaci\u00f3n, podr\u00e1n aplicar las normas urban\u00edsticas establecidas en la respectiva zona en que",
+        "UPROH": "Para mayor detalle revisar ordenanza local",
+        "P_DO": "02/07/2016",
+        "N_DOC": "481",
+        "T_DO": "Decreto",
+        "OBS": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -70.72873177110635,
+              -34.07868566010529
+            ],
+            [
+              -70.72931734179072,
+              -34.08085787557175
+            ],
+            [
+              -70.73334915116789,
+              -34.07997212528381
+            ],
+            [
+              -70.7336869513955,
+              -34.081138677201324
+            ],
+            [
+              -70.73545092417866,
+              -34.080555143018216
+            ],
+            [
+              -70.73517017024089,
+              -34.0795319529021
+            ],
+            [
+              -70.73403848013558,
+              -34.07979120531566
+            ],
+            [
+              -70.73359700942669,
+              -34.07778817319526
+            ],
+            [
+              -70.73300383707888,
+              -34.07790466285073
+            ],
+            [
+              -70.73219654620111,
+              -34.07814130135187
+            ],
+            [
+              -70.7311388077942,
+              -34.07830938188778
+            ],
+            [
+              -70.72873177110635,
+              -34.07868566010529
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "Shape_Leng": 1851.31508061,
+        "Shape_Area": 127886.516191,
+        "REG": "O'higgins",
+        "COM": "Graneros",
+        "LOC": "Graneros",
+        "ZONA": "RI-1",
+        "NOM": "RI-1 \u00c1rea inundable por proximidad a r\u00edos y esteros",
+        "UPERM": "Una vez que cumplan con lo dispuesto en la OGUC referente a la presentaci\u00f3n de estudios fundados que determinen las acciones que deber\u00e1n ejecutarse para su utilizaci\u00f3n, podr\u00e1n aplicar las normas urban\u00edsticas establecidas en la respectiva zona en que",
+        "UPROH": "Para mayor detalle revisar ordenanza local",
+        "P_DO": "02/07/2016",
+        "N_DOC": "481",
+        "T_DO": "Decreto",
+        "OBS": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -70.72894193227107,
+              -34.05692047395389
+            ],
+            [
+              -70.72803968248412,
+              -34.057094713297126
+            ],
+            [
+              -70.72952955995974,
+              -34.06100479845419
+            ],
+            [
+              -70.73049499900135,
+              -34.06075426692164
+            ],
+            [
+              -70.7308115885467,
+              -34.06168679676879
+            ],
+            [
+              -70.73284574261999,
+              -34.06117348114526
+            ],
+            [
+              -70.73243879608579,
+              -34.06025300190405
+            ],
+            [
+              -70.73141271076585,
+              -34.05752111950635
+            ],
+            [
+              -70.7293257953844,
+              -34.057981301584654
+            ],
+            [
+              -70.72894193227107,
+              -34.05692047395389
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "Shape_Leng": 1685.94979271,
+        "Shape_Area": 122374.687101,
+        "REG": "O'higgins",
+        "COM": "Graneros",
+        "LOC": "Graneros",
+        "ZONA": "RI-1",
+        "NOM": "RI-1 \u00c1rea inundable por proximidad a r\u00edos y esteros",
+        "UPERM": "Una vez que cumplan con lo dispuesto en la OGUC referente a la presentaci\u00f3n de estudios fundados que determinen las acciones que deber\u00e1n ejecutarse para su utilizaci\u00f3n, podr\u00e1n aplicar las normas urban\u00edsticas establecidas en la respectiva zona en que",
+        "UPROH": "Para mayor detalle revisar ordenanza local",
+        "P_DO": "02/07/2016",
+        "N_DOC": "481",
+        "T_DO": "Decreto",
+        "OBS": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -70.72712488357226,
+              -34.07457125795896
+            ],
+            [
+              -70.72522196486787,
+              -34.074952933684884
+            ],
+            [
+              -70.72505961350699,
+              -34.07564252464522
+            ],
+            [
+              -70.72753338468475,
+              -34.07618429239718
+            ],
+            [
+              -70.72712488357226,
+              -34.07457125795896
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "Shape_Leng": 677.528616138,
+        "Shape_Area": 25690.5532129,
+        "REG": "O'higgins",
+        "COM": "Graneros",
+        "LOC": "Graneros",
+        "ZONA": "RI-1",
+        "NOM": "RI-1 \u00c1rea inundable por proximidad a r\u00edos y esteros",
+        "UPERM": "Una vez que cumplan con lo dispuesto en la OGUC referente a la presentaci\u00f3n de estudios fundados que determinen las acciones que deber\u00e1n ejecutarse para su utilizaci\u00f3n, podr\u00e1n aplicar las normas urban\u00edsticas establecidas en la respectiva zona en que",
+        "UPROH": "Para mayor detalle revisar ordenanza local",
+        "P_DO": "02/07/2016",
+        "N_DOC": "481",
+        "T_DO": "Decreto",
+        "OBS": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -70.74180278395802,
+              -34.06685159867096
+            ],
+            [
+              -70.74112414595146,
+              -34.06582106289954
+            ],
+            [
+              -70.74102804409928,
+              -34.06421234757808
+            ],
+            [
+              -70.74071978927375,
+              -34.06425024475304
+            ],
+            [
+              -70.74022257847658,
+              -34.06439469362295
+            ],
+            [
+              -70.74022420697602,
+              -34.06439760838327
+            ],
+            [
+              -70.74017281734203,
+              -34.0644120433383
+            ],
+            [
+              -70.74026525226043,
+              -34.065959469764564
+            ],
+            [
+              -70.74026734365216,
+              -34.06599550918866
+            ],
+            [
+              -70.74039002816339,
+              -34.066183133063724
+            ],
+            [
+              -70.74095820024162,
+              -34.06704610601222
+            ],
+            [
+              -70.74148227152394,
+              -34.06689890443802
+            ],
+            [
+              -70.74180278395802,
+              -34.06685159867096
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "Shape_Leng": 781.511842151,
+        "Shape_Area": 24570.9678351,
+        "REG": "O'higgins",
+        "COM": "Graneros",
+        "LOC": "Graneros",
+        "ZONA": "FO",
+        "NOM": "FO Faja de Protecci\u00f3n Oleoducto",
+        "UPERM": "Esta corresponde a una faja destinada a cautelar su seguridad y funcionamiento, ubicada a lo largo del oleoducto y s\u00f3lo para usarse para la inspecci\u00f3n mantenimiento de \u00e9ste. En esta zona se proh\u00edbe plantar \u00e1rboles, emplazar construcciones, realizar",
+        "UPROH": "Para mayor detalle revisar ordenanza local",
+        "P_DO": "02/07/2016",
+        "N_DOC": "481",
+        "T_DO": "Decreto",
+        "OBS": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -70.68349876979397,
+              -34.080293802124686
+            ],
+            [
+              -70.68329378578478,
+              -34.08001165128326
+            ],
+            [
+              -70.68309813142123,
+              -34.07996317302863
+            ],
+            [
+              -70.68274931888243,
+              -34.07994237197758
+            ],
+            [
+              -70.68237497108203,
+              -34.080024185339646
+            ],
+            [
+              -70.68237543716056,
+              -34.08002347740741
+            ],
+            [
+              -70.68207217967624,
+              -34.08008484872562
+            ],
+            [
+              -70.68139692745596,
+              -34.080211065623885
+            ],
+            [
+              -70.68095443906118,
+              -34.0803176167019
+            ],
+            [
+              -70.68073871832527,
+              -34.08040586515511
+            ],
+            [
+              -70.68047350429485,
+              -34.080687088816326
+            ],
+            [
+              -70.68007200653453,
+              -34.08122615487615
+            ],
+            [
+              -70.67990807384584,
+              -34.081437042827346
+            ],
+            [
+              -70.67936675627602,
+              -34.08217820640476
+            ],
+            [
+              -70.67798265264575,
+              -34.08415896237449
+            ],
+            [
+              -70.67678543724836,
+              -34.085925061561426
+            ],
+            [
+              -70.67639900548829,
+              -34.086796374451296
+            ],
+            [
+              -70.67603937656153,
+              -34.08795010888228
+            ],
+            [
+              -70.6757591165517,
+              -34.08881997103066
+            ],
+            [
+              -70.67569947285867,
+              -34.089163352708255
+            ],
+            [
+              -70.67610318768108,
+              -34.089064090310835
+            ],
+            [
+              -70.678968667269,
+              -34.085197357516215
+            ],
+            [
+              -70.68125251823047,
+              -34.08172893804396
+            ],
+            [
+              -70.68160909893938,
+              -34.0813563265007
+            ],
+            [
+              -70.68205818004661,
+              -34.0810331754102
+            ],
+            [
+              -70.68276329972777,
+              -34.08070057874254
+            ],
+            [
+              -70.68349876979397,
+              -34.080293802124686
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "Shape_Leng": 2612.73888888,
+        "Shape_Area": 139448.934263,
+        "REG": "O'higgins",
+        "COM": "Graneros",
+        "LOC": "Graneros",
+        "ZONA": "RI-1",
+        "NOM": "RI-1 \u00c1rea inundable por proximidad a r\u00edos y esteros",
+        "UPERM": "Una vez que cumplan con lo dispuesto en la OGUC referente a la presentaci\u00f3n de estudios fundados que determinen las acciones que deber\u00e1n ejecutarse para su utilizaci\u00f3n, podr\u00e1n aplicar las normas urban\u00edsticas establecidas en la respectiva zona en que",
+        "UPROH": "Para mayor detalle revisar ordenanza local",
+        "P_DO": "02/07/2016",
+        "N_DOC": "481",
+        "T_DO": "Decreto",
+        "OBS": ""
+      }
+    }
+  ]
+}

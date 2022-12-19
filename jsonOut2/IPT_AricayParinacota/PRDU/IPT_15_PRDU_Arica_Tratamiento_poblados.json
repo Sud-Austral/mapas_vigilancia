@@ -1,0 +1,948 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.30554044002552,
+          -18.47081967804268
+        ]
+      },
+      "properties": {
+        "REGION": "Arica y Parinacota",
+        "CATEGORIA": "Indicativo",
+        "INFO": "Tratamiento prioritario de asentamientos poblados, PRDU",
+        "NOMBRE": "Arica",
+        "INSTRUMENT": "Sin Instrumento",
+        "CONDICIO": "Asentamiento con tratamiento priorizado por Potencialidad",
+        "EMISOR": "Secretar\u00eda Regional Ministerial de Vivienda y Urbanismo Regi\u00f3n de Arica y Parinacota",
+        "ADMIN": "Secretar\u00eda Regional Ministerial de Vivienda y Urbanismo Regi\u00f3n de Arica y Parinacota",
+        "AMBITO": "Planificaci\u00f3n y propiedad",
+        "TEMATICA": "Planificaci\u00f3n",
+        "CUT": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.48125810383226,
+          -17.594813958208412
+        ]
+      },
+      "properties": {
+        "REGION": "Arica y Parinacota",
+        "CATEGORIA": "Indicativo",
+        "INFO": "Tratamiento prioritario de asentamientos poblados, PRDU",
+        "NOMBRE": "Visviri",
+        "INSTRUMENT": "Sin Instrumento",
+        "CONDICIO": "Asentamiento con tratamiento priorizado por Potencialidad",
+        "EMISOR": "Secretar\u00eda Regional Ministerial de Vivienda y Urbanismo Regi\u00f3n de Arica y Parinacota",
+        "ADMIN": "Secretar\u00eda Regional Ministerial de Vivienda y Urbanismo Regi\u00f3n de Arica y Parinacota",
+        "AMBITO": "Planificaci\u00f3n y propiedad",
+        "TEMATICA": "Planificaci\u00f3n",
+        "CUT": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.48155733519017,
+          -17.59481322931148
+        ]
+      },
+      "properties": {
+        "REGION": "Arica y Parinacota",
+        "CATEGORIA": "Indicativo",
+        "INFO": "Tratamiento prioritario de asentamientos poblados, PRDU",
+        "NOMBRE": "Visviri",
+        "INSTRUMENT": "Sin Instrumento",
+        "CONDICIO": "Asentamiento con tratamiento priorizado por Fragilidad o Vulnerabilidad",
+        "EMISOR": "Secretar\u00eda Regional Ministerial de Vivienda y Urbanismo Regi\u00f3n de Arica y Parinacota",
+        "ADMIN": "Secretar\u00eda Regional Ministerial de Vivienda y Urbanismo Regi\u00f3n de Arica y Parinacota",
+        "AMBITO": "Planificaci\u00f3n y propiedad",
+        "TEMATICA": "Planificaci\u00f3n",
+        "CUT": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.55920603969085,
+          -18.1963559604269
+        ]
+      },
+      "properties": {
+        "REGION": "Arica y Parinacota",
+        "CATEGORIA": "Indicativo",
+        "INFO": "Tratamiento prioritario de asentamientos poblados, PRDU",
+        "NOMBRE": "Putre",
+        "INSTRUMENT": "Sin Instrumento",
+        "CONDICIO": "Asentamiento con tratamiento priorizado por Potencialidad",
+        "EMISOR": "Secretar\u00eda Regional Ministerial de Vivienda y Urbanismo Regi\u00f3n de Arica y Parinacota",
+        "ADMIN": "Secretar\u00eda Regional Ministerial de Vivienda y Urbanismo Regi\u00f3n de Arica y Parinacota",
+        "AMBITO": "Planificaci\u00f3n y propiedad",
+        "TEMATICA": "Planificaci\u00f3n",
+        "CUT": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.55920603969085,
+          -18.1963559604269
+        ]
+      },
+      "properties": {
+        "REGION": "Arica y Parinacota",
+        "CATEGORIA": "Indicativo",
+        "INFO": "Tratamiento prioritario de asentamientos poblados, PRDU",
+        "NOMBRE": "Putre",
+        "INSTRUMENT": "Sin Instrumento",
+        "CONDICIO": "Asentamiento con tratamiento priorizado por Fragilidad o Vulnerabilidad",
+        "EMISOR": "Secretar\u00eda Regional Ministerial de Vivienda y Urbanismo Regi\u00f3n de Arica y Parinacota",
+        "ADMIN": "Secretar\u00eda Regional Ministerial de Vivienda y Urbanismo Regi\u00f3n de Arica y Parinacota",
+        "AMBITO": "Planificaci\u00f3n y propiedad",
+        "TEMATICA": "Planificaci\u00f3n",
+        "CUT": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.60202934566496,
+          -18.264044962588525
+        ]
+      },
+      "properties": {
+        "REGION": "Arica y Parinacota",
+        "CATEGORIA": "Indicativo",
+        "INFO": "Tratamiento prioritario de asentamientos poblados, PRDU",
+        "NOMBRE": "Socoroma",
+        "INSTRUMENT": "Sin Instrumento",
+        "CONDICIO": "Asentamiento con tratamiento priorizado por Potencialidad",
+        "EMISOR": "Secretar\u00eda Regional Ministerial de Vivienda y Urbanismo Regi\u00f3n de Arica y Parinacota",
+        "ADMIN": "Secretar\u00eda Regional Ministerial de Vivienda y Urbanismo Regi\u00f3n de Arica y Parinacota",
+        "AMBITO": "Planificaci\u00f3n y propiedad",
+        "TEMATICA": "Planificaci\u00f3n",
+        "CUT": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.60202934566496,
+          -18.264044962588525
+        ]
+      },
+      "properties": {
+        "REGION": "Arica y Parinacota",
+        "CATEGORIA": "Indicativo",
+        "INFO": "Tratamiento prioritario de asentamientos poblados, PRDU",
+        "NOMBRE": "Socoroma",
+        "INSTRUMENT": "Sin Instrumento",
+        "CONDICIO": "Asentamiento con tratamiento priorizado por Fragilidad o Vulnerabilidad",
+        "EMISOR": "Secretar\u00eda Regional Ministerial de Vivienda y Urbanismo Regi\u00f3n de Arica y Parinacota",
+        "ADMIN": "Secretar\u00eda Regional Ministerial de Vivienda y Urbanismo Regi\u00f3n de Arica y Parinacota",
+        "AMBITO": "Planificaci\u00f3n y propiedad",
+        "TEMATICA": "Planificaci\u00f3n",
+        "CUT": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.17910339561911,
+          -19.159886247087453
+        ]
+      },
+      "properties": {
+        "REGION": "Arica y Parinacota",
+        "CATEGORIA": "Indicativo",
+        "INFO": "Tratamiento prioritario de asentamientos poblados, PRDU",
+        "NOMBRE": "Cuya",
+        "INSTRUMENT": "Sin Instrumento",
+        "CONDICIO": "Asentamiento con tratamiento priorizado por Fragilidad o Vulnerabilidad",
+        "EMISOR": "Secretar\u00eda Regional Ministerial de Vivienda y Urbanismo Regi\u00f3n de Arica y Parinacota",
+        "ADMIN": "Secretar\u00eda Regional Ministerial de Vivienda y Urbanismo Regi\u00f3n de Arica y Parinacota",
+        "AMBITO": "Planificaci\u00f3n y propiedad",
+        "TEMATICA": "Planificaci\u00f3n",
+        "CUT": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.74479533929606,
+          -18.83279282149331
+        ]
+      },
+      "properties": {
+        "REGION": "Arica y Parinacota",
+        "CATEGORIA": "Indicativo",
+        "INFO": "Tratamiento prioritario de asentamientos poblados, PRDU",
+        "NOMBRE": "Codpa",
+        "INSTRUMENT": "Sin Instrumento",
+        "CONDICIO": "Asentamiento con tratamiento priorizado por Potencialidad",
+        "EMISOR": "Secretar\u00eda Regional Ministerial de Vivienda y Urbanismo Regi\u00f3n de Arica y Parinacota",
+        "ADMIN": "Secretar\u00eda Regional Ministerial de Vivienda y Urbanismo Regi\u00f3n de Arica y Parinacota",
+        "AMBITO": "Planificaci\u00f3n y propiedad",
+        "TEMATICA": "Planificaci\u00f3n",
+        "CUT": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.74479533929606,
+          -18.83279282149331
+        ]
+      },
+      "properties": {
+        "REGION": "Arica y Parinacota",
+        "CATEGORIA": "Indicativo",
+        "INFO": "Tratamiento prioritario de asentamientos poblados, PRDU",
+        "NOMBRE": "Codpa",
+        "INSTRUMENT": "Sin Instrumento",
+        "CONDICIO": "Asentamiento con tratamiento priorizado por Fragilidad o Vulnerabilidad",
+        "EMISOR": "Secretar\u00eda Regional Ministerial de Vivienda y Urbanismo Regi\u00f3n de Arica y Parinacota",
+        "ADMIN": "Secretar\u00eda Regional Ministerial de Vivienda y Urbanismo Regi\u00f3n de Arica y Parinacota",
+        "AMBITO": "Planificaci\u00f3n y propiedad",
+        "TEMATICA": "Planificaci\u00f3n",
+        "CUT": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.70949824405996,
+          -18.819112251727873
+        ]
+      },
+      "properties": {
+        "REGION": "Arica y Parinacota",
+        "CATEGORIA": "Indicativo",
+        "INFO": "Tratamiento prioritario de asentamientos poblados, PRDU",
+        "NOMBRE": "Gua\u00f1acagua",
+        "INSTRUMENT": "Sin Instrumento",
+        "CONDICIO": "Asentamiento con tratamiento priorizado por Potencialidad",
+        "EMISOR": "Secretar\u00eda Regional Ministerial de Vivienda y Urbanismo Regi\u00f3n de Arica y Parinacota",
+        "ADMIN": "Secretar\u00eda Regional Ministerial de Vivienda y Urbanismo Regi\u00f3n de Arica y Parinacota",
+        "AMBITO": "Planificaci\u00f3n y propiedad",
+        "TEMATICA": "Planificaci\u00f3n",
+        "CUT": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.70949824405996,
+          -18.819112251727873
+        ]
+      },
+      "properties": {
+        "REGION": "Arica y Parinacota",
+        "CATEGORIA": "Indicativo",
+        "INFO": "Tratamiento prioritario de asentamientos poblados, PRDU",
+        "NOMBRE": "Gua\u00f1acagua",
+        "INSTRUMENT": "Sin Instrumento",
+        "CONDICIO": "Asentamiento con tratamiento priorizado por Fragilidad o Vulnerabilidad",
+        "EMISOR": "Secretar\u00eda Regional Ministerial de Vivienda y Urbanismo Regi\u00f3n de Arica y Parinacota",
+        "ADMIN": "Secretar\u00eda Regional Ministerial de Vivienda y Urbanismo Regi\u00f3n de Arica y Parinacota",
+        "AMBITO": "Planificaci\u00f3n y propiedad",
+        "TEMATICA": "Planificaci\u00f3n",
+        "CUT": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.69150675557144,
+          -18.750657990163468
+        ]
+      },
+      "properties": {
+        "REGION": "Arica y Parinacota",
+        "CATEGORIA": "Indicativo",
+        "INFO": "Tratamiento prioritario de asentamientos poblados, PRDU",
+        "NOMBRE": "Timar",
+        "INSTRUMENT": "Sin Instrumento",
+        "CONDICIO": "Asentamiento con tratamiento priorizado por Potencialidad",
+        "EMISOR": "Secretar\u00eda Regional Ministerial de Vivienda y Urbanismo Regi\u00f3n de Arica y Parinacota",
+        "ADMIN": "Secretar\u00eda Regional Ministerial de Vivienda y Urbanismo Regi\u00f3n de Arica y Parinacota",
+        "AMBITO": "Planificaci\u00f3n y propiedad",
+        "TEMATICA": "Planificaci\u00f3n",
+        "CUT": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.69150675557144,
+          -18.750657990163468
+        ]
+      },
+      "properties": {
+        "REGION": "Arica y Parinacota",
+        "CATEGORIA": "Indicativo",
+        "INFO": "Tratamiento prioritario de asentamientos poblados, PRDU",
+        "NOMBRE": "Timar",
+        "INSTRUMENT": "Sin Instrumento",
+        "CONDICIO": "Asentamiento con tratamiento priorizado por Fragilidad o Vulnerabilidad",
+        "EMISOR": "Secretar\u00eda Regional Ministerial de Vivienda y Urbanismo Regi\u00f3n de Arica y Parinacota",
+        "ADMIN": "Secretar\u00eda Regional Ministerial de Vivienda y Urbanismo Regi\u00f3n de Arica y Parinacota",
+        "AMBITO": "Planificaci\u00f3n y propiedad",
+        "TEMATICA": "Planificaci\u00f3n",
+        "CUT": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.26803870909175,
+          -18.2017443471164
+        ]
+      },
+      "properties": {
+        "REGION": "Arica y Parinacota",
+        "CATEGORIA": "Indicativo",
+        "INFO": "Tratamiento prioritario de asentamientos poblados, PRDU",
+        "NOMBRE": "Parinacota",
+        "INSTRUMENT": "Sin Instrumento",
+        "CONDICIO": "Asentamiento con tratamiento priorizado por Fragilidad o Vulnerabilidad",
+        "EMISOR": "Secretar\u00eda Regional Ministerial de Vivienda y Urbanismo Regi\u00f3n de Arica y Parinacota",
+        "ADMIN": "Secretar\u00eda Regional Ministerial de Vivienda y Urbanismo Regi\u00f3n de Arica y Parinacota",
+        "AMBITO": "Planificaci\u00f3n y propiedad",
+        "TEMATICA": "Planificaci\u00f3n",
+        "CUT": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.59437540398824,
+          -18.334621104694225
+        ]
+      },
+      "properties": {
+        "REGION": "Arica y Parinacota",
+        "CATEGORIA": "Indicativo",
+        "INFO": "Tratamiento prioritario de asentamientos poblados, PRDU",
+        "NOMBRE": "Zapahuira",
+        "INSTRUMENT": "Sin Instrumento",
+        "CONDICIO": "Asentamiento con tratamiento priorizado por Potencialidad",
+        "EMISOR": "Secretar\u00eda Regional Ministerial de Vivienda y Urbanismo Regi\u00f3n de Arica y Parinacota",
+        "ADMIN": "Secretar\u00eda Regional Ministerial de Vivienda y Urbanismo Regi\u00f3n de Arica y Parinacota",
+        "AMBITO": "Planificaci\u00f3n y propiedad",
+        "TEMATICA": "Planificaci\u00f3n",
+        "CUT": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.59437540398824,
+          -18.334621104694225
+        ]
+      },
+      "properties": {
+        "REGION": "Arica y Parinacota",
+        "CATEGORIA": "Indicativo",
+        "INFO": "Tratamiento prioritario de asentamientos poblados, PRDU",
+        "NOMBRE": "Zapahuira",
+        "INSTRUMENT": "Sin Instrumento",
+        "CONDICIO": "Asentamiento con tratamiento priorizado por Fragilidad o Vulnerabilidad",
+        "EMISOR": "Secretar\u00eda Regional Ministerial de Vivienda y Urbanismo Regi\u00f3n de Arica y Parinacota",
+        "ADMIN": "Secretar\u00eda Regional Ministerial de Vivienda y Urbanismo Regi\u00f3n de Arica y Parinacota",
+        "AMBITO": "Planificaci\u00f3n y propiedad",
+        "TEMATICA": "Planificaci\u00f3n",
+        "CUT": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.53624944323322,
+          -18.394879753240478
+        ]
+      },
+      "properties": {
+        "REGION": "Arica y Parinacota",
+        "CATEGORIA": "Indicativo",
+        "INFO": "Tratamiento prioritario de asentamientos poblados, PRDU",
+        "NOMBRE": "Chapiqui\u00f1a",
+        "INSTRUMENT": "Sin Instrumento",
+        "CONDICIO": "Asentamiento con tratamiento priorizado por Potencialidad",
+        "EMISOR": "Secretar\u00eda Regional Ministerial de Vivienda y Urbanismo Regi\u00f3n de Arica y Parinacota",
+        "ADMIN": "Secretar\u00eda Regional Ministerial de Vivienda y Urbanismo Regi\u00f3n de Arica y Parinacota",
+        "AMBITO": "Planificaci\u00f3n y propiedad",
+        "TEMATICA": "Planificaci\u00f3n",
+        "CUT": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.53624944323322,
+          -18.394879753240478
+        ]
+      },
+      "properties": {
+        "REGION": "Arica y Parinacota",
+        "CATEGORIA": "Indicativo",
+        "INFO": "Tratamiento prioritario de asentamientos poblados, PRDU",
+        "NOMBRE": "Chapiqui\u00f1a",
+        "INSTRUMENT": "Sin Instrumento",
+        "CONDICIO": "Asentamiento con tratamiento priorizado por Fragilidad o Vulnerabilidad",
+        "EMISOR": "Secretar\u00eda Regional Ministerial de Vivienda y Urbanismo Regi\u00f3n de Arica y Parinacota",
+        "ADMIN": "Secretar\u00eda Regional Ministerial de Vivienda y Urbanismo Regi\u00f3n de Arica y Parinacota",
+        "AMBITO": "Planificaci\u00f3n y propiedad",
+        "TEMATICA": "Planificaci\u00f3n",
+        "CUT": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.52902463419481,
+          -18.42971701053384
+        ]
+      },
+      "properties": {
+        "REGION": "Arica y Parinacota",
+        "CATEGORIA": "Indicativo",
+        "INFO": "Tratamiento prioritario de asentamientos poblados, PRDU",
+        "NOMBRE": "Pachama",
+        "INSTRUMENT": "Sin Instrumento",
+        "CONDICIO": "Asentamiento con tratamiento priorizado por Potencialidad",
+        "EMISOR": "Secretar\u00eda Regional Ministerial de Vivienda y Urbanismo Regi\u00f3n de Arica y Parinacota",
+        "ADMIN": "Secretar\u00eda Regional Ministerial de Vivienda y Urbanismo Regi\u00f3n de Arica y Parinacota",
+        "AMBITO": "Planificaci\u00f3n y propiedad",
+        "TEMATICA": "Planificaci\u00f3n",
+        "CUT": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.52902463419481,
+          -18.42971701053384
+        ]
+      },
+      "properties": {
+        "REGION": "Arica y Parinacota",
+        "CATEGORIA": "Indicativo",
+        "INFO": "Tratamiento prioritario de asentamientos poblados, PRDU",
+        "NOMBRE": "Pachama",
+        "INSTRUMENT": "Sin Instrumento",
+        "CONDICIO": "Asentamiento con tratamiento priorizado por Fragilidad o Vulnerabilidad",
+        "EMISOR": "Secretar\u00eda Regional Ministerial de Vivienda y Urbanismo Regi\u00f3n de Arica y Parinacota",
+        "ADMIN": "Secretar\u00eda Regional Ministerial de Vivienda y Urbanismo Regi\u00f3n de Arica y Parinacota",
+        "AMBITO": "Planificaci\u00f3n y propiedad",
+        "TEMATICA": "Planificaci\u00f3n",
+        "CUT": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.51491479950553,
+          -18.467725946444276
+        ]
+      },
+      "properties": {
+        "REGION": "Arica y Parinacota",
+        "CATEGORIA": "Indicativo",
+        "INFO": "Tratamiento prioritario de asentamientos poblados, PRDU",
+        "NOMBRE": "Belen",
+        "INSTRUMENT": "Sin Instrumento",
+        "CONDICIO": "Asentamiento con tratamiento priorizado por Potencialidad",
+        "EMISOR": "Secretar\u00eda Regional Ministerial de Vivienda y Urbanismo Regi\u00f3n de Arica y Parinacota",
+        "ADMIN": "Secretar\u00eda Regional Ministerial de Vivienda y Urbanismo Regi\u00f3n de Arica y Parinacota",
+        "AMBITO": "Planificaci\u00f3n y propiedad",
+        "TEMATICA": "Planificaci\u00f3n",
+        "CUT": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.51491479950553,
+          -18.467725946444276
+        ]
+      },
+      "properties": {
+        "REGION": "Arica y Parinacota",
+        "CATEGORIA": "Indicativo",
+        "INFO": "Tratamiento prioritario de asentamientos poblados, PRDU",
+        "NOMBRE": "Belen",
+        "INSTRUMENT": "Sin Instrumento",
+        "CONDICIO": "Asentamiento con tratamiento priorizado por Fragilidad o Vulnerabilidad",
+        "EMISOR": "Secretar\u00eda Regional Ministerial de Vivienda y Urbanismo Regi\u00f3n de Arica y Parinacota",
+        "ADMIN": "Secretar\u00eda Regional Ministerial de Vivienda y Urbanismo Regi\u00f3n de Arica y Parinacota",
+        "AMBITO": "Planificaci\u00f3n y propiedad",
+        "TEMATICA": "Planificaci\u00f3n",
+        "CUT": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.49949214744498,
+          -18.547843110015712
+        ]
+      },
+      "properties": {
+        "REGION": "Arica y Parinacota",
+        "CATEGORIA": "Indicativo",
+        "INFO": "Tratamiento prioritario de asentamientos poblados, PRDU",
+        "NOMBRE": "Saxamar",
+        "INSTRUMENT": "Sin Instrumento",
+        "CONDICIO": "Asentamiento con tratamiento priorizado por Potencialidad",
+        "EMISOR": "Secretar\u00eda Regional Ministerial de Vivienda y Urbanismo Regi\u00f3n de Arica y Parinacota",
+        "ADMIN": "Secretar\u00eda Regional Ministerial de Vivienda y Urbanismo Regi\u00f3n de Arica y Parinacota",
+        "AMBITO": "Planificaci\u00f3n y propiedad",
+        "TEMATICA": "Planificaci\u00f3n",
+        "CUT": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.49949214744498,
+          -18.547843110015712
+        ]
+      },
+      "properties": {
+        "REGION": "Arica y Parinacota",
+        "CATEGORIA": "Indicativo",
+        "INFO": "Tratamiento prioritario de asentamientos poblados, PRDU",
+        "NOMBRE": "Saxamar",
+        "INSTRUMENT": "Sin Instrumento",
+        "CONDICIO": "Asentamiento con tratamiento priorizado por Fragilidad o Vulnerabilidad",
+        "EMISOR": "Secretar\u00eda Regional Ministerial de Vivienda y Urbanismo Regi\u00f3n de Arica y Parinacota",
+        "ADMIN": "Secretar\u00eda Regional Ministerial de Vivienda y Urbanismo Regi\u00f3n de Arica y Parinacota",
+        "AMBITO": "Planificaci\u00f3n y propiedad",
+        "TEMATICA": "Planificaci\u00f3n",
+        "CUT": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.49380022502753,
+          -18.58093568413206
+        ]
+      },
+      "properties": {
+        "REGION": "Arica y Parinacota",
+        "CATEGORIA": "Indicativo",
+        "INFO": "Tratamiento prioritario de asentamientos poblados, PRDU",
+        "NOMBRE": "Ticnamar",
+        "INSTRUMENT": "Sin Instrumento",
+        "CONDICIO": "Asentamiento con tratamiento priorizado por Potencialidad",
+        "EMISOR": "Secretar\u00eda Regional Ministerial de Vivienda y Urbanismo Regi\u00f3n de Arica y Parinacota",
+        "ADMIN": "Secretar\u00eda Regional Ministerial de Vivienda y Urbanismo Regi\u00f3n de Arica y Parinacota",
+        "AMBITO": "Planificaci\u00f3n y propiedad",
+        "TEMATICA": "Planificaci\u00f3n",
+        "CUT": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.49380022502753,
+          -18.58093568413206
+        ]
+      },
+      "properties": {
+        "REGION": "Arica y Parinacota",
+        "CATEGORIA": "Indicativo",
+        "INFO": "Tratamiento prioritario de asentamientos poblados, PRDU",
+        "NOMBRE": "Ticnamar",
+        "INSTRUMENT": "Sin Instrumento",
+        "CONDICIO": "Asentamiento con tratamiento priorizado por Fragilidad o Vulnerabilidad",
+        "EMISOR": "Secretar\u00eda Regional Ministerial de Vivienda y Urbanismo Regi\u00f3n de Arica y Parinacota",
+        "ADMIN": "Secretar\u00eda Regional Ministerial de Vivienda y Urbanismo Regi\u00f3n de Arica y Parinacota",
+        "AMBITO": "Planificaci\u00f3n y propiedad",
+        "TEMATICA": "Planificaci\u00f3n",
+        "CUT": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.41251560589686,
+          -17.767815365859143
+        ]
+      },
+      "properties": {
+        "REGION": "Arica y Parinacota",
+        "CATEGORIA": "Indicativo",
+        "INFO": "Tratamiento prioritario de asentamientos poblados, PRDU",
+        "NOMBRE": "Cosapilla",
+        "INSTRUMENT": "Sin Instrumento",
+        "CONDICIO": "Asentamiento con tratamiento priorizado por Fragilidad o Vulnerabilidad",
+        "EMISOR": "Secretar\u00eda Regional Ministerial de Vivienda y Urbanismo Regi\u00f3n de Arica y Parinacota",
+        "ADMIN": "Secretar\u00eda Regional Ministerial de Vivienda y Urbanismo Regi\u00f3n de Arica y Parinacota",
+        "AMBITO": "Planificaci\u00f3n y propiedad",
+        "TEMATICA": "Planificaci\u00f3n",
+        "CUT": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.3446286986736,
+          -17.759367551389953
+        ]
+      },
+      "properties": {
+        "REGION": "Arica y Parinacota",
+        "CATEGORIA": "Indicativo",
+        "INFO": "Tratamiento prioritario de asentamientos poblados, PRDU",
+        "NOMBRE": "Guacollo",
+        "INSTRUMENT": "Sin Instrumento",
+        "CONDICIO": "Asentamiento con tratamiento priorizado por Fragilidad o Vulnerabilidad",
+        "EMISOR": "Secretar\u00eda Regional Ministerial de Vivienda y Urbanismo Regi\u00f3n de Arica y Parinacota",
+        "ADMIN": "Secretar\u00eda Regional Ministerial de Vivienda y Urbanismo Regi\u00f3n de Arica y Parinacota",
+        "AMBITO": "Planificaci\u00f3n y propiedad",
+        "TEMATICA": "Planificaci\u00f3n",
+        "CUT": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.32533065323956,
+          -17.870436082646442
+        ]
+      },
+      "properties": {
+        "REGION": "Arica y Parinacota",
+        "CATEGORIA": "Indicativo",
+        "INFO": "Tratamiento prioritario de asentamientos poblados, PRDU",
+        "NOMBRE": "Ancopuju",
+        "INSTRUMENT": "Sin Instrumento",
+        "CONDICIO": "Asentamiento con tratamiento priorizado por Fragilidad o Vulnerabilidad",
+        "EMISOR": "Secretar\u00eda Regional Ministerial de Vivienda y Urbanismo Regi\u00f3n de Arica y Parinacota",
+        "ADMIN": "Secretar\u00eda Regional Ministerial de Vivienda y Urbanismo Regi\u00f3n de Arica y Parinacota",
+        "AMBITO": "Planificaci\u00f3n y propiedad",
+        "TEMATICA": "Planificaci\u00f3n",
+        "CUT": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.34897332124424,
+          -17.899824774376324
+        ]
+      },
+      "properties": {
+        "REGION": "Arica y Parinacota",
+        "CATEGORIA": "Indicativo",
+        "INFO": "Tratamiento prioritario de asentamientos poblados, PRDU",
+        "NOMBRE": "Chujlluta",
+        "INSTRUMENT": "Sin Instrumento",
+        "CONDICIO": "Asentamiento con tratamiento priorizado por Fragilidad o Vulnerabilidad",
+        "EMISOR": "Secretar\u00eda Regional Ministerial de Vivienda y Urbanismo Regi\u00f3n de Arica y Parinacota",
+        "ADMIN": "Secretar\u00eda Regional Ministerial de Vivienda y Urbanismo Regi\u00f3n de Arica y Parinacota",
+        "AMBITO": "Planificaci\u00f3n y propiedad",
+        "TEMATICA": "Planificaci\u00f3n",
+        "CUT": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.20105846041704,
+          -18.054791007006195
+        ]
+      },
+      "properties": {
+        "REGION": "Arica y Parinacota",
+        "CATEGORIA": "Indicativo",
+        "INFO": "Tratamiento prioritario de asentamientos poblados, PRDU",
+        "NOMBRE": "Caquena",
+        "INSTRUMENT": "Sin Instrumento",
+        "CONDICIO": "Asentamiento con tratamiento priorizado por Fragilidad o Vulnerabilidad",
+        "EMISOR": "Secretar\u00eda Regional Ministerial de Vivienda y Urbanismo Regi\u00f3n de Arica y Parinacota",
+        "ADMIN": "Secretar\u00eda Regional Ministerial de Vivienda y Urbanismo Regi\u00f3n de Arica y Parinacota",
+        "AMBITO": "Planificaci\u00f3n y propiedad",
+        "TEMATICA": "Planificaci\u00f3n",
+        "CUT": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.1537650079207,
+          -18.498019793647195
+        ]
+      },
+      "properties": {
+        "REGION": "Arica y Parinacota",
+        "CATEGORIA": "Indicativo",
+        "INFO": "Tratamiento prioritario de asentamientos poblados, PRDU",
+        "NOMBRE": "Guallatire",
+        "INSTRUMENT": "Sin Instrumento",
+        "CONDICIO": "Asentamiento con tratamiento priorizado por Fragilidad o Vulnerabilidad",
+        "EMISOR": "Secretar\u00eda Regional Ministerial de Vivienda y Urbanismo Regi\u00f3n de Arica y Parinacota",
+        "ADMIN": "Secretar\u00eda Regional Ministerial de Vivienda y Urbanismo Regi\u00f3n de Arica y Parinacota",
+        "AMBITO": "Planificaci\u00f3n y propiedad",
+        "TEMATICA": "Planificaci\u00f3n",
+        "CUT": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.85992610995865,
+          -19.01045361681506
+        ]
+      },
+      "properties": {
+        "REGION": "Arica y Parinacota",
+        "CATEGORIA": "Indicativo",
+        "INFO": "Tratamiento prioritario de asentamientos poblados, PRDU",
+        "NOMBRE": "Camarones",
+        "INSTRUMENT": "Sin Instrumento",
+        "CONDICIO": "Asentamiento con tratamiento priorizado por Fragilidad o Vulnerabilidad",
+        "EMISOR": "Secretar\u00eda Regional Ministerial de Vivienda y Urbanismo Regi\u00f3n de Arica y Parinacota",
+        "ADMIN": "Secretar\u00eda Regional Ministerial de Vivienda y Urbanismo Regi\u00f3n de Arica y Parinacota",
+        "AMBITO": "Planificaci\u00f3n y propiedad",
+        "TEMATICA": "Planificaci\u00f3n",
+        "CUT": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.53050327674738,
+          -18.936198316147102
+        ]
+      },
+      "properties": {
+        "REGION": "Arica y Parinacota",
+        "CATEGORIA": "Indicativo",
+        "INFO": "Tratamiento prioritario de asentamientos poblados, PRDU",
+        "NOMBRE": "Esqui\u00f1a",
+        "INSTRUMENT": "Sin Instrumento",
+        "CONDICIO": "Asentamiento con tratamiento priorizado por Fragilidad o Vulnerabilidad",
+        "EMISOR": "Secretar\u00eda Regional Ministerial de Vivienda y Urbanismo Regi\u00f3n de Arica y Parinacota",
+        "ADMIN": "Secretar\u00eda Regional Ministerial de Vivienda y Urbanismo Regi\u00f3n de Arica y Parinacota",
+        "AMBITO": "Planificaci\u00f3n y propiedad",
+        "TEMATICA": "Planificaci\u00f3n",
+        "CUT": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.50383582389334,
+          -18.9496616733801
+        ]
+      },
+      "properties": {
+        "REGION": "Arica y Parinacota",
+        "CATEGORIA": "Indicativo",
+        "INFO": "Tratamiento prioritario de asentamientos poblados, PRDU",
+        "NOMBRE": "Illapata",
+        "INSTRUMENT": "Sin Instrumento",
+        "CONDICIO": "Asentamiento con tratamiento priorizado por Fragilidad o Vulnerabilidad",
+        "EMISOR": "Secretar\u00eda Regional Ministerial de Vivienda y Urbanismo Regi\u00f3n de Arica y Parinacota",
+        "ADMIN": "Secretar\u00eda Regional Ministerial de Vivienda y Urbanismo Regi\u00f3n de Arica y Parinacota",
+        "AMBITO": "Planificaci\u00f3n y propiedad",
+        "TEMATICA": "Planificaci\u00f3n",
+        "CUT": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.21293656781478,
+          -18.87781887955142
+        ]
+      },
+      "properties": {
+        "REGION": "Arica y Parinacota",
+        "CATEGORIA": "Indicativo",
+        "INFO": "Tratamiento prioritario de asentamientos poblados, PRDU",
+        "NOMBRE": "Parcohaylla",
+        "INSTRUMENT": "Sin Instrumento",
+        "CONDICIO": "Asentamiento con tratamiento priorizado por Fragilidad o Vulnerabilidad",
+        "EMISOR": "Secretar\u00eda Regional Ministerial de Vivienda y Urbanismo Regi\u00f3n de Arica y Parinacota",
+        "ADMIN": "Secretar\u00eda Regional Ministerial de Vivienda y Urbanismo Regi\u00f3n de Arica y Parinacota",
+        "AMBITO": "Planificaci\u00f3n y propiedad",
+        "TEMATICA": "Planificaci\u00f3n",
+        "CUT": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.48156054050146,
+          -17.59470720960694
+        ]
+      },
+      "properties": {
+        "REGION": "Arica y Parinacota",
+        "CATEGORIA": "Indicativo",
+        "INFO": "Tratamiento prioritario de asentamientos poblados, PRDU",
+        "NOMBRE": "Visviri",
+        "INSTRUMENT": "Sin Instrumento",
+        "CONDICIO": "Asentamiento con tratamiento priorizado por Centralidad Funcional",
+        "EMISOR": "Secretar\u00eda Regional Ministerial de Vivienda y Urbanismo Regi\u00f3n de Arica y Parinacota",
+        "ADMIN": "Secretar\u00eda Regional Ministerial de Vivienda y Urbanismo Regi\u00f3n de Arica y Parinacota",
+        "AMBITO": "Planificaci\u00f3n y propiedad",
+        "TEMATICA": "Planificaci\u00f3n",
+        "CUT": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.55920603969085,
+          -18.1963559604269
+        ]
+      },
+      "properties": {
+        "REGION": "Arica y Parinacota",
+        "CATEGORIA": "Indicativo",
+        "INFO": "Tratamiento prioritario de asentamientos poblados, PRDU",
+        "NOMBRE": "Putre",
+        "INSTRUMENT": "Sin Instrumento",
+        "CONDICIO": "Asentamiento con tratamiento priorizado por Centralidad Funcional",
+        "EMISOR": "Secretar\u00eda Regional Ministerial de Vivienda y Urbanismo Regi\u00f3n de Arica y Parinacota",
+        "ADMIN": "Secretar\u00eda Regional Ministerial de Vivienda y Urbanismo Regi\u00f3n de Arica y Parinacota",
+        "AMBITO": "Planificaci\u00f3n y propiedad",
+        "TEMATICA": "Planificaci\u00f3n",
+        "CUT": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.17910339561911,
+          -19.159886247087453
+        ]
+      },
+      "properties": {
+        "REGION": "Arica y Parinacota",
+        "CATEGORIA": "Indicativo",
+        "INFO": "Tratamiento prioritario de asentamientos poblados, PRDU",
+        "NOMBRE": "Cuya",
+        "INSTRUMENT": "Sin Instrumento",
+        "CONDICIO": "Asentamiento con tratamiento priorizado por Centralidad Funcional",
+        "EMISOR": "Secretar\u00eda Regional Ministerial de Vivienda y Urbanismo Regi\u00f3n de Arica y Parinacota",
+        "ADMIN": "Secretar\u00eda Regional Ministerial de Vivienda y Urbanismo Regi\u00f3n de Arica y Parinacota",
+        "AMBITO": "Planificaci\u00f3n y propiedad",
+        "TEMATICA": "Planificaci\u00f3n",
+        "CUT": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.74479533929606,
+          -18.83279282149331
+        ]
+      },
+      "properties": {
+        "REGION": "Arica y Parinacota",
+        "CATEGORIA": "Indicativo",
+        "INFO": "Tratamiento prioritario de asentamientos poblados, PRDU",
+        "NOMBRE": "Codpa",
+        "INSTRUMENT": "Sin Instrumento",
+        "CONDICIO": "Asentamiento con tratamiento priorizado por Centralidad Funcional",
+        "EMISOR": "Secretar\u00eda Regional Ministerial de Vivienda y Urbanismo Regi\u00f3n de Arica y Parinacota",
+        "ADMIN": "Secretar\u00eda Regional Ministerial de Vivienda y Urbanismo Regi\u00f3n de Arica y Parinacota",
+        "AMBITO": "Planificaci\u00f3n y propiedad",
+        "TEMATICA": "Planificaci\u00f3n",
+        "CUT": ""
+      }
+    }
+  ]
+}

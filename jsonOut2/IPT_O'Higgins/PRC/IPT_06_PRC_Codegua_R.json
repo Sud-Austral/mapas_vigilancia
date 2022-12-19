@@ -1,0 +1,435 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -70.67386172136575,
+              -34.047470226296575
+            ],
+            [
+              -70.67397997789644,
+              -34.04615857807152
+            ],
+            [
+              -70.67404362800274,
+              -34.04542566557556
+            ],
+            [
+              -70.67359519301075,
+              -34.04538035894081
+            ],
+            [
+              -70.67357356721475,
+              -34.045655026030346
+            ],
+            [
+              -70.6735375227174,
+              -34.046112812921244
+            ],
+            [
+              -70.6735503100023,
+              -34.04611415192533
+            ],
+            [
+              -70.67355018579316,
+              -34.046115879548026
+            ],
+            [
+              -70.67344046314594,
+              -34.047355520927944
+            ],
+            [
+              -70.67333551108777,
+              -34.04854868541138
+            ],
+            [
+              -70.67333495906992,
+              -34.04854948104818
+            ],
+            [
+              -70.67327886631,
+              -34.04900347652349
+            ],
+            [
+              -70.67374449289892,
+              -34.049125664867795
+            ],
+            [
+              -70.6737598274048,
+              -34.04866545945061
+            ],
+            [
+              -70.67375737419897,
+              -34.0486590354985
+            ],
+            [
+              -70.67386172136575,
+              -34.047470226296575
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "Shape_Leng": 902.246671411,
+        "Shape_Area": 16428.1416791,
+        "REG": "O'Higgins",
+        "COM": "Codegua",
+        "LOC": "Codegua",
+        "ZONA": "PLAT",
+        "NOM": "Faja Protecci\u00f3n L\u00ednea Alta Tensi\u00f3n",
+        "UPERM": "Se ubican en la Localidad de Codegua y La Compa\u00f1\u00eda. Corresponden a las fajas de protecci\u00f3n L\u00ednea Alta Tensi\u00f3n, regidas por el ordenamiento jur\u00eddico vigente.",
+        "UPROH": "Para mayor nivel de detalle consultar ordenanza local",
+        "P_DO": "29/08/2018",
+        "N_DOC": "28",
+        "T_DO": "Decreto",
+        "OBS": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -70.66977788379529,
+              -34.031075372335486
+            ],
+            [
+              -70.66761259928938,
+              -34.03097684811322
+            ],
+            [
+              -70.6674819134461,
+              -34.03309494967755
+            ],
+            [
+              -70.66821586070078,
+              -34.03310764720392
+            ],
+            [
+              -70.66807340330858,
+              -34.03455140631979
+            ],
+            [
+              -70.66793138446893,
+              -34.03569874267007
+            ],
+            [
+              -70.66841321086704,
+              -34.03570891956459
+            ],
+            [
+              -70.66902285421314,
+              -34.035893790558085
+            ],
+            [
+              -70.66922156162995,
+              -34.033367823877064
+            ],
+            [
+              -70.66962711938092,
+              -34.033465777703604
+            ],
+            [
+              -70.66977788379529,
+              -34.031075372335486
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "Shape_Leng": 1481.50785669,
+        "Shape_Area": 76279.4194453,
+        "REG": "O'Higgins",
+        "COM": "Codegua",
+        "LOC": "Codegua",
+        "ZONA": "RI-1",
+        "NOM": "\u00c1rea Riesgo Inundaci\u00f3n",
+        "UPERM": "Una vez que cumplan con lo dispuesto en la OGUC referente a la presentaci\u00f3n de estudios fundados que determinen las acciones que deber\u00e1n ejecutarse para su utilizaci\u00f3n, podr\u00e1n aplicar las normas urban\u00edsticas establecidas en la respectiva zona en que",
+        "UPROH": "Para mayor nivel de detalle consultar ordenanza local",
+        "P_DO": "29/08/2018",
+        "N_DOC": "28",
+        "T_DO": "Decreto",
+        "OBS": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -70.66195189574496,
+              -34.03432650577459
+            ],
+            [
+              -70.66124378408384,
+              -34.03427439073503
+            ],
+            [
+              -70.66140510724782,
+              -34.03540121042431
+            ],
+            [
+              -70.6655563149714,
+              -34.03567145295669
+            ],
+            [
+              -70.6679410156671,
+              -34.03569862641454
+            ],
+            [
+              -70.66796846205686,
+              -34.03527369538466
+            ],
+            [
+              -70.66203915218146,
+              -34.034952929111675
+            ],
+            [
+              -70.66195189574496,
+              -34.03432650577459
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "Shape_Leng": 1461.98091967,
+        "Shape_Area": 37913.33993,
+        "REG": "O'Higgins",
+        "COM": "Codegua",
+        "LOC": "Codegua",
+        "ZONA": "RI-1",
+        "NOM": "\u00c1rea Riesgo Inundaci\u00f3n",
+        "UPERM": "Una vez que cumplan con lo dispuesto en la OGUC referente a la presentaci\u00f3n de estudios fundados que determinen las acciones que deber\u00e1n ejecutarse para su utilizaci\u00f3n, podr\u00e1n aplicar las normas urban\u00edsticas establecidas en la respectiva zona en que",
+        "UPROH": "Para mayor nivel de detalle consultar ordenanza local",
+        "P_DO": "29/08/2018",
+        "N_DOC": "28",
+        "T_DO": "Decreto",
+        "OBS": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -70.65864724972685,
+              -34.034127306795966
+            ],
+            [
+              -70.65736757457633,
+              -34.03406991384626
+            ],
+            [
+              -70.65522861436875,
+              -34.03396826639221
+            ],
+            [
+              -70.65511143148451,
+              -34.03396264827593
+            ],
+            [
+              -70.65523326455852,
+              -34.03475151924448
+            ],
+            [
+              -70.65769205865152,
+              -34.03490618119774
+            ],
+            [
+              -70.65879125310614,
+              -34.03497304604495
+            ],
+            [
+              -70.65864724972685,
+              -34.034127306795966
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "Shape_Leng": 839.404111304,
+        "Shape_Area": 29413.6337238,
+        "REG": "O'Higgins",
+        "COM": "Codegua",
+        "LOC": "Codegua",
+        "ZONA": "RI-1",
+        "NOM": "\u00c1rea Riesgo Inundaci\u00f3n",
+        "UPERM": "Una vez que cumplan con lo dispuesto en la OGUC referente a la presentaci\u00f3n de estudios fundados que determinen las acciones que deber\u00e1n ejecutarse para su utilizaci\u00f3n, podr\u00e1n aplicar las normas urban\u00edsticas establecidas en la respectiva zona en que",
+        "UPROH": "Para mayor nivel de detalle consultar ordenanza local",
+        "P_DO": "29/08/2018",
+        "N_DOC": "28",
+        "T_DO": "Decreto",
+        "OBS": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -70.6373420431231,
+              -34.035430514988754
+            ],
+            [
+              -70.63732828127368,
+              -34.03660496188927
+            ],
+            [
+              -70.64074579389265,
+              -34.03619772273553
+            ],
+            [
+              -70.64381822835566,
+              -34.03581660446579
+            ],
+            [
+              -70.64401109874989,
+              -34.035830325139365
+            ],
+            [
+              -70.64464993931607,
+              -34.03603900410736
+            ],
+            [
+              -70.64511941034245,
+              -34.036193622505
+            ],
+            [
+              -70.6456131950442,
+              -34.0363639718924
+            ],
+            [
+              -70.64561550346149,
+              -34.03496061925498
+            ],
+            [
+              -70.64478626438675,
+              -34.03473768703328
+            ],
+            [
+              -70.64404907362396,
+              -34.03459533362632
+            ],
+            [
+              -70.64344440522065,
+              -34.034598018483834
+            ],
+            [
+              -70.64148161358396,
+              -34.03485536167017
+            ],
+            [
+              -70.63756721466501,
+              -34.03540192215215
+            ],
+            [
+              -70.6373420431231,
+              -34.035430514988754
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "Shape_Leng": 1845.87818251,
+        "Shape_Area": 105855.494575,
+        "REG": "O'Higgins",
+        "COM": "Codegua",
+        "LOC": "Codegua",
+        "ZONA": "RI-1",
+        "NOM": "\u00c1rea Riesgo Inundaci\u00f3n",
+        "UPERM": "Una vez que cumplan con lo dispuesto en la OGUC referente a la presentaci\u00f3n de estudios fundados que determinen las acciones que deber\u00e1n ejecutarse para su utilizaci\u00f3n, podr\u00e1n aplicar las normas urban\u00edsticas establecidas en la respectiva zona en que",
+        "UPROH": "Para mayor nivel de detalle consultar ordenanza local",
+        "P_DO": "29/08/2018",
+        "N_DOC": "28",
+        "T_DO": "Decreto",
+        "OBS": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -70.66202869842478,
+              -34.04694620491181
+            ],
+            [
+              -70.66126615202262,
+              -34.0468245433783
+            ],
+            [
+              -70.66103932805139,
+              -34.04666929911537
+            ],
+            [
+              -70.66052404432736,
+              -34.04649994958823
+            ],
+            [
+              -70.65982817705104,
+              -34.046357859008786
+            ],
+            [
+              -70.65928420965885,
+              -34.046289177106814
+            ],
+            [
+              -70.65901277757216,
+              -34.04629245167629
+            ],
+            [
+              -70.65784023148352,
+              -34.04627989178216
+            ],
+            [
+              -70.65785725693331,
+              -34.04628326279268
+            ],
+            [
+              -70.66196668841172,
+              -34.04708612098235
+            ],
+            [
+              -70.66200646402586,
+              -34.047001328815085
+            ],
+            [
+              -70.66202869842478,
+              -34.04694620491181
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "Shape_Leng": 808.082085661,
+        "Shape_Area": 8672.7604286,
+        "REG": "O'Higgins",
+        "COM": "Codegua",
+        "LOC": "Codegua",
+        "ZONA": "RI-1",
+        "NOM": "\u00c1rea Riesgo Inundaci\u00f3n",
+        "UPERM": "Una vez que cumplan con lo dispuesto en la OGUC referente a la presentaci\u00f3n de estudios fundados que determinen las acciones que deber\u00e1n ejecutarse para su utilizaci\u00f3n, podr\u00e1n aplicar las normas urban\u00edsticas establecidas en la respectiva zona en que",
+        "UPROH": "Para mayor nivel de detalle consultar ordenanza local",
+        "P_DO": "29/08/2018",
+        "N_DOC": "28",
+        "T_DO": "Decreto",
+        "OBS": ""
+      }
+    }
+  ]
+}
